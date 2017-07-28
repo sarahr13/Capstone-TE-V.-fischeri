@@ -1,0 +1,58 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+312309	Vibrio fischeri ES114	3281051	0	live	VF_B0001	VF_B0001, VFB01	hypothetical protein				NC_006842.1	14	310	minus	0		
+312309	Vibrio fischeri ES114	3281049	0	live	VF_B0002	VF_B0002, VFB02	DNA primase TraC				NC_006842.1	655	1638	minus	0		
+312309	Vibrio fischeri ES114	3281054	0	live	VF_B0003	VF_B0003, VFB03	hypothetical protein				NC_006842.1	2274	2723	minus	0		
+312309	Vibrio fischeri ES114	3281053	0	live	VF_B0004	VF_B0004, VFB04	hypothetical protein				NC_006842.1	2743	3072	minus	0		
+312309	Vibrio fischeri ES114	3281023	0	live	VF_B0005	VF_B0005, VFB05	hypothetical protein				NC_006842.1	3075	3266	minus	0		
+312309	Vibrio fischeri ES114	3281024	0	live	VF_B0006	VF_B0006, VFB06	hypothetical protein				NC_006842.1	3293	3694	minus	0		
+312309	Vibrio fischeri ES114	3281072	0	live	VF_B0007	VF_B0007, VFB07	DNA repair protein RadC				NC_006842.1	3771	4268	minus	0		
+312309	Vibrio fischeri ES114	3281070	0	live	VF_B0008	VF_B0008, VFB08	hypothetical protein				NC_006842.1	4574	4954	minus	0		
+312309	Vibrio fischeri ES114	3281044	0	live	VF_B0009	VF_B0009, VFB09	hypothetical protein				NC_006842.1	5759	6046	minus	0		
+312309	Vibrio fischeri ES114	3281042	0	live	VF_B0010	VF_B0010, VFB10	hypothetical protein				NC_006842.1	6085	6282	minus	0		
+312309	Vibrio fischeri ES114	3281060	0	live	VF_B0011	VF_B0011, VFB11	hypothetical protein				NC_006842.1	6295	7347	minus	0		
+312309	Vibrio fischeri ES114	3281059	0	live	VF_B0012	VF_B0012, VFB12	hypothetical protein				NC_006842.1	7518	7796	minus	0		
+312309	Vibrio fischeri ES114	3281068	0	live	VF_B0013	VF_B0013, VFB13	hypothetical protein				NC_006842.1	7796	8371	minus	0		
+312309	Vibrio fischeri ES114	3281041	0	live	VF_B0014	VF_B0014, VFB14	hypothetical protein				NC_006842.1	8380	8628	minus	0		
+312309	Vibrio fischeri ES114	3281073	0	live	VF_B0015	VF_B0015, VFB15	resolvease/recombinase				NC_006842.1	8774	9421	plus	0		
+312309	Vibrio fischeri ES114	3281075	0	live	VF_B0016	VF_B0016, VFB16	hypothetical protein				NC_006842.1	9483	9713	minus	0		
+312309	Vibrio fischeri ES114	3281071	0	live	VF_B0017	VF_B0017, VFB17	hypothetical protein				NC_006842.1	10505	11332	minus	0		
+312309	Vibrio fischeri ES114	3281027	0	live	VF_B0018	VF_B0018, VFB18	DNA-binding protein RDGA				NC_006842.1	11739	12350	minus	0		
+312309	Vibrio fischeri ES114	3281039	0	live	VF_B0019	VF_B0019, VFB19	hypothetical protein				NC_006842.1	12396	12488	minus	0		
+312309	Vibrio fischeri ES114	3281048	0	live	VF_B0020	VF_B0020, VFB20	hypothetical protein				NC_006842.1	12500	12679	plus	0		
+312309	Vibrio fischeri ES114	3281058	0	live	VF_B0021	VF_B0021, VFB21	hypothetical protein				NC_006842.1	12944	13159	plus	0		
+312309	Vibrio fischeri ES114	3281061	0	live	VF_B0022	VF_B0022, VFB22	hypothetical protein				NC_006842.1	13437	13937	plus	0		
+312309	Vibrio fischeri ES114	3281063	0	live	VF_B0023	VF_B0023, VFB23	hypothetical protein				NC_006842.1	13947	14213	plus	0		
+312309	Vibrio fischeri ES114	3281066	0	live	VF_B0024	VF_B0024, VFB24	hypothetical protein				NC_006842.1	14249	14602	plus	0		
+312309	Vibrio fischeri ES114	3281067	0	live	VF_B0025	VF_B0025, VFB25	hypothetical protein				NC_006842.1	14602	15333	plus	0		
+312309	Vibrio fischeri ES114	3281069	0	live	VF_B0026	VF_B0026, VFB26	hypothetical protein				NC_006842.1	15333	16772	plus	0		
+312309	Vibrio fischeri ES114	3281074	0	live	VF_B0027	VF_B0027, VFB27	hypothetical protein				NC_006842.1	16781	17905	plus	0		
+312309	Vibrio fischeri ES114	3281057	0	live	VF_B0028	VF_B0028, VFB28	hypothetical protein				NC_006842.1	17895	18533	plus	0		
+312309	Vibrio fischeri ES114	3281035	0	live	VF_B0029	VF_B0029, VFB29	exonuclease sbcC				NC_006842.1	18517	20070	plus	0		
+312309	Vibrio fischeri ES114	3281022	0	live	VF_B0030	VF_B0030, VFB30	hypothetical protein				NC_006842.1	20070	21086	plus	0		
+312309	Vibrio fischeri ES114	3281062	0	live	VF_B0031	VF_B0031, VFB31	hypothetical protein				NC_006842.1	21087	21581	plus	0		
+312309	Vibrio fischeri ES114	3281052	0	live	VF_B0032	VF_B0032, VFB32	transporter				NC_006842.1	21584	22063	plus	0		
+312309	Vibrio fischeri ES114	3281046	0	live	VF_B0033	VF_B0033, VFB33	hypothetical protein				NC_006842.1	22074	23030	plus	0		
+312309	Vibrio fischeri ES114	3281021	0	live	VF_B0034	VF_B0034, VFB34	hypothetical protein				NC_006842.1	23044	23466	plus	0		
+312309	Vibrio fischeri ES114	3281047	0	live	VF_B0035	VF_B0035, VFB35	trypsin protease precursor				NC_006842.1	23639	24670	plus	0		
+312309	Vibrio fischeri ES114	3281055	0	live	VF_B0036	VF_B0036, VFB36	hypothetical protein				NC_006842.1	24642	24848	plus	0		
+312309	Vibrio fischeri ES114	3281050	0	live	VF_B0037	VF_B0037, VFB37	hypothetical protein				NC_006842.1	24930	25562	plus	0		
+312309	Vibrio fischeri ES114	3281028	0	live	VF_B0038	VF_B0038, VFB38	attachment mediating protein VirB2-like protein				NC_006842.1	25673	25981	plus	0		
+312309	Vibrio fischeri ES114	3281065	0	live	VF_B0039	VF_B0039, VFB39	VirB4 ATPase				NC_006842.1	26299	28752	plus	0		
+312309	Vibrio fischeri ES114	3281056	0	live	VF_B0040	VF_B0040, VFB40	channel protein VirB8				NC_006842.1	28836	29516	plus	0		
+312309	Vibrio fischeri ES114	3281040	0	live	VF_B0041	VF_B0041, VFB41	channel protein VirB9				NC_006842.1	29523	30431	plus	0		
+312309	Vibrio fischeri ES114	3281030	0	live	VF_B0042	VF_B0042, VFB42	channel protein VirB10				NC_006842.1	30428	31618	plus	0		
+312309	Vibrio fischeri ES114	3281037	0	live	VF_B0043	VF_B0043, VFB43	VirB11 ATPase				NC_006842.1	31621	32628	plus	0		
+312309	Vibrio fischeri ES114	3281031	0	live	VF_B0044	VF_B0044, VFB44	protein VirD4				NC_006842.1	32705	34531	plus	0		
+312309	Vibrio fischeri ES114	3281033	0	live	VF_B0045	VF_B0045, VFB45	single-strand DNA binding protein				NC_006842.1	34547	34897	plus	0		
+312309	Vibrio fischeri ES114	3281032	0	live	VF_B0046	VF_B0046, VFB46	DNA topoisomerase III				NC_006842.1	34953	36947	plus	0		
+312309	Vibrio fischeri ES114	3281034	0	live	VF_B0047	VF_B0047, VFB47	outer membrane protein				NC_006842.1	36993	37541	plus	0		
+312309	Vibrio fischeri ES114	3281045	0	live	VF_B0048	VF_B0048, VFB48	hypothetical protein				NC_006842.1	37574	38041	plus	0		
+312309	Vibrio fischeri ES114	3281029	0	live	VF_B0049	VF_B0049, VFB49	hypothetical protein				NC_006842.1	37984	38427	plus	0		
+312309	Vibrio fischeri ES114	3281036	0	live	VF_B0050	VF_B0050, VFB50	relaxase				NC_006842.1	38417	41752	plus	0		
+312309	Vibrio fischeri ES114	3281025	0	live	VF_B0051	VF_B0051, VFB51	hypothetical protein				NC_006842.1	41985	42500	plus	0		
+312309	Vibrio fischeri ES114	3281026	0	live	VF_B0052	VF_B0052, VFB52	hypothetical protein				NC_006842.1	42512	43210	plus	0		
+312309	Vibrio fischeri ES114	3281064	0	live	VF_B0053	VF_B0053, VFB53	hypothetical protein				NC_006842.1	43214	43774	plus	0		
+312309	Vibrio fischeri ES114	3281043	0	live	VF_B0054	VF_B0054, VFB54	attachment mediating protein VirB5-like protein				NC_006842.1	44060	44800	plus	0		
+312309	Vibrio fischeri ES114	3281038	0	live	VF_B0055	VF_B0055, VFB55	channel protein VirB6				NC_006842.1	44803	45837	plus	0		
+312309	Vibrio fischeri ES114	6175936	0	live	VF_B0056	VF_B0056, VFB38.5	type IV secretion (pTiA6 VirB3)				NC_006842.1	25993	26295	plus	0		
+312309	Vibrio fischeri ES114	6175937	0	live	VF_B0057	VF_B0057, VFB39.5	type IV secretion (pTiA6 VirB7)				NC_006842.1	28724	28846	plus	0		

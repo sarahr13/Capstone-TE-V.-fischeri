@@ -1,0 +1,1193 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+312309	Vibrio fischeri ES114	3280019	0	live	abgR	VF_A0730, VFA0730	DNA-binding transcriptional regulator			II	NC_006841.2	826434	827321	minus	0		
+312309	Vibrio fischeri ES114	3280138	0	live	ace	VF_A0577, VFA0577	enterotoxin			II	NC_006841.2	661082	661366	minus	0		
+312309	Vibrio fischeri ES114	3280323	0	live	acfC	VF_A1074, VFA1074	accessory colonization factor AcfC			II	NC_006841.2	1212467	1213222	plus	0		
+312309	Vibrio fischeri ES114	3280580	0	live	ackA2	VF_A0794, VFA0794	acetate kinase			II	NC_006841.2	889937	891133	minus	0		
+312309	Vibrio fischeri ES114	3279840	0	live	acrA	VF_A1152, VFA1150, VFA1151, VFA1152	multidrug efflux system			II	NC_006841.2	1294499	1295617	minus	0		
+312309	Vibrio fischeri ES114	3280565	0	live	acrF	VF_A1149, VFA1149	multidrug efflux system protein			II	NC_006841.2	1291345	1294497	minus	0		
+312309	Vibrio fischeri ES114	3279998	0	live	adrA	VF_A0796, VFA0796	GGDEF domain-containing protein			II	NC_006841.2	892435	893397	plus	0		
+312309	Vibrio fischeri ES114	3279999	0	live	afuC	VF_A1091, VFA1091	CP4-6 prophage; ferric transporter subunit			II	NC_006841.2	1230984	1232003	plus	0		
+312309	Vibrio fischeri ES114	3280902	0	live	agaC	VF_A1002, VFA1002	PTS system, N-acetylgalactosamine-specific IIC component			II	NC_006841.2	1126059	1126829	minus	0		
+312309	Vibrio fischeri ES114	3280652	0	live	agaD	VF_A1001, VFA1001	N-acetylgalactosamine-specific enzyme IID component of PTS			II	NC_006841.2	1125152	1126069	minus	0		
+312309	Vibrio fischeri ES114	3280639	0	live	agaR	VF_A1006, VFA1006	DNA-binding transcriptional dual regulator			II	NC_006841.2	1129870	1130646	minus	0		
+312309	Vibrio fischeri ES114	3280900	0	live	agaS	VF_A1004, VFA1004	tagatose-6-phosphate ketose/aldose isomerase			II	NC_006841.2	1127355	1128524	minus	0		
+312309	Vibrio fischeri ES114	3280903	0	live	agaV	VF_A1003, VFA1003	N-acetylgalactosamine-specific enzyme IIB component of PTS			II	NC_006841.2	1126840	1127340	minus	0		
+312309	Vibrio fischeri ES114	3280895	0	live	alx	VF_A0278, VFA0278	membrane-bound redox modulator that IS induced by high pH			II	NC_006841.2	308442	309398	minus	0		
+312309	Vibrio fischeri ES114	3280332	0	live	anmK	VF_A0492, VFA0492	anhydro-N-acetylmuramic acid kinase			II	NC_006841.2	566145	567248	minus	0		
+312309	Vibrio fischeri ES114	3280727	0	live	aroG	VF_A0394, VFA0394	phospho-2-dehydro-3-deoxyheptonate aldolase			II	NC_006841.2	445832	446884	plus	0		
+312309	Vibrio fischeri ES114	3280726	0	live	aslB	VF_A0900, VFA0900	regulator of arylsulfatase activity			II	NC_006841.2	1020200	1021495	plus	0		
+312309	Vibrio fischeri ES114	3280641	0	live	astB	VF_A0847, VFA0847	succinylarginine dihydrolase			II	NC_006841.2	955610	956944	minus	0		
+312309	Vibrio fischeri ES114	3280704	0	live	bcsA	VF_A0884, VFA0884	cellulose synthase catalytic subunit			II	NC_006841.2	999910	1002513	minus	0		
+312309	Vibrio fischeri ES114	3280378	0	live	bcsB	VF_A0883, VFA0883	cellulose synthase regulator protein			II	NC_006841.2	997602	999896	minus	0		
+312309	Vibrio fischeri ES114	3280311	0	live	bcsE	VF_A0886, VFA0886	hypothetical protein			II	NC_006841.2	1003778	1005322	plus	0		
+312309	Vibrio fischeri ES114	3280679	0	live	bcsG	VF_A0887, VFA0887	hypothetical protein			II	NC_006841.2	1005530	1007158	plus	0		
+312309	Vibrio fischeri ES114	3280881	0	live	bcsZ	VF_A0882, VFA0882	endo-1,4-D-glucanase			II	NC_006841.2	996424	997602	minus	0		
+312309	Vibrio fischeri ES114	3280945	0	live	binK	VF_A0360, VFA0360	biofilm inhibitor kinase BinK			II	NC_006841.2	404218	406812	plus	0		
+312309	Vibrio fischeri ES114	3280413	0	live	bioA	VF_A0748, VFA0748	adenosylmethionine-8-amino-7-oxononanoate aminotransferase			II	NC_006841.2	845249	846529	plus	0		
+312309	Vibrio fischeri ES114	6175909	0	live	bioB	VF_A1189	biotin synthase			II	NC_006841.2	844068	845120	minus	0		
+312309	Vibrio fischeri ES114	3280399	0	live	bioC	VF_A0746, VFA0746	biotin biosynthesis protein BioC			II	NC_006841.2	842105	842926	minus	0		
+312309	Vibrio fischeri ES114	3280456	0	live	bioD	VF_A0745, VFA0745	dithiobiotin synthetase			II	NC_006841.2	841432	842112	minus	0		
+312309	Vibrio fischeri ES114	3280394	0	live	bioF	VF_A0747, VFA0747	8-amino-7-oxononanoate synthase			II	NC_006841.2	842933	844084	minus	0		
+312309	Vibrio fischeri ES114	3280634	0	live	blc	VF_A0842, VFA0842	outer membrane lipoprotein (lipocalin)			II	NC_006841.2	951297	951827	minus	0		
+312309	Vibrio fischeri ES114	6175931	0	live	cep	VF_A1184	Cep			II	NC_006841.2	662694	662939	minus	0		
+312309	Vibrio fischeri ES114	3279837	0	live	cfa	VF_A0760, VFA0760	cyclopropane fatty acyl phospholipid synthase			II	NC_006841.2	856484	857740	minus	0		
+312309	Vibrio fischeri ES114	3280182	0	live	cheV2	VF_A0802, VFA0802	chemotaxis protein CheW			II	NC_006841.2	901391	902332	minus	0		
+312309	Vibrio fischeri ES114	3280795	0	live	cheV3	VF_A0698, VFA0698	chemotaxis protein CheW			II	NC_006841.2	774346	775242	plus	0		
+312309	Vibrio fischeri ES114	3280410	0	live	chrR	VF_A0765, VFA0765	zinc-binding anti-sigmaE4 factor ChrR			II	NC_006841.2	861034	861717	minus	0		
+312309	Vibrio fischeri ES114	3280322	0	live	cmtA	VF_A0061, VFA0061	fused mannitol-specific PTS enzymes: IIB component/IIC component			II	NC_006841.2	66130	67527	plus	0		
+312309	Vibrio fischeri ES114	3280829	0	live	cmtB	VF_A0060, VFA0060	mannitol-specific enzyme IIA component of PTS			II	NC_006841.2	65673	66116	plus	0		
+312309	Vibrio fischeri ES114	3280097	0	live	cobQ	VF_A0289, VFA0289	cobyric acid synthase			II	NC_006841.2	321185	322690	plus	0		
+312309	Vibrio fischeri ES114	3279991	0	live	creA	VF_A0503, VFA0503	CreA family protein			II	NC_006841.2	578216	578728	minus	0		
+312309	Vibrio fischeri ES114	3279994	0	live	cspG	VF_A1094, VFA1094	DNA-binding transcriptional regulator			II	NC_006841.2	1233192	1233401	minus	0		
+312309	Vibrio fischeri ES114	3280064	0	live	cusA	VF_A0445, VFA0445	copper/silver efflux system, membrane component			II	NC_006841.2	509606	512725	plus	0		
+312309	Vibrio fischeri ES114	3280590	0	live	cusB	VF_A0444, VFA0444	copper/silver efflux system, membrane fusion protein			II	NC_006841.2	508140	509609	plus	0		
+312309	Vibrio fischeri ES114	3279880	0	live	cusC	VF_A0443, VFA0443	copper/silver resistance outer membrane protein			II	NC_006841.2	506795	508129	plus	0		
+312309	Vibrio fischeri ES114	3279906	0	live	cusF	VF_A0446, VFA0446	copper-binding protein			II	NC_006841.2	512823	513329	plus	0		
+312309	Vibrio fischeri ES114	3280255	0	live	cusR	VF_A0179, VFA0179	DNA-binding response regulator in two-component regulatory system with CusS			II	NC_006841.2	201590	202270	minus	0		
+312309	Vibrio fischeri ES114	3280942	0	live	cusS	VF_A0178, VFA0178	sensory histidine kinase in two-component regulatory system with CusR, senses copper ions			II	NC_006841.2	200245	201585	minus	0		
+312309	Vibrio fischeri ES114	3280935	0	live	dbpA	VF_A0154, VFA0154	ATP-dependent RNA helicase DbpA			II	NC_006841.2	171540	172928	minus	0		
+312309	Vibrio fischeri ES114	3280446	0	live	ddl	VF_A0570, VFA0570	D-alanyl-alanine synthetase A			II	NC_006841.2	655406	656398	plus	0		
+312309	Vibrio fischeri ES114	3280295	0	live	deaD	VF_A0384, VFA0384	ATP-dependent RNA helicase			II	NC_006841.2	434104	436008	plus	0		
+312309	Vibrio fischeri ES114	3280648	0	live	deoD2	VF_A0402, VFA0402	purine nucleoside phosphorylase			II	NC_006841.2	456946	457656	minus	0		
+312309	Vibrio fischeri ES114	3280781	0	live	deoD3	VF_A0968, VFA0968	purine nucleoside phosphorylase			II	NC_006841.2	1089718	1090437	plus	0		
+312309	Vibrio fischeri ES114	3279971	0	live	dgsA	VF_A0496, VFA0496	DNA-binding transcriptional repressor			II	NC_006841.2	570908	572122	plus	0		
+312309	Vibrio fischeri ES114	3280027	0	live	dmsA	VF_A0082, VFA0082	dimethyl sulfoxide reductase, anaerobic, subunit A			II	NC_006841.2	87897	90335	minus	0		
+312309	Vibrio fischeri ES114	3280186	0	live	dmsC	VF_A0080, VFA0080	dimethyl sulfoxide reductase, anaerobic, subunit C			II	NC_006841.2	86425	87270	minus	0		
+312309	Vibrio fischeri ES114	3280028	0	live	dmsD	VF_A0083, VFA0083	twin-argninine leader-binding protein for DmsA and TorA			II	NC_006841.2	90671	91255	plus	0		
+312309	Vibrio fischeri ES114	3280375	0	live	ebgA	VF_A0347, VFA0347	cryptic beta-D-galactosidase subunit alpha			II	NC_006841.2	385181	388282	minus	0		
+312309	Vibrio fischeri ES114	3280114	0	live	ebgC	VF_A0346, VFA0346	cryptic beta-D-galactosidase subunit beta			II	NC_006841.2	384729	385181	minus	0		
+312309	Vibrio fischeri ES114	3280166	0	live	ebgR	VF_A0348, VFA0348	DNA-binding transcriptional repressor EbgR			II	NC_006841.2	388632	389627	minus	0		
+312309	Vibrio fischeri ES114	3280247	0	live	ectA	VF_A1122, VFA1122	L-2,4-diaminobutyric acid acetyltransferase			II	NC_006841.2	1260854	1261411	plus	0		
+312309	Vibrio fischeri ES114	3280243	0	live	ectB	VF_A1123, VFA1123	diaminobutyrate--2-oxoglutarate aminotransferase			II	NC_006841.2	1261432	1262697	plus	0		
+312309	Vibrio fischeri ES114	3281015	0	live	ectC	VF_A1124, VFA1124	L-ectoine synthase			II	NC_006841.2	1262712	1263098	plus	0		
+312309	Vibrio fischeri ES114	3280202	0	live	emrD	VF_A0153, VFA0153	multidrug resistance protein D			II	NC_006841.2	170231	171433	plus	0		
+312309	Vibrio fischeri ES114	3280785	0	live	eptA	VF_A0210, VFA0210	metal dependent hydrolase			II	NC_006841.2	232903	234531	plus	0		
+312309	Vibrio fischeri ES114	3281012	0	live	fdhF	VF_A0251, VFA0251, VFA0252	formate dehydrogenase-H			II	NC_006841.2	279815	283978	plus	0		
+312309	Vibrio fischeri ES114	3280267	0	live	fecD	VF_A0972, VFA0972	KpLE2 phage-like element; iron-dicitrate transporter subunit			II	NC_006841.2	1093406	1094446	minus	0		
+312309	Vibrio fischeri ES114	3280827	0	live	fecE	VF_A0971, VFA0971	vitamin B12 transport ATP-binding protein BtuD			II	NC_006841.2	1092630	1093409	minus	0		
+312309	Vibrio fischeri ES114	3280084	0	live	fhuA	VF_A0784, VFA0784	ferrichrome outer membrane transporter			II	NC_006841.2	877714	879912	minus	0		
+312309	Vibrio fischeri ES114	3280501	0	live	fhuB	VF_A0160, VFA0160	iron-hydroxamate transporter permease subunit			II	NC_006841.2	178557	180560	plus	0		
+312309	Vibrio fischeri ES114	3280451	0	live	fhuC	VF_A0158, VFA0158	iron-hydroxamate transporter subunit			II	NC_006841.2	176797	177612	plus	0		
+312309	Vibrio fischeri ES114	3280289	0	live	fhuD	VF_A0159, VFA0159	iron-hydroxamate transporter subunit			II	NC_006841.2	177651	178544	plus	0		
+312309	Vibrio fischeri ES114	3280550	0	live	flp2	VF_A0218, VFA0218	fimbrial protein precursor Flp1			II	NC_006841.2	242789	243007	plus	0		
+312309	Vibrio fischeri ES114	3280523	0	live	focA	VF_A0813, VFA0813	formate transporter			II	NC_006841.2	919440	920288	minus	0		
+312309	Vibrio fischeri ES114	3280844	0	live	frcK	VF_A0064, VFA0064	fructose transport system kinase			II	NC_006841.2	69436	70170	plus	0		
+312309	Vibrio fischeri ES114	3279864	0	live	fruA	VF_A0940, VFA0940	fused fructose-specific PTS enzymes: iibcomponent/IIC components			II	NC_006841.2	1060717	1062450	minus	0		
+312309	Vibrio fischeri ES114	3280380	0	live	fruB	VF_A0942, VFA0942	bifunctional PTS system fructose-specific transporter subunit IIA/HPr protein			II	NC_006841.2	1063465	1064601	minus	0		
+312309	Vibrio fischeri ES114	3280249	0	live	fruK	VF_A0941, VFA0941	fructose-1-phosphate kinase			II	NC_006841.2	1062481	1063461	minus	0		
+312309	Vibrio fischeri ES114	3280702	0	live	fruR	VF_A0943, VFA0943	DNA-binding transcriptional regulator FruR			II	NC_006841.2	1064887	1065864	plus	0		
+312309	Vibrio fischeri ES114	3280115	0	live	frwC	VF_A0713, VFA0713	enzyme IIC component of PTS			II	NC_006841.2	799136	801031	plus	0		
+312309	Vibrio fischeri ES114	3280601	0	live	galE	VF_A0352, VFA0352	UDP-galactose-4-epimerase			II	NC_006841.2	394429	395439	plus	0		
+312309	Vibrio fischeri ES114	3280981	0	live	galK	VF_A0355, VFA0355	galactokinase			II	NC_006841.2	396823	397977	plus	0		
+312309	Vibrio fischeri ES114	3280986	0	live	galM	VF_A0356, VFA0356	aldose 1-epimerase			II	NC_006841.2	397987	399048	plus	0		
+312309	Vibrio fischeri ES114	3279969	0	live	galR	VF_A0361, VFA0361	DNA-binding transcriptional repressor			II	NC_006841.2	406842	407840	minus	0		
+312309	Vibrio fischeri ES114	3280038	0	live	galT	VF_A0353, VFA0353, VFA0354	galactose-1-phosphate uridylyltransferase			II	NC_006841.2	395577	396629	plus	0		
+312309	Vibrio fischeri ES114	3280934	0	live	gatY	VF_A0989, VFA0989	tagatose-bisphosphate aldolase			II	NC_006841.2	1108505	1109359	minus	0		
+312309	Vibrio fischeri ES114	3280506	0	live	gbpA	VF_A0143, VFA0143	N-acetylglucosamine-binding protein A			II	NC_006841.2	160600	162078	plus	0		
+312309	Vibrio fischeri ES114	3280875	0	live	gcvH	VF_A0702, VFA0702	glycine cleavage system protein H			II	NC_006841.2	778596	778976	plus	0		
+312309	Vibrio fischeri ES114	3280782	0	live	gcvP	VF_A0703, VFA0703	glycine dehydrogenase			II	NC_006841.2	779000	781867	plus	0		
+312309	Vibrio fischeri ES114	3280817	0	live	gcvT	VF_A0700, VFA0700	glycine cleavage system protein T			II	NC_006841.2	776488	777606	minus	0		
+312309	Vibrio fischeri ES114	3280164	0	live	ggt	VF_A0086, VFA0086	gamma-glutamyltranspeptidase			II	NC_006841.2	93153	94907	minus	0		
+312309	Vibrio fischeri ES114	3280424	0	live	glgA	VF_A0805, VFA0805	glycogen synthase			II	NC_006841.2	904628	906127	minus	0		
+312309	Vibrio fischeri ES114	3280626	0	live	glgB	VF_A0808, VFA0808	glycogen branching enzyme			II	NC_006841.2	908344	910491	minus	0		
+312309	Vibrio fischeri ES114	3280602	0	live	glgC	VF_A0806, VFA0806	glucose-1-phosphate adenylyltransferase			II	NC_006841.2	906081	907298	minus	0		
+312309	Vibrio fischeri ES114	3280539	0	live	glgX	VF_A0801, VFA0801	glycogen debranching enzyme			II	NC_006841.2	899076	901031	plus	0		
+312309	Vibrio fischeri ES114	3280319	0	live	glnP	VF_A0392, VFA0392	amino acid ABC transporter permease			II	NC_006841.2	444041	444835	minus	0		
+312309	Vibrio fischeri ES114	3281018	0	live	glpA	VF_A0250, VFA0250	sn-glycerol-3-phosphate dehydrogenase subunit A			II	NC_006841.2	277867	279519	minus	0		
+312309	Vibrio fischeri ES114	3281005	0	live	glpB	VF_A0249, VFA0249	anaerobic glycerol-3-phosphate dehydrogenase subunit B			II	NC_006841.2	276503	277870	minus	0		
+312309	Vibrio fischeri ES114	3281017	0	live	glpC	VF_A0248, VFA0248	sn-glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	275235	276506	minus	0		
+312309	Vibrio fischeri ES114	3280276	0	live	glpD	VF_A0239, VFA0239	glycerol-3-phosphate dehydrogenase			II	NC_006841.2	265242	266789	plus	0		
+312309	Vibrio fischeri ES114	3280519	0	live	glpF	VF_A0235, VFA0235	glycerol uptake facilitator protein GlpF			II	NC_006841.2	258428	259282	plus	0		
+312309	Vibrio fischeri ES114	3280548	0	live	glpK	VF_A0236, VFA0236	glycerol kinase			II	NC_006841.2	259348	260862	plus	0		
+312309	Vibrio fischeri ES114	3280693	0	live	glpQ	VF_A0958, VFA0958	glycerophosphoryl diester phosphodiesterase GlpQ (UgpQ)			II	NC_006841.2	1077007	1077750	minus	0		
+312309	Vibrio fischeri ES114	3280545	0	live	glpR	VF_A0238, VFA0238	glycerol-3-phosphate regulon repressor protein GlpR			II	NC_006841.2	264297	265064	plus	0		
+312309	Vibrio fischeri ES114	3280513	0	live	gltS	VF_A0507, VFA0507	glutamate transporter			II	NC_006841.2	581905	583128	minus	0		
+312309	Vibrio fischeri ES114	3280212	0	live	gnd	VF_A0470, VFA0470	6-phosphogluconate dehydrogenase			II	NC_006841.2	540560	542008	plus	0		
+312309	Vibrio fischeri ES114	3280861	0	live	guaC	VF_A0695, VFA0695	guanosine 5'-monophosphate oxidoreductase			II	NC_006841.2	771042	772085	minus	0		
+312309	Vibrio fischeri ES114	3280801	0	live	guaD	VF_A0969, VFA0969	guanine deaminase			II	NC_006841.2	1090495	1091841	plus	0		
+312309	Vibrio fischeri ES114	3280907	0	live	hcp	VF_A0863, VFA0863	hydroxylamine reductase			II	NC_006841.2	972161	973822	plus	0		
+312309	Vibrio fischeri ES114	3280644	0	live	hcr	VF_A0864, VFA0864	HCP oxidoreductase, NADH-dependent			II	NC_006841.2	973917	974948	plus	0		
+312309	Vibrio fischeri ES114	3279882	0	live	hdfR	VF_A1046, VFA1046	DNA-binding transcriptional regulator			II	NC_006841.2	1180303	1181172	plus	0		
+312309	Vibrio fischeri ES114	3280287	0	live	hnoX	VF_A0071, VFA0071	heme nitric oxide and/or oxygen binding protein HNOX			II	NC_006841.2	74370	74903	plus	0		
+312309	Vibrio fischeri ES114	3279925	0	live	hsdM	VF_A0535, VFA0535	DNA methylase M			II	NC_006841.2	610230	611711	plus	0		
+312309	Vibrio fischeri ES114	3280867	0	live	htrB1	VF_A0687, VFA0687	lipid A biosynthesis lauroyl acyltransferase			II	NC_006841.2	760252	761187	minus	0		
+312309	Vibrio fischeri ES114	3280078	0	live	hutC	VF_A0454, VFA0454	histidine utilization repressor			II	NC_006841.2	523147	523848	minus	0		
+312309	Vibrio fischeri ES114	3279916	0	live	hutG	VF_A0452, VFA0452	formimidoylglutamase			II	NC_006841.2	520710	521762	minus	0		
+312309	Vibrio fischeri ES114	3279917	0	live	hutH	VF_A0450, VFA0450	histidine ammonia-lyase			II	NC_006841.2	517423	518955	minus	0		
+312309	Vibrio fischeri ES114	3280586	0	live	hutI	VF_A0453, VFA0453	imidazolonepropionase			II	NC_006841.2	521737	522963	minus	0		
+312309	Vibrio fischeri ES114	3280072	0	live	hutU	VF_A0451, VFA0451	urocanate hydratase			II	NC_006841.2	518997	520691	minus	0		
+312309	Vibrio fischeri ES114	3280315	0	live	hvnA	VF_A1095, VFA1095	halovibrin HvnA			II	NC_006841.2	1233751	1234653	minus	0		
+312309	Vibrio fischeri ES114	3280498	0	live	hvnB	VF_A0144, VFA0144	halovibrin HvnB			II	NC_006841.2	162194	163132	minus	0		
+312309	Vibrio fischeri ES114	3280125	0	live	hvnC	VF_A1105, VFA1105	halovibrin HvnC			II	NC_006841.2	1247564	1248442	plus	0		
+312309	Vibrio fischeri ES114	3280055	0	live	intA	VF_A0548, VFA0548	phage family integrase			II	NC_006841.2	630681	631880	minus	0		
+312309	Vibrio fischeri ES114	3280493	0	live	iucA	VF_A0161, VFA0161	aerobactin siderophore biosynthesis protein IucA			II	NC_006841.2	180709	182484	plus	0		
+312309	Vibrio fischeri ES114	3279870	0	live	iucB	VF_A0162, VFA0162	aerobactin siderophore synthesis protein IucB			II	NC_006841.2	182477	183388	plus	0		
+312309	Vibrio fischeri ES114	3280517	0	live	iucC	VF_A0163, VFA0163	aerobactin siderophore biosynthesis protein IucC			II	NC_006841.2	183388	185148	plus	0		
+312309	Vibrio fischeri ES114	3279867	0	live	iucD	VF_A0164, VFA0164	aerobactin siderophore biosynthesis protein IucD			II	NC_006841.2	185177	186475	plus	0		
+312309	Vibrio fischeri ES114	3279956	0	live	iutA	VF_A0165, VFA0165	ferric aerobactin receptor precursor IutA			II	NC_006841.2	186579	188753	plus	0		
+312309	Vibrio fischeri ES114	3280053	0	live	katA	VF_A0009, VFA0009	hydroperoxidase HPII(III) (catalase) KatA			II	NC_006841.2	10816	12264	plus	0		
+312309	Vibrio fischeri ES114	3280614	0	live	kbaZ	VF_A1005, VFA1005	tagatose 6-phosphate aldolase 1 subunit KbaZ			II	NC_006841.2	1128521	1129822	minus	0		
+312309	Vibrio fischeri ES114	3280914	0	live	kbl	VF_A0418, VFA0418	2-amino-3-ketobutyrate CoA ligase			II	NC_006841.2	472244	473440	minus	0		
+312309	Vibrio fischeri ES114	3280864	0	live	kdgK	VF_A0988, VFA0988	ketodeoxygluconokinase			II	NC_006841.2	1107446	1108408	minus	0		
+312309	Vibrio fischeri ES114	3280845	0	live	kdsB	VF_A0427, VFA0427	3-deoxy-manno-octulosonate cytidylyltransferase			II	NC_006841.2	488434	489183	plus	0		
+312309	Vibrio fischeri ES114	3280888	0	live	kduD	VF_A0997, VFA0997	2-deoxy-D-gluconate 3-dehydrogenase			II	NC_006841.2	1121725	1122480	minus	0		
+312309	Vibrio fischeri ES114	3280887	0	live	kduI	VF_A0998, VFA0998	5-keto-4-deoxyuronate isomerase			II	NC_006841.2	1122550	1123380	minus	0		
+312309	Vibrio fischeri ES114	3280032	0	live	lolC	VF_A0462, VFA0462	outer membrane-specific lipoprotein transporter subunit			II	NC_006841.2	531125	532333	plus	0		
+312309	Vibrio fischeri ES114	3280013	0	live	lolD	VF_A0463, VFA0463	outer membrane-specific lipoprotein transporter subunit			II	NC_006841.2	532326	533042	plus	0		
+312309	Vibrio fischeri ES114	3280076	0	live	lolE	VF_A0464, VFA0464	outer membrane-specific lipoprotein transporter subunit LolE			II	NC_006841.2	533042	534286	plus	0		
+312309	Vibrio fischeri ES114	3280824	0	live	lpxK	VF_A0425, VFA0425	tetraacyldisaccharide 4'-kinase			II	NC_006841.2	487267	488253	plus	0		
+312309	Vibrio fischeri ES114	3280241	0	live	lsrR	VF_A0400, VFA0400	transcriptional repressor			II	NC_006841.2	454430	455410	minus	0		
+312309	Vibrio fischeri ES114	3280269	0	live	luxA	VF_A0921, VFA0921	luciferase alpha chain LuxA			II	NC_006841.2	1045277	1046344	minus	0		
+312309	Vibrio fischeri ES114	3280712	0	live	luxB	VF_A0920, VFA0920	luciferase beta chain LuxB			II	NC_006841.2	1044286	1045266	minus	0		
+312309	Vibrio fischeri ES114	3280765	0	live	luxC	VF_A0923, VFA0923	acyl-CoA reductase			II	NC_006841.2	1047306	1048745	minus	0		
+312309	Vibrio fischeri ES114	3280304	0	live	luxD	VF_A0922, VFA0922	acyl transferase			II	NC_006841.2	1046367	1047290	minus	0		
+312309	Vibrio fischeri ES114	3280669	0	live	luxE	VF_A0919, VFA0919	long-chain-fatty-acid ligase LuxE			II	NC_006841.2	1043077	1044207	minus	0		
+312309	Vibrio fischeri ES114	3280675	0	live	luxG	VF_A0918, VFA0918	FMN reductase			II	NC_006841.2	1042357	1043067	minus	0		
+312309	Vibrio fischeri ES114	3280753	0	live	luxI	VF_A0924, VFA0924	3-oxo-C6-HSL autoinducer synthesis protein LuxI			II	NC_006841.2	1048783	1049355	minus	0		
+312309	Vibrio fischeri ES114	3280300	0	live	luxR	VF_A0925, VFA0925	LuxR family transcriptional regulator			II	NC_006841.2	1049571	1050323	plus	0		
+312309	Vibrio fischeri ES114	3280075	0	live	luxT	VF_A0593, VFA0593	LuxT transcriptional regulator			II	NC_006841.2	677153	677614	minus	0		
+312309	Vibrio fischeri ES114	3279950	0	live	malE	VF_A0799, VFA0799	maltose ABC transporter substrate-binding protein			II	NC_006841.2	896261	897445	minus	0		
+312309	Vibrio fischeri ES114	3280388	0	live	malF	VF_A0798, VFA0798	maltose transporter membrane protein			II	NC_006841.2	894571	896115	minus	0		
+312309	Vibrio fischeri ES114	3280001	0	live	malG	VF_A0797, VFA0797	maltose ABC transporter permease			II	NC_006841.2	893612	894502	minus	0		
+312309	Vibrio fischeri ES114	3279993	0	live	malK	VF_A0800, VFA0800	maltose ABC transporter ATP-binding protein			II	NC_006841.2	897854	898963	plus	0		
+312309	Vibrio fischeri ES114	3280149	0	live	malP	VF_A0810, VFA0810	maltodextrin phosphorylase			II	NC_006841.2	912778	915231	minus	0		
+312309	Vibrio fischeri ES114	3280236	0	live	malQ	VF_A0809, VFA0809	4-alpha-glucanotransferase			II	NC_006841.2	910545	912761	minus	0		
+312309	Vibrio fischeri ES114	3280532	0	live	malT	VF_A0811, VFA0811	transcriptional regulator MalT			II	NC_006841.2	915627	918332	plus	0		
+312309	Vibrio fischeri ES114	3280561	0	live	manA	VF_A0710, VFA0710	mannose-6-phosphate isomerase			II	NC_006841.2	796471	797667	plus	0		
+312309	Vibrio fischeri ES114	3280176	0	live	mfd	VF_A0460, VFA0459, VFA0460	transcription-repair coupling factor			II	NC_006841.2	526917	530372	minus	0		
+312309	Vibrio fischeri ES114	3280835	0	live	mifB	VF_A0959, VFA0959	diguanylate cyclase (GGDEF), inhibitor of flagellar motility			II	NC_006841.2	1078131	1080101	minus	0		
+312309	Vibrio fischeri ES114	3280826	0	live	mifC	VF_A0960, VFA0960	periplasmic protein that regulates MifA/B activity			II	NC_006841.2	1080098	1081120	minus	0		
+312309	Vibrio fischeri ES114	3280466	0	live	modA	VF_A0290, VFA0290	molybdate ABC transporter, periplasmic molybdate-binding protein			II	NC_006841.2	322702	323439	plus	0		
+312309	Vibrio fischeri ES114	3280010	0	live	modB	VF_A0291, VFA0291	molybdate ABC transporter permease protein			II	NC_006841.2	323436	324125	plus	0		
+312309	Vibrio fischeri ES114	3280923	0	live	modC	VF_A0292, VFA0292	molybdate transporter ATP-binding protein			II	NC_006841.2	324129	325223	plus	0		
+312309	Vibrio fischeri ES114	3280742	0	live	mogA	VF_A0565, VFA0565	molybdenum cofactor biosynthesis protein MogA			II	NC_006841.2	648528	649064	plus	0		
+312309	Vibrio fischeri ES114	3280274	0	live	motA2	VF_A0186, VFA0186	flagellar motor protein MotA2			II	NC_006841.2	208548	209330	plus	0		
+312309	Vibrio fischeri ES114	3280029	0	live	motB2	VF_A0187, VFA0187	flagellar motor protein MotB2			II	NC_006841.2	209331	209972	plus	0		
+312309	Vibrio fischeri ES114	3280320	0	live	msbA	VF_A0424, VFA0424	lipid transporter ATP-binding/permease protein			II	NC_006841.2	485519	487267	plus	0		
+312309	Vibrio fischeri ES114	3280183	0	live	mshC2	VF_A0079, VFA0079	MSHA pilin protein MshC			II	NC_006841.2	85529	86053	minus	0		
+312309	Vibrio fischeri ES114	3280193	0	live	mshD2	VF_A0078, VFA0078	MshD protein			II	NC_006841.2	84985	85539	minus	0		
+312309	Vibrio fischeri ES114	3280199	0	live	mshO2	VF_A0077, VFA0077	MshO protein			II	NC_006841.2	84191	84985	minus	0		
+312309	Vibrio fischeri ES114	3280222	0	live	mshP2	VF_A0076, VFA0076	MshP protein			II	NC_006841.2	83785	84219	minus	0		
+312309	Vibrio fischeri ES114	3280223	0	live	mshQ2	VF_A0075, VFA0075	MshQ protein			II	NC_006841.2	79398	83792	minus	0		
+312309	Vibrio fischeri ES114	3280363	0	live	mukB	VF_A0432, VFA0432	fused chromosome partitioning protein: nucleotide hydrolase			II	NC_006841.2	493114	497580	plus	0		
+312309	Vibrio fischeri ES114	3280217	0	live	mukE	VF_A0431, VFA0431	condesin subunit E			II	NC_006841.2	492374	493111	plus	0		
+312309	Vibrio fischeri ES114	3280628	0	live	mukF	VF_A0430, VFA0430	condesin subunit F			II	NC_006841.2	491056	492393	plus	0		
+312309	Vibrio fischeri ES114	3280971	0	live	nadE	VF_A0602, VFA0602	NAD synthetase			II	NC_006841.2	683569	684399	plus	0		
+312309	Vibrio fischeri ES114	3280898	0	live	nagA3	VF_A0999, VFA0999	N-acetylglucosamine-6-phosphate deacetylase			II	NC_006841.2	1123482	1124624	minus	0		
+312309	Vibrio fischeri ES114	3280993	0	live	nagE2	VF_A0438, VFA0438	fused N-acetyl glucosamine specific PTS enzyme: IIC and IIB components			II	NC_006841.2	501042	502499	minus	0		
+312309	Vibrio fischeri ES114	3280530	0	live	nagZ	VF_A0493, VFA0493	beta-hexosaminidase			II	NC_006841.2	567421	568416	plus	0		
+312309	Vibrio fischeri ES114	3280369	0	live	nemA	VF_A1049, VFA1049	N-ethylmaleimide reductase, FMN-linked			II	NC_006841.2	1183833	1184954	plus	0		
+312309	Vibrio fischeri ES114	3280778	0	live	nfsA	VF_A0965, VFA0965	nitroreductase A			II	NC_006841.2	1086011	1086808	plus	0		
+312309	Vibrio fischeri ES114	3280836	0	live	nfsB	VF_A0691, VFA0691	dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive			II	NC_006841.2	767485	768141	minus	0		
+312309	Vibrio fischeri ES114	3280330	0	live	nnrS	VF_A0439, VFA0439	nitrite and/or nitric oxide reductase			II	NC_006841.2	502654	503838	minus	0		
+312309	Vibrio fischeri ES114	3280642	0	live	norR2	VF_A0862, VFA0862	anaerobic nitric oxide reductase transcription regulator			II	NC_006841.2	970385	971920	plus	0		
+312309	Vibrio fischeri ES114	3279851	0	live	nrdD	VF_A0281, VFA0281	anaerobic ribonucleoside triphosphate reductase			II	NC_006841.2	312151	314271	plus	0		
+312309	Vibrio fischeri ES114	3280987	0	live	nrdG	VF_A0282, VFA0282	anaerobic ribonucleotide reductase-activating protein			II	NC_006841.2	314271	314741	plus	0		
+312309	Vibrio fischeri ES114	3280282	0	live	ogt	VF_A0177, VFA0177	O-6-alkylguanine-DNA:cysteine-protein methyltransferase			II	NC_006841.2	199754	200227	plus	0		
+312309	Vibrio fischeri ES114	3279988	0	live	ompA	VF_A1100, VFA1100	outer membrane protein OmpA			II	NC_006841.2	1242013	1242987	minus	0		
+312309	Vibrio fischeri ES114	3280066	0	live	ompU2	VF_A0487, VFA0487	outer membrane protein U paralog, OmpU2			II	NC_006841.2	560885	561808	minus	0		
+312309	Vibrio fischeri ES114	3280569	0	live	orfU	VF_A0578, VFA0578	OrfU			II	NC_006841.2	661373	662578	minus	0		
+312309	Vibrio fischeri ES114	3280611	0	live	pdxH	VF_A1161, VFA1161	pyridoxamine 5'-phosphate oxidase			II	NC_006841.2	1303770	1304405	minus	0		
+312309	Vibrio fischeri ES114	3280308	0	live	pepE	VF_A1068, VFA1068	peptidase E			II	NC_006841.2	1204028	1204765	minus	0		
+312309	Vibrio fischeri ES114	3281010	0	live	pepT	VF_A0253, VFA0253	peptidase T			II	NC_006841.2	284061	285290	minus	0		
+312309	Vibrio fischeri ES114	3280025	0	live	pepT3	VF_A0004, VFA0004	peptidase T-like protein			II	NC_006841.2	5944	7050	minus	0		
+312309	Vibrio fischeri ES114	3280007	0	live	phr	VF_A0753, VFA0753	deoxyribodipyrimidine photolyase Phr, FAD-binding			II	NC_006841.2	850143	851582	plus	0		
+312309	Vibrio fischeri ES114	3279868	0	live	pilA2	VF_A0148, VFA0148, pilA	PilA-like type-IV pilus protein			II	NC_006841.2	164855	165241	minus	0		
+312309	Vibrio fischeri ES114	3279844	0	live	pntA	VF_A0586, VFA0586	NAD(P) transhydrogenase subunit alpha			II	NC_006841.2	669605	671161	minus	0		
+312309	Vibrio fischeri ES114	3280787	0	live	pntB	VF_A0585, VFA0585	pyridine nucleotide transhydrogenase			II	NC_006841.2	668217	669593	minus	0		
+312309	Vibrio fischeri ES114	3279928	0	live	pnuC	VF_A0529, VFA0529	nicotinamide mononucleotide transporter			II	NC_006841.2	604839	605573	plus	0		
+312309	Vibrio fischeri ES114	3280822	0	live	ppiC	VF_A0697, VFA0697	peptidyl-prolyl cis-trans isomerase C (rotamase C)			II	NC_006841.2	773927	774205	minus	0		
+312309	Vibrio fischeri ES114	3280415	0	live	pspA	VF_A0311, VFA0311	regulatory protein for phage-shock-protein operon			II	NC_006841.2	346132	346797	plus	0		
+312309	Vibrio fischeri ES114	3280099	0	live	pspB	VF_A0312, VFA0312	phage shock protein B			II	NC_006841.2	346861	347085	plus	0		
+312309	Vibrio fischeri ES114	3280441	0	live	pspC	VF_A0313, VFA0313	PspC transcriptional regulator, toxin of PspCB toxin-antitoxin pair			II	NC_006841.2	347085	347471	plus	0		
+312309	Vibrio fischeri ES114	3280091	0	live	pspF	VF_A0310, VFA0310	DNA-binding transcriptional activator			II	NC_006841.2	344937	345956	minus	0		
+312309	Vibrio fischeri ES114	6175896	0	live	psrN	VF_A1194	miscRNA			II	NC_006841.2	1085130	1085307	plus	0		
+312309	Vibrio fischeri ES114	3280400	0	live	ptrB	VF_A0333, VFA0333	oligopeptidase B			II	NC_006841.2	368975	370978	minus	0		
+312309	Vibrio fischeri ES114	3280623	0	live	putA	VF_A0832, VFA0831, VFA0832	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase			II	NC_006841.2	933762	936938	minus	0		
+312309	Vibrio fischeri ES114	3280256	0	live	putP	VF_A0829, VFA0829	proline:sodium symporter			II	NC_006841.2	931434	932930	minus	0		
+312309	Vibrio fischeri ES114	3280106	0	live	pykA	VF_A0494, VFA0494	pyruvate kinase II			II	NC_006841.2	568497	569942	minus	0		
+312309	Vibrio fischeri ES114	3280252	0	live	pyrC	VF_A0412, VFA0412	dihydroorotase			II	NC_006841.2	465059	466087	minus	0		
+312309	Vibrio fischeri ES114	3280352	0	live	qmcA	VF_A0166, VFA0166	protease, membrane anchored			II	NC_006841.2	188936	189859	plus	0		
+312309	Vibrio fischeri ES114	3281001	0	live	qsrP	VF_A1058, VFA1058	LuxR family transcriptional regulator			II	NC_006841.2	1193404	1193799	plus	0		
+312309	Vibrio fischeri ES114	3280403	0	live	ravA	VF_A0498, VFA0498	MoxR-like ATPase, regulatory ATPase variant A, RavA			II	NC_006841.2	573487	575136	plus	0		
+312309	Vibrio fischeri ES114	3279949	0	live	rbgA	VF_A0511, VFA0511	ribosomal biogenesis GTPase			II	NC_006841.2	587574	588518	minus	0		
+312309	Vibrio fischeri ES114	3280135	0	live	rhlE	VF_A0151, VFA0151	RNA helicase			II	NC_006841.2	166790	168292	plus	0		
+312309	Vibrio fischeri ES114	3280061	0	live	rimJ	VF_A0750, VFA0750	ribosomal-protein-S5-alanine N-acetyltransferase			II	NC_006841.2	846958	847515	minus	0		
+312309	Vibrio fischeri ES114	3280927	0	live	rnb	VF_A0383, VFA0383	exoribonuclease II			II	NC_006841.2	431738	433780	minus	0		
+312309	Vibrio fischeri ES114	3280438	0	live	rpoE3	VF_A0820, VFA0820	RNA polymerase sigma factor SigZ			II	NC_006841.2	923921	924466	minus	0		
+312309	Vibrio fischeri ES114	3280976	0	live	rpoE4	VF_A0766, VFA0766	RNA polymerase sigma factor			II	NC_006841.2	861710	862321	minus	0		
+312309	Vibrio fischeri ES114	3280514	0	live	rpoQ	VF_A1015, VFA1015	sigma-Q factor RpoQ, quorum-sensing regulated RpoS-like sigma subunit			II	NC_006841.2	1140896	1141780	minus	0		
+312309	Vibrio fischeri ES114	3280475	0	live	rscS	VF_A0237, VFA0237	activator of syp locus genes	activator of syp locus genes|hybrid sensor kinase RscS		II	NC_006841.2	260932	263715	minus	0		
+312309	Vibrio fischeri ES114	3280169	0	live	rstA	VF_A0581, VFA0581	RstA2 protein			II	NC_006841.2	663411	664565	minus	0		
+312309	Vibrio fischeri ES114	3280073	0	live	rstB	VF_A0580, VFA0580	RstB2 protein			II	NC_006841.2	663082	663408	minus	0		
+312309	Vibrio fischeri ES114	3279997	0	live	rstR	VF_A0582, VFA0582	transcriptional repressor rstR			II	NC_006841.2	664687	665022	plus	0		
+312309	Vibrio fischeri ES114	3280608	0	live	rtxA2	VF_A1162, VFA1162	RTX repeat-containing calcium-binding cytotoxin RtxA2			II	NC_006841.2	1304524	1316325	minus	0		
+312309	Vibrio fischeri ES114	3280739	0	live	rtxB	VF_A1165, VFA1165	ATP-binding protein, RTX transport secretion component RtxB			II	NC_006841.2	1318864	1321002	minus	0		
+312309	Vibrio fischeri ES114	3280305	0	live	rtxD	VF_A1168, VFA1168	RTX transport membrane fusion protein RtxD			II	NC_006841.2	1323601	1324992	minus	0		
+312309	Vibrio fischeri ES114	3279902	0	live	sapA	VF_A0309, VFA0309	peptide transport protein SapA			II	NC_006841.2	343234	344859	minus	0		
+312309	Vibrio fischeri ES114	3280398	0	live	sapB	VF_A0308, VFA0308	peptide transport system permease protein SapB			II	NC_006841.2	342287	343234	minus	0		
+312309	Vibrio fischeri ES114	3280085	0	live	sapC	VF_A0307, VFA0307	peptide transport system permease protein SapC			II	NC_006841.2	341413	342300	minus	0		
+312309	Vibrio fischeri ES114	3279912	0	live	sapD	VF_A0306, VFA0306	peptide transport system ATP-binding protein SapD			II	NC_006841.2	340400	341413	minus	0		
+312309	Vibrio fischeri ES114	3280423	0	live	sapF	VF_A0305, VFA0305	peptide transport system ATP-binding protein SapF			II	NC_006841.2	339592	340416	minus	0		
+312309	Vibrio fischeri ES114	3280955	0	live	sbmA	VF_A0673, VFA0673	transporter			II	NC_006841.2	743673	744692	minus	0		
+312309	Vibrio fischeri ES114	3280776	0	live	setC	VF_A0028, VFA0028	sugar efflux system			II	NC_006841.2	29782	30981	minus	0		
+312309	Vibrio fischeri ES114	3279941	0	live	sgrR	VF_A0557, VFA0557	DNA-binding transcriptional regulator			II	NC_006841.2	640722	642434	plus	0		
+312309	Vibrio fischeri ES114	3280347	0	live	smtA	VF_A0429, VFA0429	metallothionein SmtA			II	NC_006841.2	490251	491030	plus	0		
+312309	Vibrio fischeri ES114	3280606	0	live	speA	VF_A0840, VFA0840	arginine decarboxylase			II	NC_006841.2	947764	949674	minus	0		
+312309	Vibrio fischeri ES114	3280564	0	live	speB	VF_A0839, VFA0839	agmatinase			II	NC_006841.2	946838	947764	minus	0		
+312309	Vibrio fischeri ES114	3280309	0	live	speG	VF_A0385, VFA0385	spermidine N1-acetyltransferase			II	NC_006841.2	436289	436825	plus	0		
+312309	Vibrio fischeri ES114	3280417	0	live	sstT	VF_A0803, VFA0803	serine/threonine transporter SstT			II	NC_006841.2	902525	903766	plus	0		
+312309	Vibrio fischeri ES114	3280948	0	live	sypA	VF_A1020, VFA1020	sulphate transporter, anti-sigma factor antagonist			II	NC_006841.2	1149604	1149921	plus	0		
+312309	Vibrio fischeri ES114	3279915	0	live	sypB	VF_A1021, VFA1021	hypothetical protein			II	NC_006841.2	1149970	1150794	plus	0		
+312309	Vibrio fischeri ES114	3280503	0	live	sypC	VF_A1022, VFA1022	polysaccharide export periplasmic protein			II	NC_006841.2	1150799	1152910	plus	0		
+312309	Vibrio fischeri ES114	3280510	0	live	sypD	VF_A1023, VFA1023	chromosome partitioning ATPase			II	NC_006841.2	1152910	1153617	plus	0		
+312309	Vibrio fischeri ES114	3280139	0	live	sypE	VF_A1024, VFA1024	two-component response regulator, sigma factor PP2C-like phosphatase			II	NC_006841.2	1153620	1155137	plus	0		
+312309	Vibrio fischeri ES114	3280956	0	live	sypF	VF_A1025, VFA1025	two-component hybrid sensor histidine kinase			II	NC_006841.2	1155165	1157465	plus	0		
+312309	Vibrio fischeri ES114	3280963	0	live	sypG	VF_A1026, VFA1026	Fis family transcriptional regulator			II	NC_006841.2	1157508	1159010	plus	0		
+312309	Vibrio fischeri ES114	3280953	0	live	sypH	VF_A1027, VFA1027	glycosyl transferases group 1			II	NC_006841.2	1158994	1160010	plus	0		
+312309	Vibrio fischeri ES114	3280961	0	live	sypI	VF_A1028, VFA1028	glycosyl transferases group 1			II	NC_006841.2	1160171	1161445	plus	0		
+312309	Vibrio fischeri ES114	3280502	0	live	sypJ	VF_A1029, VFA1029	glycosyl transferases group 1			II	NC_006841.2	1161438	1162601	plus	0		
+312309	Vibrio fischeri ES114	3280067	0	live	sypK	VF_A1030, VFA1030	oligosaccharide translocase			II	NC_006841.2	1162598	1164040	plus	0		
+312309	Vibrio fischeri ES114	3280965	0	live	sypL	VF_A1031, VFA1031	polysaccharide ligase			II	NC_006841.2	1164037	1165422	plus	0		
+312309	Vibrio fischeri ES114	3280967	0	live	sypM	VF_A1032, VFA1032	acetyltransferase			II	NC_006841.2	1165569	1166324	plus	0		
+312309	Vibrio fischeri ES114	3280553	0	live	sypN	VF_A1033, VFA1033	glycosyltransferase			II	NC_006841.2	1166314	1167450	plus	0		
+312309	Vibrio fischeri ES114	3280968	0	live	sypO	VF_A1034, VFA1034	chain length regulator (capsular polysaccharide biosynthesis)			II	NC_006841.2	1167447	1168946	plus	0		
+312309	Vibrio fischeri ES114	3280147	0	live	sypP	VF_A1035, VFA1035	glycosyltransferase			II	NC_006841.2	1169102	1170190	plus	0		
+312309	Vibrio fischeri ES114	3280355	0	live	sypQ	VF_A1036, VFA1036	glycosyltransferase			II	NC_006841.2	1170187	1171374	plus	0		
+312309	Vibrio fischeri ES114	3280041	0	live	sypR	VF_A1037, VFA1037	sugar transferase			II	NC_006841.2	1171389	1172033	plus	0		
+312309	Vibrio fischeri ES114	3280521	0	live	tadA2	VF_A0223, VFA0223	similar to TadA	similar to TadA|type IV secretion NTPase		II	NC_006841.2	247333	248619	plus	0		
+312309	Vibrio fischeri ES114	3279955	0	live	tadB2	VF_A0224, VFA0224	TadB-like protein involved in pilus formation and/or protein secretion			II	NC_006841.2	248616	249539	plus	0		
+312309	Vibrio fischeri ES114	3280128	0	live	tadC2	VF_A0225, VFA0225	similar to TadC	similar to TadC|bipartite nuclear localization signal containing protein		II	NC_006841.2	249509	250420	plus	0		
+312309	Vibrio fischeri ES114	3280405	0	live	tadD2	VF_A0226, VFA0226	similar to TadD	similar to TadD|TPR repeat-containing protein		II	NC_006841.2	250410	251153	plus	0		
+312309	Vibrio fischeri ES114	3280425	0	live	tadE2	VF_A0227, VFA0227	TadE-like protein			II	NC_006841.2	251158	251646	plus	0		
+312309	Vibrio fischeri ES114	3280151	0	live	tadF2	VF_A0228, VFA0228	involved in fimbraea and/or secretion	involved in fimbraea and/or secretion|ATP/GTP-binding motif-containing protein		II	NC_006841.2	251630	252169	plus	0		
+312309	Vibrio fischeri ES114	3280555	0	live	tadG2	VF_A0229, VFA0229	TadG-like protein			II	NC_006841.2	252171	253442	plus	0		
+312309	Vibrio fischeri ES114	3280198	0	live	tag	VF_A0815, VFA0815	3-methyl-adenine DNA glycosylase I			II	NC_006841.2	920693	921262	minus	0		
+312309	Vibrio fischeri ES114	3280664	0	live	tagD	VF_A0889, VFA0889	lipid hydroperoxide peroxidase			II	NC_006841.2	1007930	1008436	plus	0		
+312309	Vibrio fischeri ES114	3280859	0	live	talB	VF_A0685, VFA0685	transaldolase B			II	NC_006841.2	756912	757862	plus	0		
+312309	Vibrio fischeri ES114	3280655	0	live	tas	VF_A0836, VFA0836	oxidoreductase, NADP(H)-dependent aldo-keto reductase			II	NC_006841.2	941168	942220	plus	0		
+312309	Vibrio fischeri ES114	3280969	0	live	tauC	VF_A0318, VFA0318	taurine transporter permease subunit			II	NC_006841.2	351857	352675	plus	0		
+312309	Vibrio fischeri ES114	3280232	0	live	tcpA	VF_A0875, VFA0875	toxin coregulated pilin subunit precursor TcpA			II	NC_006841.2	987057	987683	minus	0		
+312309	Vibrio fischeri ES114	3280912	0	live	tcpB	VF_A0874, VFA0874	toxin coregulated pilus biosynthesis protein TcpB			II	NC_006841.2	985700	987037	minus	0		
+312309	Vibrio fischeri ES114	3280678	0	live	tcpC	VF_A0872, VFA0872	toxin coregulated pilus outer membrane protein TcpC			II	NC_006841.2	983724	985178	minus	0		
+312309	Vibrio fischeri ES114	3280683	0	live	tcpD	VF_A0870, VFA0870	toxin coregulated pilus biosynthesis protein TcpD			II	NC_006841.2	982491	983270	minus	0		
+312309	Vibrio fischeri ES114	3280915	0	live	tcpE	VF_A0867, VFA0867	toxin coregulated pilus biosynthesis protein TcpE			II	NC_006841.2	979538	980584	minus	0		
+312309	Vibrio fischeri ES114	3280662	0	live	tcpF	VF_A0866, VFA0866	toxin coregulated pilus biosynthesis protein TcpF			II	NC_006841.2	978674	979534	minus	0		
+312309	Vibrio fischeri ES114	3279860	0	live	tcpH	VF_A0474, VFA0474	TcpH protein			II	NC_006841.2	544913	545302	plus	0		
+312309	Vibrio fischeri ES114	3279981	0	live	tcpP	VF_A0473, VFA0473	transcriptional regulatory protein TcpP			II	NC_006841.2	544305	544916	plus	0		
+312309	Vibrio fischeri ES114	3280730	0	live	tcpQ	VF_A0873, VFA0873	toxin coregulated pilus biosynthesis protein TcpY/TcpQ			II	NC_006841.2	985183	985695	minus	0		
+312309	Vibrio fischeri ES114	3280703	0	live	tcpS	VF_A0869, VFA0869	toxin coregulated pilus biosynthesis protein TcpS			II	NC_006841.2	982028	982477	minus	0		
+312309	Vibrio fischeri ES114	3280668	0	live	tcpT	VF_A0868, VFA0868	toxin coregulated pilus biosynthesis protein TcpT			II	NC_006841.2	980538	982031	minus	0		
+312309	Vibrio fischeri ES114	3280714	0	live	tdh	VF_A0417, VFA0417	L-threonine 3-dehydrogenase			II	NC_006841.2	471213	472244	minus	0		
+312309	Vibrio fischeri ES114	3280983	0	live	tesA	VF_A1044, VFA1044	multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1			II	NC_006841.2	1179169	1179783	plus	0		
+312309	Vibrio fischeri ES114	3280458	0	live	thiD	VF_A0316, VFA0316	phosphomethylpyrimidine kinase			II	NC_006841.2	350247	351125	plus	0		
+312309	Vibrio fischeri ES114	3280572	0	live	thiE	VF_A0322, VFA0322	thiamine-phosphate pyrophosphorylase			II	NC_006841.2	355178	355816	plus	0		
+312309	Vibrio fischeri ES114	3280543	0	live	thiM	VF_A0321, VFA0321	hydroxyethylthiazole kinase			II	NC_006841.2	354364	355167	plus	0		
+312309	Vibrio fischeri ES114	3280851	0	live	tktB	VF_A0686, VFA0686	transketolase			II	NC_006841.2	758176	760167	plus	0		
+312309	Vibrio fischeri ES114	3280411	0	live	torA	VF_A0299, VFA0299	trimethylamine N-oxide (TMAO) reductase I, catalytic subunit			II	NC_006841.2	328854	331712	plus	0		
+312309	Vibrio fischeri ES114	3280018	0	live	torC	VF_A0298, VFA0298	trimethylamine N-oxide reductase, cytochrome c-type subunit			II	NC_006841.2	327652	328830	plus	0		
+312309	Vibrio fischeri ES114	3280218	0	live	torY	VF_A0189, VFA0189	TMAO reductase III (TorYZ), cytochrome c-type subunit			II	NC_006841.2	212544	213635	minus	0		
+312309	Vibrio fischeri ES114	3280140	0	live	torZ	VF_A0188, VFA0188	TMAO reductase III (TorYZ), TorZ subunit			II	NC_006841.2	210078	212531	minus	0		
+312309	Vibrio fischeri ES114	3280317	0	live	tppB	VF_A0124, VFA0124	tripeptide transporter permease			II	NC_006841.2	140955	142439	plus	0		
+312309	Vibrio fischeri ES114	3279940	0	live	treC	VF_A0731, VFA0731	trehalose-6-P hydrolase			II	NC_006841.2	827466	829097	plus	0		
+312309	Vibrio fischeri ES114	3280863	0	live	tyrR	VF_A0751, VFA0751	DNA-binding transcriptional regulator, tyrosine-binding			II	NC_006841.2	847527	849074	minus	0		
+312309	Vibrio fischeri ES114	3279979	0	live	uhpA	VF_A0041, VFA0041	DNA-binding response regulator in two-component regulatory system wtih UhpB			II	NC_006841.2	44954	45562	minus	0		
+312309	Vibrio fischeri ES114	3279966	0	live	uhpB	VF_A0040, VFA0040	sensory histidine kinase UhpB			II	NC_006841.2	43458	44915	minus	0		
+312309	Vibrio fischeri ES114	3279948	0	live	uhpC	VF_A0039, VFA0039	regulatory protein UhpC			II	NC_006841.2	42109	43449	minus	0		
+312309	Vibrio fischeri ES114	3279983	0	live	uhpT	VF_A0042, VFA0042	sugar phosphate antiporter			II	NC_006841.2	45710	47104	minus	0		
+312309	Vibrio fischeri ES114	3280485	0	live	ulaA	VF_A0129, VFA0129	PTS system ascorbate-specific transporter subunit IIC			II	NC_006841.2	144944	146200	plus	0		
+312309	Vibrio fischeri ES114	3280483	0	live	vctC	VF_A0824, VFA0824	ferric anguibactin transport ATP-binding protein			II	NC_006841.2	926590	927351	minus	0		
+312309	Vibrio fischeri ES114	3280395	0	live	vctD	VF_A0826, VFA0826	ferric anguibactin transport system permease protein FatD			II	NC_006841.2	928361	929194	minus	0		
+312309	Vibrio fischeri ES114	3280599	0	live	vctP	VF_A0827, VFA0827	ferric anguibactin-binding protein			II	NC_006841.2	929268	930173	minus	0		
+312309	Vibrio fischeri ES114	3280059	0	live	VF_A0001	VF_A0001, VFA0001	hypothetical protein			II	NC_006841.2	1053	3038	plus	0		
+312309	Vibrio fischeri ES114	3280745	0	live	VF_A0003	VF_A0003, VFA0003	hypothetical protein			II	NC_006841.2	4045	5586	plus	0		
+312309	Vibrio fischeri ES114	3280816	0	live	VF_A0005	VF_A0005, VFA0005	peptide-methionine (S)-S-oxide reductase			II	NC_006841.2	7276	8412	plus	0		
+312309	Vibrio fischeri ES114	3280828	0	live	VF_A0006	VF_A0006, VFA0006	hypothetical protein			II	NC_006841.2	8513	8833	plus	0		
+312309	Vibrio fischeri ES114	3280777	0	live	VF_A0007	VF_A0007, VFA0007	glutathione-dependent formaldehyde-activating enzyme			II	NC_006841.2	8922	9485	minus	0		
+312309	Vibrio fischeri ES114	3280225	0	live	VF_A0008	VF_A0008, VFA0008	phospholipase			II	NC_006841.2	9889	10761	plus	0		
+312309	Vibrio fischeri ES114	3279920	0	live	VF_A0010	VF_A0010, VFA0010	hypothetical protein			II	NC_006841.2	12290	12406	plus	0		
+312309	Vibrio fischeri ES114	3280754	0	live	VF_A0011	VF_A0011, VFA0011	hypothetical protein			II	NC_006841.2	12484	13023	plus	0		
+312309	Vibrio fischeri ES114	3280784	0	live	VF_A0012	VF_A0012, VFA0012	hypothetical protein			II	NC_006841.2	13066	13281	minus	0		
+312309	Vibrio fischeri ES114	3280772	0	live	VF_A0013	VF_A0013, VFA0013	chitin-binding protein			II	NC_006841.2	13291	14469	plus	0		
+312309	Vibrio fischeri ES114	3280930	0	live	VF_A0014	VF_A0014, VFA0014	hypothetical protein			II	NC_006841.2	14679	15218	plus	0		
+312309	Vibrio fischeri ES114	3280008	0	live	VF_A0015	VF_A0015, VFA0015	ABC transporter ATP-binding protein			II	NC_006841.2	15469	17055	plus	0		
+312309	Vibrio fischeri ES114	3280009	0	live	VF_A0016	VF_A0016, VFA0016	DNA polymerase III, epsilon-subunit paralog (3' to 5' exonuclease)			II	NC_006841.2	17141	17779	plus	0		
+312309	Vibrio fischeri ES114	3279866	0	live	VF_A0017	VF_A0017, VFA0017	lipoprotein			II	NC_006841.2	17825	19294	minus	0		
+312309	Vibrio fischeri ES114	3279982	0	live	VF_A0018	VF_A0018, VFA0018	ribosome-associated GTPase			II	NC_006841.2	19819	20880	plus	0		
+312309	Vibrio fischeri ES114	3279960	0	live	VF_A0019	VF_A0019, VFA0019	hypoxanthine-guanine phosphoribosyltransferase			II	NC_006841.2	21110	21634	plus	0		
+312309	Vibrio fischeri ES114	3280167	0	live	VF_A0020	VF_A0020, VFA0020	hypothetical protein			II	NC_006841.2	21694	21945	plus	0		
+312309	Vibrio fischeri ES114	3279967	0	live	VF_A0021	VF_A0021, VFA0021	di-/tripeptide transporter			II	NC_006841.2	23364	24878	plus	0		
+312309	Vibrio fischeri ES114	3279905	0	live	VF_A0022	VF_A0022, VFA0022	hypothetical protein			II	NC_006841.2	25270	25416	minus	0		
+312309	Vibrio fischeri ES114	3279848	0	live	VF_A0023	VF_A0023, VFA0023	enoyl-CoA hydratase			II	NC_006841.2	25486	26298	minus	0		
+312309	Vibrio fischeri ES114	3280892	0	live	VF_A0024	VF_A0024, VFA0024	LysR family transcriptional regulator			II	NC_006841.2	26478	27428	plus	0		
+312309	Vibrio fischeri ES114	3279986	0	live	VF_A0025	VF_A0025, VFA0025	MarR family transcriptional regulator			II	NC_006841.2	27455	27910	minus	0		
+312309	Vibrio fischeri ES114	3280042	0	live	VF_A0026	VF_A0026, VFA0026	hypothetical protein			II	NC_006841.2	28028	28330	plus	0		
+312309	Vibrio fischeri ES114	3280080	0	live	VF_A0027	VF_A0027, VFA0027	NADH oxidase			II	NC_006841.2	28398	29642	minus	0		
+312309	Vibrio fischeri ES114	3280770	0	live	VF_A0029	VF_A0029, VFA0029	AraC family transcriptional regulator			II	NC_006841.2	31173	32060	plus	0		
+312309	Vibrio fischeri ES114	3280811	0	live	VF_A0030	VF_A0030, VFA0030	drug/metabolite exporter family protein			II	NC_006841.2	32176	33033	plus	0		
+312309	Vibrio fischeri ES114	3280313	0	live	VF_A0031	VF_A0031, VFA0031	LysR family transcriptional regulator			II	NC_006841.2	33115	33999	minus	0		
+312309	Vibrio fischeri ES114	3280306	0	live	VF_A0032	VF_A0032, VFA0032	thioredoxin peroxidase			II	NC_006841.2	34163	34696	plus	0		
+312309	Vibrio fischeri ES114	3280296	0	live	VF_A0033	VF_A0033, VFA0033	hypothetical protein			II	NC_006841.2	34786	35157	minus	0		
+312309	Vibrio fischeri ES114	3279943	0	live	VF_A0034	VF_A0034, VFA0034	LysR family transcriptional regulator			II	NC_006841.2	35233	36129	minus	0		
+312309	Vibrio fischeri ES114	3280161	0	live	VF_A0036	VF_A0036, VFA0036	hypothetical protein			II	NC_006841.2	38543	39178	minus	0		
+312309	Vibrio fischeri ES114	3279856	0	live	VF_A0037	VF_A0037, VFA0037	hypothetical protein			II	NC_006841.2	39175	40587	minus	0		
+312309	Vibrio fischeri ES114	3279990	0	live	VF_A0038	VF_A0038, VFA0038	LysR family transcriptional regulator			II	NC_006841.2	40996	41835	plus	0		
+312309	Vibrio fischeri ES114	3279964	0	live	VF_A0043	VF_A0043, VFA0043	TetR family transcriptional regulator			II	NC_006841.2	47378	48121	minus	0		
+312309	Vibrio fischeri ES114	3280105	0	live	VF_A0044	VF_A0044, VFA0044	acriflavin resistance periplasmic protein			II	NC_006841.2	48364	49437	plus	0		
+312309	Vibrio fischeri ES114	3279965	0	live	VF_A0045	VF_A0045, VFA0045	hypothetical protein			II	NC_006841.2	49437	50498	plus	0		
+312309	Vibrio fischeri ES114	3280288	0	live	VF_A0046	VF_A0046, VFA0046, VFA0047	acriflavin resistance plasma membrane protein			II	NC_006841.2	50498	53563	plus	0		
+312309	Vibrio fischeri ES114	3280179	0	live	VF_A0048	VF_A0048, VFA0048	pentapeptide repeat-containing protein			II	NC_006841.2	53662	54114	minus	0		
+312309	Vibrio fischeri ES114	3280294	0	live	VF_A0049	VF_A0049, VFA0049	ArsR family transcriptional regulator			II	NC_006841.2	54120	54515	minus	0		
+312309	Vibrio fischeri ES114	3280762	0	live	VF_A0050	VF_A0050, VFA0050	transporter			II	NC_006841.2	54571	55536	minus	0		
+312309	Vibrio fischeri ES114	3280764	0	live	VF_A0051	VF_A0051, VFA0051	cytoplasmic protein			II	NC_006841.2	55692	56108	plus	0		
+312309	Vibrio fischeri ES114	3280766	0	live	VF_A0053	VF_A0053, VFA0053	LysR family transcriptional regulator			II	NC_006841.2	57119	58021	plus	0		
+312309	Vibrio fischeri ES114	3280783	0	live	VF_A0054	VF_A0054, VFA0054	Cro/Cl family transcriptional regulator			II	NC_006841.2	58085	58294	minus	0		
+312309	Vibrio fischeri ES114	3280800	0	live	VF_A0055	VF_A0055, VFA0055	hypothetical protein			II	NC_006841.2	58306	58848	minus	0		
+312309	Vibrio fischeri ES114	3280758	0	live	VF_A0056	VF_A0056, VFA0056	GGDEF domain-containing protein			II	NC_006841.2	59062	60378	plus	0		
+312309	Vibrio fischeri ES114	3280805	0	live	VF_A0057	VF_A0057, VFA0057	GGDEF domain-containing protein			II	NC_006841.2	60359	62350	minus	0		
+312309	Vibrio fischeri ES114	3280802	0	live	VF_A0058	VF_A0058, VFA0058	hypothetical protein			II	NC_006841.2	62347	62928	minus	0		
+312309	Vibrio fischeri ES114	3280786	0	live	VF_A0059	VF_A0059, VFA0059	TonB-dependent outer membrane receptor			II	NC_006841.2	62931	65114	minus	0		
+312309	Vibrio fischeri ES114	3280341	0	live	VF_A0065	VF_A0065, VFA0065	hydrolase			II	NC_006841.2	70180	70926	plus	0		
+312309	Vibrio fischeri ES114	3280846	0	live	VF_A0066	VF_A0066, VFA0066	hypothetical protein			II	NC_006841.2	70115	70207	minus	0		
+312309	Vibrio fischeri ES114	3280850	0	live	VF_A0067	VF_A0067, VFA0067	oxalate/formate antiporter			II	NC_006841.2	71015	72223	minus	0		
+312309	Vibrio fischeri ES114	3280858	0	live	VF_A0068	VF_A0068, VFA0068	hypothetical protein			II	NC_006841.2	72233	72415	minus	0		
+312309	Vibrio fischeri ES114	3280346	0	live	VF_A0069	VF_A0069, VFA0069	hypothetical protein			II	NC_006841.2	72796	73569	plus	0		
+312309	Vibrio fischeri ES114	3280358	0	live	VF_A0070	VF_A0070, VFA0070	lipoprotein			II	NC_006841.2	73619	74080	minus	0		
+312309	Vibrio fischeri ES114	3280262	0	live	VF_A0072	VF_A0072, VFA0072	hybrid two component sensor histidine kinase			II	NC_006841.2	74922	76649	plus	0		
+312309	Vibrio fischeri ES114	3280281	0	live	VF_A0073	VF_A0073, VFA0073	di-/tripeptide transporter			II	NC_006841.2	76715	78190	minus	0		
+312309	Vibrio fischeri ES114	3280476	0	live	VF_A0074	VF_A0074, VFA0074	hypothetical protein			II	NC_006841.2	78455	79375	minus	0		
+312309	Vibrio fischeri ES114	3280020	0	live	VF_A0084	VF_A0084, VFA0084	ferredoxin-type protein NapF			II	NC_006841.2	91255	91812	plus	0		
+312309	Vibrio fischeri ES114	3280087	0	live	VF_A0085	VF_A0085, VFA0085	transporter			II	NC_006841.2	91891	92985	minus	0		
+312309	Vibrio fischeri ES114	3280090	0	live	VF_A0087	VF_A0087, VFA0087	outer membrane protein RomA			II	NC_006841.2	95069	96136	minus	0		
+312309	Vibrio fischeri ES114	3279947	0	live	VF_A0088	VF_A0088, VFA0088	transcriptional regulator			II	NC_006841.2	96371	96985	plus	0		
+312309	Vibrio fischeri ES114	3280165	0	live	VF_A0089	VF_A0089, VFA0089	hydrolase/lipase			II	NC_006841.2	97108	98079	plus	0		
+312309	Vibrio fischeri ES114	3280098	0	live	VF_A0090	VF_A0090, VFA0090	astacin-like metalloendopeptidase			II	NC_006841.2	98085	99218	minus	0		
+312309	Vibrio fischeri ES114	3280092	0	live	VF_A0091	VF_A0091, VFA0091	M3 family peptidase			II	NC_006841.2	100117	101964	minus	0		
+312309	Vibrio fischeri ES114	3280101	0	live	VF_A0092	VF_A0092, VFA0092	methyl-accepting chemotaxis protein, aerotaxis receptor			II	NC_006841.2	102112	103668	minus	0		
+312309	Vibrio fischeri ES114	3280030	0	live	VF_A0096	VF_A0096, VFA0096	ABC transporter permease protein			II	NC_006841.2	106864	108525	minus	0		
+312309	Vibrio fischeri ES114	3279884	0	live	VF_A0099	VF_A0099, VFA0099	glutamate synthase			II	NC_006841.2	110622	111395	minus	0		
+312309	Vibrio fischeri ES114	3279849	0	live	VF_A0101	VF_A0101, VFA0101	thiosulfate sulfurtransferase			II	NC_006841.2	113218	114201	minus	0		
+312309	Vibrio fischeri ES114	3280366	0	live	VF_A0102	VF_A0102, VFA0102	two component sensor histidine kinase			II	NC_006841.2	114614	116311	plus	0		
+312309	Vibrio fischeri ES114	3280033	0	live	VF_A0103	VF_A0103, VFA0103	two component response regulator			II	NC_006841.2	116320	116937	plus	0		
+312309	Vibrio fischeri ES114	3279984	0	live	VF_A0105	VF_A0105, VFA0105	transcriptional regulator			II	NC_006841.2	117784	118719	plus	0		
+312309	Vibrio fischeri ES114	3280158	0	live	VF_A0106	VF_A0106, VFA0106	beta-mannosidase			II	NC_006841.2	118786	121194	minus	0		
+312309	Vibrio fischeri ES114	3280086	0	live	VF_A0107	VF_A0107, VFA0107	methyl-accepting chemotaxis protein			II	NC_006841.2	121704	123524	plus	0		
+312309	Vibrio fischeri ES114	3279835	0	live	VF_A0108	VF_A0108, VFA0108	hypothetical protein			II	NC_006841.2	123777	124061	plus	0		
+312309	Vibrio fischeri ES114	3279838	0	live	VF_A0109	VF_A0109, VFA0109	hypothetical protein			II	NC_006841.2	124143	124628	minus	0		
+312309	Vibrio fischeri ES114	3280497	0	live	VF_A0113	VF_A0113, VFA0113	NAD(P)H-dependent flavin reductase			II	NC_006841.2	128447	129106	minus	0		
+312309	Vibrio fischeri ES114	3280533	0	live	VF_A0114	VF_A0114, VFA0114	methyltransferase			II	NC_006841.2	129325	130494	plus	0		
+312309	Vibrio fischeri ES114	3280547	0	live	VF_A0115	VF_A0115, VFA0115	acetyltransferase			II	NC_006841.2	130570	131106	plus	0		
+312309	Vibrio fischeri ES114	3280488	0	live	VF_A0117	VF_A0117, VFA0117	drug/metabolite exporter family protein			II	NC_006841.2	132236	133135	minus	0		
+312309	Vibrio fischeri ES114	3280447	0	live	VF_A0118	VF_A0118, VFA0118	morphinone reductase			II	NC_006841.2	133199	134302	minus	0		
+312309	Vibrio fischeri ES114	3280444	0	live	VF_A0119	VF_A0119, VFA0119	lactoylglutathione lyase			II	NC_006841.2	134323	134694	minus	0		
+312309	Vibrio fischeri ES114	3280554	0	live	VF_A0120	VF_A0120, VFA0120	cytoplasmic protein			II	NC_006841.2	135014	137158	plus	0		
+312309	Vibrio fischeri ES114	3280556	0	live	VF_A0121	VF_A0121, VFA0121	hypothetical protein			II	NC_006841.2	137170	137643	plus	0		
+312309	Vibrio fischeri ES114	3280926	0	live	VF_A0122	VF_A0122, VFA0122	hypothetical protein			II	NC_006841.2	137700	138776	minus	0		
+312309	Vibrio fischeri ES114	3280325	0	live	VF_A0125	VF_A0125, VFA0125	rhodanese-related sulfurtransferase			II	NC_006841.2	142625	142975	plus	0		
+312309	Vibrio fischeri ES114	3280490	0	live	VF_A0126	VF_A0126, VFA0126	DNA-3-methyladenine glycosylase			II	NC_006841.2	142985	143692	minus	0		
+312309	Vibrio fischeri ES114	3280536	0	live	VF_A0127	VF_A0127, VFA0127	hypothetical protein			II	NC_006841.2	143883	144368	plus	0		
+312309	Vibrio fischeri ES114	3279836	0	live	VF_A0128	VF_A0128, VFA0128	PTS system, IIB component			II	NC_006841.2	144659	144928	plus	0		
+312309	Vibrio fischeri ES114	3280130	0	live	VF_A0130	VF_A0130, VFA0130	PTS system, 3-keto-L-gulonate specific IIA component			II	NC_006841.2	146185	146646	plus	0		
+312309	Vibrio fischeri ES114	3280204	0	live	VF_A0131	VF_A0131, VFA0131	CAAX amino protease			II	NC_006841.2	146805	147632	plus	0		
+312309	Vibrio fischeri ES114	3280535	0	live	VF_A0132	VF_A0132, VFA0132	hypothetical protein			II	NC_006841.2	147797	148033	plus	0		
+312309	Vibrio fischeri ES114	3280052	0	live	VF_A0133	VF_A0133, VFA0133	hypothetical protein			II	NC_006841.2	148094	148513	minus	0		
+312309	Vibrio fischeri ES114	3279892	0	live	VF_A0134	VF_A0134, VFA0134	hypothetical protein			II	NC_006841.2	148617	148718	minus	0		
+312309	Vibrio fischeri ES114	3280180	0	live	VF_A0135	VF_A0135, VFA0135	DNA helicase II			II	NC_006841.2	148687	150549	minus	0		
+312309	Vibrio fischeri ES114	3280178	0	live	VF_A0136	VF_A0136, VFA0136	hypothetical protein			II	NC_006841.2	150820	151947	plus	0		
+312309	Vibrio fischeri ES114	3280292	0	live	VF_A0137	VF_A0137, VFA0137	Type II restriction-modification system methylation subunit			II	NC_006841.2	151930	152520	minus	0		
+312309	Vibrio fischeri ES114	3280011	0	live	VF_A0138	VF_A0138, VFA0138	hypothetical protein			II	NC_006841.2	152687	153226	minus	0		
+312309	Vibrio fischeri ES114	3280327	0	live	VF_A0139	VF_A0139, VFA0139	hypothetical protein			II	NC_006841.2	153410	154444	minus	0		
+312309	Vibrio fischeri ES114	3280063	0	live	VF_A0140	VF_A0140, VFA0140	hypothetical protein			II	NC_006841.2	155000	155947	plus	0		
+312309	Vibrio fischeri ES114	6175906	0	live	VF_A0141	VF_A0141, VFA0141	pseudo			II	NC_006841.2	156033	157420	minus	0		
+312309	Vibrio fischeri ES114	3280303	0	live	VF_A0142	VF_A0142, VFA0142	formate acetyltransferase			II	NC_006841.2	157776	160073	minus	0		
+312309	Vibrio fischeri ES114	3280507	0	live	VF_A0146	VF_A0146, VFA0146	hypothetical protein			II	NC_006841.2	163976	164197	minus	0		
+312309	Vibrio fischeri ES114	3280525	0	live	VF_A0147	VF_A0147, VFA0147	hypothetical protein			II	NC_006841.2	164594	164788	plus	0		
+312309	Vibrio fischeri ES114	3280527	0	live	VF_A0149	VF_A0149, VFA0149	hypothetical protein			II	NC_006841.2	165617	165817	plus	0		
+312309	Vibrio fischeri ES114	3280499	0	live	VF_A0152	VF_A0152, VFA0152	GGDEF domain-containing protein			II	NC_006841.2	168529	169980	plus	0		
+312309	Vibrio fischeri ES114	3280531	0	live	VF_A0155	VF_A0155, VFA0155	GGDEF domain-containing protein			II	NC_006841.2	173231	174679	plus	0		
+312309	Vibrio fischeri ES114	3280045	0	live	VF_A0156	VF_A0156, VFA0156	hypothetical protein			II	NC_006841.2	174758	175489	plus	0		
+312309	Vibrio fischeri ES114	3280542	0	live	VF_A0157	VF_A0157, VFA0157	permease			II	NC_006841.2	175505	176710	minus	0		
+312309	Vibrio fischeri ES114	3280314	0	live	VF_A0167	VF_A0167, VFA0167	hypothetical protein			II	NC_006841.2	189869	190321	plus	0		
+312309	Vibrio fischeri ES114	3279883	0	live	VF_A0168	VF_A0168, VFA0168	methyl-accepting chemotaxis protein			II	NC_006841.2	190558	191808	plus	0		
+312309	Vibrio fischeri ES114	3280060	0	live	VF_A0169	VF_A0169, VFA0169	methyl-accepting chemotaxis protein			II	NC_006841.2	192233	193864	plus	0		
+312309	Vibrio fischeri ES114	3280924	0	live	VF_A0170	VF_A0170, VFA0170	methyl-accepting chemotaxis protein			II	NC_006841.2	194325	195950	plus	0		
+312309	Vibrio fischeri ES114	3280302	0	live	VF_A0171	VF_A0171, VFA0171	hypothetical protein			II	NC_006841.2	196139	196240	minus	0		
+312309	Vibrio fischeri ES114	3280291	0	live	VF_A0172	VF_A0172, VFA0172	hypothetical protein			II	NC_006841.2	196299	196553	plus	0		
+312309	Vibrio fischeri ES114	3280231	0	live	VF_A0173	VF_A0173, VFA0173	3-hydroxyisobutyrate dehydrogenase			II	NC_006841.2	196618	197499	minus	0		
+312309	Vibrio fischeri ES114	3280290	0	live	VF_A0174	VF_A0174, VFA0174	hypothetical protein			II	NC_006841.2	197650	198174	minus	0		
+312309	Vibrio fischeri ES114	3280939	0	live	VF_A0175	VF_A0175, VFA0175	hypothetical protein			II	NC_006841.2	198391	199311	minus	0		
+312309	Vibrio fischeri ES114	3280272	0	live	VF_A0176	VF_A0176, VFA0176	ArsR family transcriptional regulator			II	NC_006841.2	199419	199730	plus	0		
+312309	Vibrio fischeri ES114	3280253	0	live	VF_A0180	VF_A0180, VFA0180	hypothetical protein			II	NC_006841.2	202374	202799	minus	0		
+312309	Vibrio fischeri ES114	3280246	0	live	VF_A0181	VF_A0181, VFA0181	transcriptional regulator SyrB			II	NC_006841.2	202949	203614	plus	0		
+312309	Vibrio fischeri ES114	3280250	0	live	VF_A0182	VF_A0182, VFA0182	two component sensor histidine kinase			II	NC_006841.2	203620	205008	plus	0		
+312309	Vibrio fischeri ES114	3280141	0	live	VF_A0183	VF_A0183, VFA0183	hypothetical protein			II	NC_006841.2	205244	206275	plus	0		
+312309	Vibrio fischeri ES114	3280504	0	live	VF_A0184	VF_A0184, VFA0184	hypothetical protein			II	NC_006841.2	206285	206827	plus	0		
+312309	Vibrio fischeri ES114	3280104	0	live	VF_A0185	VF_A0185, VFA0185	hypothetical protein			II	NC_006841.2	206812	208551	plus	0		
+312309	Vibrio fischeri ES114	3279871	0	live	VF_A0190	VF_A0190, VFA0190	hypothetical protein			II	NC_006841.2	213769	213864	minus	0		
+312309	Vibrio fischeri ES114	3280933	0	live	VF_A0191	VF_A0191, VFA0191	FhuE receptor precursor			II	NC_006841.2	214002	216104	plus	0		
+312309	Vibrio fischeri ES114	3280245	0	live	VF_A0192	VF_A0192, VFA0192	hypothetical protein			II	NC_006841.2	216215	216982	plus	0		
+312309	Vibrio fischeri ES114	3280937	0	live	VF_A0193	VF_A0193, VFA0193	TolQ protein			II	NC_006841.2	216984	218339	plus	0		
+312309	Vibrio fischeri ES114	3280242	0	live	VF_A0194	VF_A0194, VFA0194	TolQ protein			II	NC_006841.2	218339	218848	plus	0		
+312309	Vibrio fischeri ES114	3280208	0	live	VF_A0195	VF_A0195, VFA0195	TolR protein			II	NC_006841.2	218845	219249	plus	0		
+312309	Vibrio fischeri ES114	3280201	0	live	VF_A0196	VF_A0196, VFA0196	TonB protein			II	NC_006841.2	219249	219869	plus	0		
+312309	Vibrio fischeri ES114	3280196	0	live	VF_A0197	VF_A0197, VFA0197	TPR domain-containing protein			II	NC_006841.2	219866	221047	plus	0		
+312309	Vibrio fischeri ES114	3280237	0	live	VF_A0198	VF_A0198, VFA0198	transcriptional repressor			II	NC_006841.2	221111	221590	minus	0		
+312309	Vibrio fischeri ES114	3280877	0	live	VF_A0199	VF_A0199, VFA0199	chitooligosaccharide transport ATP-binding protein oppD			II	NC_006841.2	221590	222522	minus	0		
+312309	Vibrio fischeri ES114	3280365	0	live	VF_A0200	VF_A0200, VFA0200	chitooligosaccharide transport ATP-binding protein oppF			II	NC_006841.2	222519	223385	minus	0		
+312309	Vibrio fischeri ES114	3280189	0	live	VF_A0201	VF_A0201, VFA0201	hypothetical protein			II	NC_006841.2	223683	224819	plus	0		
+312309	Vibrio fischeri ES114	3280184	0	live	VF_A0202	VF_A0202, VFA0202	hypothetical protein			II	NC_006841.2	224872	225270	minus	0		
+312309	Vibrio fischeri ES114	3280368	0	live	VF_A0203	VF_A0203, VFA0203	hypothetical protein			II	NC_006841.2	225569	225721	plus	0		
+312309	Vibrio fischeri ES114	3280489	0	live	VF_A0204	VF_A0204, VFA0204	hypothetical protein			II	NC_006841.2	225772	226410	minus	0		
+312309	Vibrio fischeri ES114	3280774	0	live	VF_A0207	VF_A0207, VFA0207	hypothetical protein			II	NC_006841.2	229014	229964	minus	0		
+312309	Vibrio fischeri ES114	3280761	0	live	VF_A0208	VF_A0208, VFA0208	arylsulfatase			II	NC_006841.2	230046	231212	minus	0		
+312309	Vibrio fischeri ES114	3280769	0	live	VF_A0209	VF_A0209, VFA0209	phosphatidylserine decarboxylase			II	NC_006841.2	231374	232774	plus	0		
+312309	Vibrio fischeri ES114	3280807	0	live	VF_A0211	VF_A0211, VFA0211	transcriptional regulator			II	NC_006841.2	234631	235317	plus	0		
+312309	Vibrio fischeri ES114	3280841	0	live	VF_A0212	VF_A0212, VFA0212	two component sensor histidine kinase			II	NC_006841.2	235305	236729	plus	0		
+312309	Vibrio fischeri ES114	3280834	0	live	VF_A0213	VF_A0213, VFA0213	sulfatase family protein			II	NC_006841.2	236799	238337	minus	0		
+312309	Vibrio fischeri ES114	3280838	0	live	VF_A0214	VF_A0214, VFA0214	transcriptional regulator SyrB			II	NC_006841.2	238736	239644	minus	0		
+312309	Vibrio fischeri ES114	3280335	0	live	VF_A0215	VF_A0215, VFA0215	hypothetical protein			II	NC_006841.2	240121	241011	plus	0		
+312309	Vibrio fischeri ES114	3280847	0	live	VF_A0216	VF_A0216, VFA0216	two component response regulator			II	NC_006841.2	241001	242149	plus	0		
+312309	Vibrio fischeri ES114	3280546	0	live	VF_A0217	VF_A0217, VFA0217	hypothetical protein			II	NC_006841.2	242118	242438	plus	0		
+312309	Vibrio fischeri ES114	3280852	0	live	VF_A0219	VF_A0219, VFA0219	tungstate-binding protein precursor			II	NC_006841.2	243460	244245	plus	0		
+312309	Vibrio fischeri ES114	3280505	0	live	VF_A0220	VF_A0220, VFA0220	general secretion pathway protein D			II	NC_006841.2	244256	245578	plus	0		
+312309	Vibrio fischeri ES114	3280540	0	live	VF_A0221	VF_A0221, VFA0221	lipoprotein			II	NC_006841.2	245575	246111	plus	0		
+312309	Vibrio fischeri ES114	3279858	0	live	VF_A0222	VF_A0222, VFA0222	chromosome partitioning ATPase			II	NC_006841.2	246113	247330	plus	0		
+312309	Vibrio fischeri ES114	3280463	0	live	VF_A0230	VF_A0230, VFA0230	hypothetical protein			II	NC_006841.2	253482	254243	plus	0		
+312309	Vibrio fischeri ES114	3280757	0	live	VF_A0231	VF_A0231, VFA0231	hypothetical protein			II	NC_006841.2	254364	254999	plus	0		
+312309	Vibrio fischeri ES114	3280123	0	live	VF_A0232	VF_A0232, VFA0232	hypothetical protein			II	NC_006841.2	254953	255414	plus	0		
+312309	Vibrio fischeri ES114	3280959	0	live	VF_A0233	VF_A0233, VFA0233	hypothetical protein			II	NC_006841.2	255417	257627	minus	0		
+312309	Vibrio fischeri ES114	3280494	0	live	VF_A0234	VF_A0234, VFA0234	hypothetical protein			II	NC_006841.2	257646	258041	minus	0		
+312309	Vibrio fischeri ES114	3280143	0	live	VF_A0240	VF_A0240, VFA0240	SUA5 protein			II	NC_006841.2	266819	267940	minus	0		
+312309	Vibrio fischeri ES114	3280537	0	live	VF_A0241	VF_A0241, VFA0241	choloylglycine hydrolase			II	NC_006841.2	268451	269539	plus	0		
+312309	Vibrio fischeri ES114	3280153	0	live	VF_A0244	VF_A0244, VFA0242, VFA0243, VFA0244	GGDEF/EAL domain-containing protein			II	NC_006841.2	269561	271267	minus	0		
+312309	Vibrio fischeri ES114	3280350	0	live	VF_A0245	VF_A0245, VFA0245	hypothetical protein			II	NC_006841.2	271588	271758	plus	0		
+312309	Vibrio fischeri ES114	3280021	0	live	VF_A0246	VF_A0246, VFA0246	methyl-accepting chemotaxis protein			II	NC_006841.2	271886	273751	plus	0		
+312309	Vibrio fischeri ES114	3280345	0	live	VF_A0247	VF_A0247, VFA0247	SUA5 protein			II	NC_006841.2	273794	274957	minus	0		
+312309	Vibrio fischeri ES114	3281003	0	live	VF_A0254	VF_A0254, VFA0254	lipoprotein			II	NC_006841.2	285425	285805	minus	0		
+312309	Vibrio fischeri ES114	3281007	0	live	VF_A0256	VF_A0256, VFA0256	hypothetical protein			II	NC_006841.2	287408	287782	plus	0		
+312309	Vibrio fischeri ES114	3280070	0	live	VF_A0257	VF_A0257, VFA0257	malate synthase			II	NC_006841.2	287878	288489	minus	0		
+312309	Vibrio fischeri ES114	3281008	0	live	VF_A0258	VF_A0258, VFA0258	MerR family transcriptional regulator			II	NC_006841.2	288598	290100	plus	0		
+312309	Vibrio fischeri ES114	3281019	0	live	VF_A0259	VF_A0259, VFA0259	transcriptional regulator			II	NC_006841.2	290138	291238	minus	0		
+312309	Vibrio fischeri ES114	3280478	0	live	VF_A0260	VF_A0260, VFA0260	glutathione-regulated potassium-efflux system protein KefC			II	NC_006841.2	291668	293584	minus	0		
+312309	Vibrio fischeri ES114	3280462	0	live	VF_A0261	VF_A0261, VFA0261	modulator of glutathione-dependent potassium efflux system			II	NC_006841.2	293592	294209	minus	0		
+312309	Vibrio fischeri ES114	3280031	0	live	VF_A0262	VF_A0262, VFA0262	quaternary ammonium compound-resistance protein			II	NC_006841.2	294325	294654	minus	0		
+312309	Vibrio fischeri ES114	3280377	0	live	VF_A0263	VF_A0263, VFA0263	hypothetical protein			II	NC_006841.2	294813	295220	minus	0		
+312309	Vibrio fischeri ES114	3279874	0	live	VF_A0265	VF_A0265, VFA0265	two component sensor histidine kinase			II	NC_006841.2	296576	297832	minus	0		
+312309	Vibrio fischeri ES114	3280174	0	live	VF_A0266	VF_A0266, VFA0266	transcriptional regulator			II	NC_006841.2	297807	298472	minus	0		
+312309	Vibrio fischeri ES114	3279875	0	live	VF_A0267	VF_A0267, VFA0267	hypothetical protein			II	NC_006841.2	298554	299438	plus	0		
+312309	Vibrio fischeri ES114	3279887	0	live	VF_A0269	VF_A0269, VFA0269	lipoprotein			II	NC_006841.2	300493	300867	minus	0		
+312309	Vibrio fischeri ES114	6175904	0	live	VF_A0270	VF_A0270, VFA0270, VFA0271	pseudo			II	NC_006841.2	301130	302038	plus	0		
+312309	Vibrio fischeri ES114	3279899	0	live	VF_A0272	VF_A0272, VFA0272	hypothetical protein			II	NC_006841.2	302049	303059	minus	0		
+312309	Vibrio fischeri ES114	3279894	0	live	VF_A0273	VF_A0273, VFA0273	elastase 2 precursor			II	NC_006841.2	303302	304261	plus	0		
+312309	Vibrio fischeri ES114	3280000	0	live	VF_A0274	VF_A0274, VFA0274	acyl-CoA desaturase			II	NC_006841.2	304321	305448	minus	0		
+312309	Vibrio fischeri ES114	3280005	0	live	VF_A0275	VF_A0275, VFA0275	hypothetical protein			II	NC_006841.2	305581	305817	plus	0		
+312309	Vibrio fischeri ES114	3280037	0	live	VF_A0276	VF_A0276, VFA0276	GGDEF domain-containing protein			II	NC_006841.2	305827	307062	minus	0		
+312309	Vibrio fischeri ES114	3280177	0	live	VF_A0277	VF_A0277, VFA0277	hypothetical protein			II	NC_006841.2	307799	308296	minus	0		
+312309	Vibrio fischeri ES114	3280559	0	live	VF_A0279	VF_A0279, VFA0279	hypothetical protein			II	NC_006841.2	309787	310956	plus	0		
+312309	Vibrio fischeri ES114	3279987	0	live	VF_A0280	VF_A0280, VFA0280	hypothetical protein			II	NC_006841.2	311017	311988	minus	0		
+312309	Vibrio fischeri ES114	3280988	0	live	VF_A0283	VF_A0283, VFA0283	aromatic amino acid aminotransferase			II	NC_006841.2	314832	316019	plus	0		
+312309	Vibrio fischeri ES114	3280351	0	live	VF_A0284	VF_A0284, VFA0284	ATP-dependent Zn protease			II	NC_006841.2	316084	316725	plus	0		
+312309	Vibrio fischeri ES114	3279908	0	live	VF_A0285	VF_A0285, VFA0285	amino-acid ABC transporter binding protein			II	NC_006841.2	316802	318220	minus	0		
+312309	Vibrio fischeri ES114	3280194	0	live	VF_A0286	VF_A0286, VFA0286	amino-acid ABC transporter binding protein			II	NC_006841.2	318311	319744	minus	0		
+312309	Vibrio fischeri ES114	3280094	0	live	VF_A0287	VF_A0287, VFA0287	hypothetical protein			II	NC_006841.2	320009	320548	minus	0		
+312309	Vibrio fischeri ES114	3280016	0	live	VF_A0288	VF_A0288, VFA0288	protein YgiW precursor			II	NC_006841.2	320632	321012	minus	0		
+312309	Vibrio fischeri ES114	3279953	0	live	VF_A0294	VF_A0294, VFA0294	hypothetical protein			II	NC_006841.2	325995	326171	minus	0		
+312309	Vibrio fischeri ES114	3280541	0	live	VF_A0296	VF_A0296, VFA0296	hypothetical protein			II	NC_006841.2	326739	327086	plus	0		
+312309	Vibrio fischeri ES114	3280538	0	live	VF_A0297	VF_A0297, VFA0297	TorE protein			II	NC_006841.2	327418	327594	plus	0		
+312309	Vibrio fischeri ES114	3280397	0	live	VF_A0300	VF_A0300, VFA0300	methyl-accepting chemotaxis protein			II	NC_006841.2	331950	333935	plus	0		
+312309	Vibrio fischeri ES114	3279931	0	live	VF_A0301	VF_A0301, VFA0301	alpha-galactosidase			II	NC_006841.2	334332	336071	plus	0		
+312309	Vibrio fischeri ES114	3280036	0	live	VF_A0302	VF_A0302, VFA0302	methyl-accepting chemotaxis protein			II	NC_006841.2	336291	338270	plus	0		
+312309	Vibrio fischeri ES114	3280044	0	live	VF_A0303	VF_A0303, VFA0303	hypothetical protein			II	NC_006841.2	338260	338406	plus	0		
+312309	Vibrio fischeri ES114	3280049	0	live	VF_A0304	VF_A0304, VFA0304	hypothetical protein			II	NC_006841.2	338455	339582	minus	0		
+312309	Vibrio fischeri ES114	3280148	0	live	VF_A0317	VF_A0317, VFA0317	hydroxymethylpyrimidine transport ATP-binding protein			II	NC_006841.2	351118	351864	plus	0		
+312309	Vibrio fischeri ES114	3280163	0	live	VF_A0319	VF_A0319, VFA0319	hydroxymethylpyrimidine-binding protein			II	NC_006841.2	352703	353650	plus	0		
+312309	Vibrio fischeri ES114	3280487	0	live	VF_A0320	VF_A0320, VFA0320	transcriptional activator TenA			II	NC_006841.2	353669	354331	plus	0		
+312309	Vibrio fischeri ES114	3280524	0	live	VF_A0323	VF_A0323, VFA0323	GGDEF domain-containing protein			II	NC_006841.2	355822	356634	minus	0		
+312309	Vibrio fischeri ES114	3280578	0	live	VF_A0324	VF_A0324, VFA0324	thiol:disulfide interchange protein DsbD			II	NC_006841.2	356822	358108	minus	0		
+312309	Vibrio fischeri ES114	3280026	0	live	VF_A0325	VF_A0325, VFA0325	methyl-accepting chemotaxis protein			II	NC_006841.2	358786	360471	plus	0		
+312309	Vibrio fischeri ES114	3280534	0	live	VF_A0326	VF_A0326, VFA0326	hypothetical protein			II	NC_006841.2	360529	361227	minus	0		
+312309	Vibrio fischeri ES114	3280391	0	live	VF_A0327	VF_A0327, VFA0327	hypothetical protein			II	NC_006841.2	361284	361454	plus	0		
+312309	Vibrio fischeri ES114	3280470	0	live	VF_A0329	VF_A0329, VFA0329	hypothetical protein			II	NC_006841.2	362440	363000	minus	0		
+312309	Vibrio fischeri ES114	3280390	0	live	VF_A0330	VF_A0330, VFA0330	hypothetical protein			II	NC_006841.2	363003	364505	minus	0		
+312309	Vibrio fischeri ES114	3280598	0	live	VF_A0331	VF_A0331, VFA0331	hypothetical protein			II	NC_006841.2	364534	366813	minus	0		
+312309	Vibrio fischeri ES114	3280434	0	live	VF_A0332	VF_A0332, VFA0332	TonB system receptor			II	NC_006841.2	366823	368958	minus	0		
+312309	Vibrio fischeri ES114	3280604	0	live	VF_A0334	VF_A0334, VFA0334	MarR family transcriptional regulator			II	NC_006841.2	371218	371736	minus	0		
+312309	Vibrio fischeri ES114	3280567	0	live	VF_A0335	VF_A0335, VFA0335	osmotically inducible protein C			II	NC_006841.2	371836	372258	plus	0		
+312309	Vibrio fischeri ES114	3280619	0	live	VF_A0336	VF_A0336, VFA0336	hypothetical protein			II	NC_006841.2	372277	372672	plus	0		
+312309	Vibrio fischeri ES114	3280868	0	live	VF_A0338	VF_A0338, VFA0337, VFA0338	glucosyl hydrolase precursor			II	NC_006841.2	372754	375132	minus	0		
+312309	Vibrio fischeri ES114	3280882	0	live	VF_A0340	VF_A0340, VFA0340	amino acid permease			II	NC_006841.2	376622	378046	minus	0		
+312309	Vibrio fischeri ES114	3280904	0	live	VF_A0341	VF_A0341, VFA0341	hypothetical protein			II	NC_006841.2	378811	378930	minus	0		
+312309	Vibrio fischeri ES114	3279869	0	live	VF_A0342	VF_A0342, VFA0342	GGDEF domain-containing protein			II	NC_006841.2	378969	380300	plus	0		
+312309	Vibrio fischeri ES114	3280321	0	live	VF_A0343	VF_A0343, VFA0343	GGDEF domain-containing protein			II	NC_006841.2	380290	381618	plus	0		
+312309	Vibrio fischeri ES114	3280047	0	live	VF_A0344	VF_A0344, VFA0344	diguanylate phosphodiesterase			II	NC_006841.2	381624	383054	plus	0		
+312309	Vibrio fischeri ES114	3280974	0	live	VF_A0349	VF_A0349, VFA0349	DNA polymerase III, epsilon-subunit paralog (3' to 5' exonuclease)			II	NC_006841.2	389729	390508	minus	0		
+312309	Vibrio fischeri ES114	3280387	0	live	VF_A0350	VF_A0350, VFA0350	cyclic nucleotide binding protein/CBS domain-containing proteins			II	NC_006841.2	390512	392371	minus	0		
+312309	Vibrio fischeri ES114	3281002	0	live	VF_A0357	VF_A0357, VFA0357	acriflavin resistance plasma membrane protein			II	NC_006841.2	399122	402172	minus	0		
+312309	Vibrio fischeri ES114	3281016	0	live	VF_A0358	VF_A0358, VFA0358	acriflavin resistance periplasmic protein			II	NC_006841.2	402176	403288	minus	0		
+312309	Vibrio fischeri ES114	3280954	0	live	VF_A0359	VF_A0359, VFA0359	TetR family transcriptional regulator			II	NC_006841.2	403459	404070	plus	0		
+312309	Vibrio fischeri ES114	3280582	0	live	VF_A0363	VF_A0363, VFA0363	sodium/proton-dependent alanine carrier protein			II	NC_006841.2	408563	410071	plus	0		
+312309	Vibrio fischeri ES114	3280260	0	live	VF_A0364	VF_A0364, VFA0364	transporter			II	NC_006841.2	410151	410543	plus	0		
+312309	Vibrio fischeri ES114	3280203	0	live	VF_A0365	VF_A0365, VFA0365	translation initiation inhibitor			II	NC_006841.2	410624	410971	plus	0		
+312309	Vibrio fischeri ES114	3279977	0	live	VF_A0366	VF_A0366, VFA0366	branched-chain amino acid transport system II carrier protein			II	NC_006841.2	411335	412651	plus	0		
+312309	Vibrio fischeri ES114	3280012	0	live	VF_A0367	VF_A0367, VFA0367	deacetylase			II	NC_006841.2	412725	413621	plus	0		
+312309	Vibrio fischeri ES114	3279929	0	live	VF_A0368	VF_A0368, VFA0368	hypothetical protein			II	NC_006841.2	413840	415525	plus	0		
+312309	Vibrio fischeri ES114	3279921	0	live	VF_A0369	VF_A0369, VFA0369	PTS system, fructose-like-1 IIA component			II	NC_006841.2	415806	416237	plus	0		
+312309	Vibrio fischeri ES114	3280615	0	live	VF_A0370	VF_A0370, VFA0370	PTS system, fructose-like enzyme IIC component			II	NC_006841.2	416255	417658	plus	0		
+312309	Vibrio fischeri ES114	3280609	0	live	VF_A0371	VF_A0371, VFA0371	hypothetical protein			II	NC_006841.2	417813	418373	minus	0		
+312309	Vibrio fischeri ES114	3280670	0	live	VF_A0373	VF_A0373, VFA0373	mechanosensitive ion channel MscS			II	NC_006841.2	420219	421493	plus	0		
+312309	Vibrio fischeri ES114	3280647	0	live	VF_A0374	VF_A0374, VFA0374	ATP-dependent RNA helicase			II	NC_006841.2	421737	423041	plus	0		
+312309	Vibrio fischeri ES114	3280379	0	live	VF_A0375	VF_A0375, VFA0375	hypothetical protein			II	NC_006841.2	423316	424194	plus	0		
+312309	Vibrio fischeri ES114	3280705	0	live	VF_A0376	VF_A0376, VFA0376	hypothetical protein			II	NC_006841.2	424198	425322	plus	0		
+312309	Vibrio fischeri ES114	3280687	0	live	VF_A0377	VF_A0377, VFA0377	hypothetical protein			II	NC_006841.2	425333	426385	plus	0		
+312309	Vibrio fischeri ES114	3280268	0	live	VF_A0378	VF_A0378, VFA0378	glycine betaine transporter			II	NC_006841.2	426464	428065	minus	0		
+312309	Vibrio fischeri ES114	3280880	0	live	VF_A0381	VF_A0381, VFA0381	GGDEF domain-containing protein			II	NC_006841.2	429932	431086	minus	0		
+312309	Vibrio fischeri ES114	3280870	0	live	VF_A0382	VF_A0382, VFA0382	hypothetical protein			II	NC_006841.2	431309	431668	plus	0		
+312309	Vibrio fischeri ES114	3280768	0	live	VF_A0386	VF_A0386, VFA0386	formate/nitrite transporter family protein			II	NC_006841.2	436886	438349	minus	0		
+312309	Vibrio fischeri ES114	3280357	0	live	VF_A0387	VF_A0387, VFA0387	LysR family transcriptional regulator			II	NC_006841.2	438535	439446	plus	0		
+312309	Vibrio fischeri ES114	3280312	0	live	VF_A0388	VF_A0388, VFA0388	hypothetical protein			II	NC_006841.2	439542	440222	plus	0		
+312309	Vibrio fischeri ES114	3280359	0	live	VF_A0389	VF_A0389, VFA0389	methyl-accepting chemotaxis protein			II	NC_006841.2	440416	442281	plus	0		
+312309	Vibrio fischeri ES114	3281009	0	live	VF_A0390	VF_A0390, VFA0390	amino acid ABC transporter permease			II	NC_006841.2	442353	443213	minus	0		
+312309	Vibrio fischeri ES114	3280354	0	live	VF_A0391	VF_A0391, VFA0391	ABC transporter amino acid-binding protein			II	NC_006841.2	443217	444026	minus	0		
+312309	Vibrio fischeri ES114	3280804	0	live	VF_A0393	VF_A0393, VFA0393	amino acid transport ATP-binding protein			II	NC_006841.2	444837	445583	minus	0		
+312309	Vibrio fischeri ES114	3280823	0	live	VF_A0396	VF_A0396, VFA0396	5'-nucleotidase			II	NC_006841.2	448796	450535	plus	0		
+312309	Vibrio fischeri ES114	3280338	0	live	VF_A0397	VF_A0397, VFA0397	hypothetical protein			II	NC_006841.2	450997	451185	plus	0		
+312309	Vibrio fischeri ES114	3280336	0	live	VF_A0398	VF_A0398, VFA0398	GGDEF domain-containing protein			II	NC_006841.2	451254	452837	minus	0		
+312309	Vibrio fischeri ES114	3280329	0	live	VF_A0399	VF_A0399, VFA0399	hypothetical protein			II	NC_006841.2	452839	454308	minus	0		
+312309	Vibrio fischeri ES114	3280627	0	live	VF_A0401	VF_A0401, VFA0401	hypothetical protein			II	NC_006841.2	455419	456888	minus	0		
+312309	Vibrio fischeri ES114	3280632	0	live	VF_A0403	VF_A0403, VFA0403	potassium uptake protein KtrA			II	NC_006841.2	457990	458652	plus	0		
+312309	Vibrio fischeri ES114	3280607	0	live	VF_A0404	VF_A0404, VFA0404	potassium uptake protein KtrB			II	NC_006841.2	458649	460013	plus	0		
+312309	Vibrio fischeri ES114	3280625	0	live	VF_A0406	VF_A0406, VFA0406	hydrogenase cytochrome b-type			II	NC_006841.2	461356	462006	minus	0		
+312309	Vibrio fischeri ES114	3280568	0	live	VF_A0407	VF_A0407, VFA0407	cytochrome c'			II	NC_006841.2	462022	462477	minus	0		
+312309	Vibrio fischeri ES114	3280676	0	live	VF_A0408	VF_A0408, VFA0408	phosphohydrolase (MutT/nudix family protein)			II	NC_006841.2	462673	463200	plus	0		
+312309	Vibrio fischeri ES114	3280921	0	live	VF_A0410	VF_A0410, VFA0410	hypothetical protein			II	NC_006841.2	463483	463809	minus	0		
+312309	Vibrio fischeri ES114	3280674	0	live	VF_A0413	VF_A0413, VFA0413	hypothetical protein			II	NC_006841.2	466371	466568	plus	0		
+312309	Vibrio fischeri ES114	3280684	0	live	VF_A0414	VF_A0414, VFA0414	ATP-dependent protease (Lon-like)			II	NC_006841.2	466959	469289	plus	0		
+312309	Vibrio fischeri ES114	3280694	0	live	VF_A0415	VF_A0415, VFA0415	hypothetical protein			II	NC_006841.2	469485	470714	plus	0		
+312309	Vibrio fischeri ES114	3280728	0	live	VF_A0416	VF_A0416, VFA0416	DOPA 4,5-dioxygenase			II	NC_006841.2	470789	471130	minus	0		
+312309	Vibrio fischeri ES114	3280688	0	live	VF_A0419	VF_A0419, VFA0419	LysR family transcriptional regulator			II	NC_006841.2	473563	474498	plus	0		
+312309	Vibrio fischeri ES114	3280257	0	live	VF_A0420	VF_A0420, VFA0420	hypothetical protein			II	NC_006841.2	474485	474862	plus	0		
+312309	Vibrio fischeri ES114	3280316	0	live	VF_A0421	VF_A0421, VFA0421	manganese-dependent inorganic pyrophosphatase			II	NC_006841.2	481259	482179	plus	0		
+312309	Vibrio fischeri ES114	3280812	0	live	VF_A0422	VF_A0422, VFA0422	hypothetical protein			II	NC_006841.2	482650	483174	minus	0		
+312309	Vibrio fischeri ES114	3280342	0	live	VF_A0426	VF_A0426, VFA0426	cytosolic protein			II	NC_006841.2	488255	488452	plus	0		
+312309	Vibrio fischeri ES114	3280117	0	live	VF_A0434	VF_A0434, VFA0433, VFA0434	DnaJ-related protein			II	NC_006841.2	497694	498311	plus	0		
+312309	Vibrio fischeri ES114	3280065	0	live	VF_A0435	VF_A0435, VFA0435	two component sensor histidine kinase			II	NC_006841.2	498318	499667	minus	0		
+312309	Vibrio fischeri ES114	3280146	0	live	VF_A0436	VF_A0436, VFA0436	transcriptional regulatory protein			II	NC_006841.2	499648	500325	minus	0		
+312309	Vibrio fischeri ES114	3280088	0	live	VF_A0437	VF_A0437, VFA0437	hypothetical protein			II	NC_006841.2	500566	500967	plus	0		
+312309	Vibrio fischeri ES114	3280017	0	live	VF_A0440	VF_A0440, VFA0440	esterase			II	NC_006841.2	504037	504891	plus	0		
+312309	Vibrio fischeri ES114	3280949	0	live	VF_A0441	VF_A0441, VFA0441	hypothetical protein			II	NC_006841.2	504985	506022	minus	0		
+312309	Vibrio fischeri ES114	3279862	0	live	VF_A0442	VF_A0442, VFA0442	hypothetical protein			II	NC_006841.2	506224	506619	plus	0		
+312309	Vibrio fischeri ES114	3279942	0	live	VF_A0447	VF_A0447, VFA0447	methyl-accepting chemotaxis protein			II	NC_006841.2	513408	515036	minus	0		
+312309	Vibrio fischeri ES114	3279904	0	live	VF_A0448	VF_A0448, VFA0448	methyl-accepting chemotaxis protein			II	NC_006841.2	515255	516883	minus	0		
+312309	Vibrio fischeri ES114	3279878	0	live	VF_A0449	VF_A0449, VFA0449	hypothetical protein			II	NC_006841.2	517067	517312	minus	0		
+312309	Vibrio fischeri ES114	3279891	0	live	VF_A0455	VF_A0455, VFA0455	hypothetical protein			II	NC_006841.2	523991	524629	plus	0		
+312309	Vibrio fischeri ES114	3280134	0	live	VF_A0456	VF_A0456, VFA0456	peptidyl-prolyl cis-trans isomerase			II	NC_006841.2	524697	525170	minus	0		
+312309	Vibrio fischeri ES114	3279886	0	live	VF_A0457	VF_A0457, VFA0457	lipoprotein			II	NC_006841.2	525195	525830	minus	0		
+312309	Vibrio fischeri ES114	3279850	0	live	VF_A0458	VF_A0458, VFA0458	hypothetical protein			II	NC_006841.2	525937	526827	minus	0		
+312309	Vibrio fischeri ES114	3279933	0	live	VF_A0461	VF_A0461, VFA0461	hypothetical protein			II	NC_006841.2	530388	530957	minus	0		
+312309	Vibrio fischeri ES114	3280107	0	live	VF_A0465	VF_A0465, VFA0465	hypothetical protein			II	NC_006841.2	534451	535800	plus	0		
+312309	Vibrio fischeri ES114	6175903	0	live	VF_A0466	VF_A0466, VFA0466	pseudo			II	NC_006841.2	535800	537112	plus	0		
+312309	Vibrio fischeri ES114	3280175	0	live	VF_A0467	VF_A0467, VFA0467	permease			II	NC_006841.2	537118	538164	plus	0		
+312309	Vibrio fischeri ES114	3280071	0	live	VF_A0469	VF_A0469, VFA0469	6-phosphogluconolactonase			II	NC_006841.2	539801	540523	plus	0		
+312309	Vibrio fischeri ES114	3279957	0	live	VF_A0472	VF_A0472, VFA0472	transporter			II	NC_006841.2	543371	543994	plus	0		
+312309	Vibrio fischeri ES114	3280173	0	live	VF_A0475	VF_A0475, VFA0475	GGDEF domain-containing protein			II	NC_006841.2	545355	547046	plus	0		
+312309	Vibrio fischeri ES114	3280573	0	live	VF_A0476	VF_A0476, VFA0476	GGDEF domain-containing protein			II	NC_006841.2	547097	548389	plus	0		
+312309	Vibrio fischeri ES114	3279951	0	live	VF_A0477	VF_A0477, VFA0477	hypothetical protein			II	NC_006841.2	548510	549862	plus	0		
+312309	Vibrio fischeri ES114	3280024	0	live	VF_A0478	VF_A0478, VFA0478	N-acetylglucosaminyltransferase			II	NC_006841.2	549862	551175	plus	0		
+312309	Vibrio fischeri ES114	3280944	0	live	VF_A0479	VF_A0479, VFA0479	hypothetical protein			II	NC_006841.2	551181	552224	plus	0		
+312309	Vibrio fischeri ES114	3280213	0	live	VF_A0480	VF_A0480, VFA0480	hypothetical protein			II	NC_006841.2	552293	552541	plus	0		
+312309	Vibrio fischeri ES114	3280074	0	live	VF_A0481	VF_A0481, VFA0481	methyl-accepting chemotaxis protein			II	NC_006841.2	552592	554235	plus	0		
+312309	Vibrio fischeri ES114	3279980	0	live	VF_A0482	VF_A0482, VFA0482	sodium/glutamate symporter			II	NC_006841.2	554294	555517	minus	0		
+312309	Vibrio fischeri ES114	3279935	0	live	VF_A0483	VF_A0483, VFA0483	rod shape-determining protein RodA			II	NC_006841.2	555673	556770	minus	0		
+312309	Vibrio fischeri ES114	3280152	0	live	VF_A0484	VF_A0484, VFA0484	ribosomal large subunit pseudouridine synthase A			II	NC_006841.2	556957	558687	minus	0		
+312309	Vibrio fischeri ES114	3280160	0	live	VF_A0485	VF_A0485, VFA0485	ribosomal large subunit pseudouridine synthase A			II	NC_006841.2	558668	560368	minus	0		
+312309	Vibrio fischeri ES114	3280155	0	live	VF_A0486	VF_A0486, VFA0486	hypothetical protein			II	NC_006841.2	560503	560739	minus	0		
+312309	Vibrio fischeri ES114	3280054	0	live	VF_A0488	VF_A0488, VFA0488	hypothetical protein			II	NC_006841.2	561982	562857	minus	0		
+312309	Vibrio fischeri ES114	3280004	0	live	VF_A0489	VF_A0489, VFA0489	LysR family transcriptional regulator			II	NC_006841.2	563023	563955	minus	0		
+312309	Vibrio fischeri ES114	3279995	0	live	VF_A0490	VF_A0490, VFA0490	soluble lytic murein transglycosylase			II	NC_006841.2	564064	565059	plus	0		
+312309	Vibrio fischeri ES114	3280220	0	live	VF_A0491	VF_A0491, VFA0491	soluble lytic murein transglycosylase			II	NC_006841.2	565069	566073	plus	0		
+312309	Vibrio fischeri ES114	3280469	0	live	VF_A0497	VF_A0497, VFA0497	L-allo-threonine aldolase			II	NC_006841.2	572200	573204	minus	0		
+312309	Vibrio fischeri ES114	3279974	0	live	VF_A0500	VF_A0500, VFA0500	hypothetical protein			II	NC_006841.2	576604	576846	minus	0		
+312309	Vibrio fischeri ES114	3279872	0	live	VF_A0501	VF_A0501, VFA0501	hypothetical protein			II	NC_006841.2	576890	577327	minus	0		
+312309	Vibrio fischeri ES114	3279907	0	live	VF_A0502	VF_A0502, VFA0502	hypothetical protein			II	NC_006841.2	577536	578162	plus	0		
+312309	Vibrio fischeri ES114	3279970	0	live	VF_A0504	VF_A0504, VFA0504	hypothetical protein			II	NC_006841.2	579102	579524	plus	0		
+312309	Vibrio fischeri ES114	3280023	0	live	VF_A0505	VF_A0505, VFA0505	hypothetical protein			II	NC_006841.2	579566	580051	plus	0		
+312309	Vibrio fischeri ES114	3280452	0	live	VF_A0506	VF_A0506, VFA0506	two component response regulator			II	NC_006841.2	580074	581819	plus	0		
+312309	Vibrio fischeri ES114	3279952	0	live	VF_A0508	VF_A0508, VFA0508	hypothetical protein			II	NC_006841.2	583349	584344	minus	0		
+312309	Vibrio fischeri ES114	3280215	0	live	VF_A0509	VF_A0509, VFA0509	multidrug resistance ABC transporter ATP-binding and permease protein			II	NC_006841.2	584521	586347	minus	0		
+312309	Vibrio fischeri ES114	3280181	0	live	VF_A0510	VF_A0510, VFA0510	low-affinity zinc transport protein			II	NC_006841.2	586538	587506	plus	0		
+312309	Vibrio fischeri ES114	3280579	0	live	VF_A0512	VF_A0512, VFA0512	Phage integrase family protein			II	NC_006841.2	588898	589203	plus	0		
+312309	Vibrio fischeri ES114	3280515	0	live	VF_A0513	VF_A0513, VFA0513	DNA integration/recombination/invertion protein			II	NC_006841.2	589236	589418	plus	0		
+312309	Vibrio fischeri ES114	3280197	0	live	VF_A0514	VF_A0514, VFA0514	hypothetical protein			II	NC_006841.2	589544	590497	minus	0		
+312309	Vibrio fischeri ES114	3280428	0	live	VF_A0516	VF_A0516, VFA0516	lipoprotein			II	NC_006841.2	591629	593068	minus	0		
+312309	Vibrio fischeri ES114	3280432	0	live	VF_A0517	VF_A0517, VFA0517	hypothetical protein			II	NC_006841.2	593087	593851	minus	0		
+312309	Vibrio fischeri ES114	3279930	0	live	VF_A0518	VF_A0518, VFA0518	hypothetical protein			II	NC_006841.2	594094	594429	minus	0		
+312309	Vibrio fischeri ES114	3280885	0	live	VF_A0519	VF_A0519, VFA0519	hypothetical protein			II	NC_006841.2	594900	595799	minus	0		
+312309	Vibrio fischeri ES114	3280821	0	live	VF_A0520	VF_A0520, VFA0520	hypothetical protein			II	NC_006841.2	595895	596362	minus	0		
+312309	Vibrio fischeri ES114	3279963	0	live	VF_A0521	VF_A0521, VFA0521	hypothetical protein			II	NC_006841.2	596427	596870	minus	0		
+312309	Vibrio fischeri ES114	3279918	0	live	VF_A0522	VF_A0522, VFA0522	DNA repair protein RadC			II	NC_006841.2	596870	597343	minus	0		
+312309	Vibrio fischeri ES114	3280006	0	live	VF_A0523	VF_A0523, VFA0523	DNA-binding protein			II	NC_006841.2	597490	597681	plus	0		
+312309	Vibrio fischeri ES114	3280318	0	live	VF_A0524	VF_A0524, VFA0524	ribonuclease H			II	NC_006841.2	597774	598220	plus	0		
+312309	Vibrio fischeri ES114	3279876	0	live	VF_A0525	VF_A0525, VFA0525	AraC family transcriptional regulator			II	NC_006841.2	598645	599412	plus	0		
+312309	Vibrio fischeri ES114	3279961	0	live	VF_A0526	VF_A0526, VFA0526	GGDEF domain-containing protein			II	NC_006841.2	599443	600312	plus	0		
+312309	Vibrio fischeri ES114	3280142	0	live	VF_A0527	VF_A0527, VFA0527	methyl-accepting chemotaxis protein			II	NC_006841.2	600595	602205	plus	0		
+312309	Vibrio fischeri ES114	3279968	0	live	VF_A0528	VF_A0528, VFA0528	methyl-accepting chemotaxis protein			II	NC_006841.2	602634	604277	plus	0		
+312309	Vibrio fischeri ES114	3280420	0	live	VF_A0530	VF_A0530, VFA0530	uridine phosphorylase			II	NC_006841.2	605570	606304	plus	0		
+312309	Vibrio fischeri ES114	3279927	0	live	VF_A0531	VF_A0531, VFA0531	hypothetical protein			II	NC_006841.2	606435	607118	plus	0		
+312309	Vibrio fischeri ES114	3279939	0	live	VF_A0532	VF_A0532, VFA0532	hypothetical protein			II	NC_006841.2	607308	607451	plus	0		
+312309	Vibrio fischeri ES114	3280109	0	live	VF_A0533	VF_A0533, VFA0533	hypothetical protein			II	NC_006841.2	607543	609771	plus	0		
+312309	Vibrio fischeri ES114	3280978	0	live	VF_A0534	VF_A0534, VFA0534	hypothetical protein			II	NC_006841.2	610063	610233	plus	0		
+312309	Vibrio fischeri ES114	3280171	0	live	VF_A0536	VF_A0536, VFA0536	hypothetical protein			II	NC_006841.2	611708	613579	plus	0		
+312309	Vibrio fischeri ES114	3279923	0	live	VF_A0537	VF_A0537, VFA0537	type I restriction-modification system methylation subunit			II	NC_006841.2	613576	615042	plus	0		
+312309	Vibrio fischeri ES114	3280603	0	live	VF_A0538	VF_A0538, VFA0538	type I restriction-modification system specificity subunit			II	NC_006841.2	615042	616262	plus	0		
+312309	Vibrio fischeri ES114	3280126	0	live	VF_A0539	VF_A0539, VFA0539	type I restriction-modification system restriction subunit			II	NC_006841.2	616265	619258	plus	0		
+312309	Vibrio fischeri ES114	3280068	0	live	VF_A0540	VF_A0540, VFA0540	hypothetical protein			II	NC_006841.2	619283	620608	plus	0		
+312309	Vibrio fischeri ES114	3280132	0	live	VF_A0541	VF_A0541, VFA0541	hypothetical protein			II	NC_006841.2	621001	622650	plus	0		
+312309	Vibrio fischeri ES114	3280172	0	live	VF_A0542	VF_A0542, VFA0542	superfamily I DNA helicase			II	NC_006841.2	622655	626719	plus	0		
+312309	Vibrio fischeri ES114	3280809	0	live	VF_A0543	VF_A0543, VFA0543	hypothetical protein			II	NC_006841.2	626716	627219	plus	0		
+312309	Vibrio fischeri ES114	3280431	0	live	VF_A0544	VF_A0544, VFA0544	hypothetical protein			II	NC_006841.2	627213	627479	plus	0		
+312309	Vibrio fischeri ES114	3280381	0	live	VF_A0545	VF_A0545, VFA0545	cytoplasmic protein			II	NC_006841.2	627490	628893	plus	0		
+312309	Vibrio fischeri ES114	3280003	0	live	VF_A0546	VF_A0546, VFA0546	hypothetical protein			II	NC_006841.2	628883	629860	plus	0		
+312309	Vibrio fischeri ES114	3280617	0	live	VF_A0547	VF_A0547, VFA0547	hypothetical protein			II	NC_006841.2	629853	630443	plus	0		
+312309	Vibrio fischeri ES114	3279914	0	live	VF_A0549	VF_A0549, VFA0549	lipoprotein			II	NC_006841.2	632237	632686	minus	0		
+312309	Vibrio fischeri ES114	3279857	0	live	VF_A0550	VF_A0550, VFA0550	cytoplasmic protein			II	NC_006841.2	632699	634810	minus	0		
+312309	Vibrio fischeri ES114	3280227	0	live	VF_A0551	VF_A0551, VFA0551	diguanylate phosphodiesterase			II	NC_006841.2	635125	635925	minus	0		
+312309	Vibrio fischeri ES114	3279911	0	live	VF_A0552	VF_A0552, VFA0552	cytoplasmic protein			II	NC_006841.2	636076	636903	minus	0		
+312309	Vibrio fischeri ES114	3280412	0	live	VF_A0553	VF_A0553, VFA0553	ATP-dependent RNA helicase			II	NC_006841.2	637049	638431	plus	0		
+312309	Vibrio fischeri ES114	3279910	0	live	VF_A0554	VF_A0554, VFA0554	cytoplasmic protein			II	NC_006841.2	638577	638858	minus	0		
+312309	Vibrio fischeri ES114	3280162	0	live	VF_A0555	VF_A0555, VFA0555	phosphate-binding protein			II	NC_006841.2	638920	639732	minus	0		
+312309	Vibrio fischeri ES114	3279863	0	live	VF_A0556	VF_A0556, VFA0556	hypothetical protein			II	NC_006841.2	639795	640595	minus	0		
+312309	Vibrio fischeri ES114	3279901	0	live	VF_A0558	VF_A0558, VFA0558	coproporphyrinogen III oxidase			II	NC_006841.2	642482	643447	minus	0		
+312309	Vibrio fischeri ES114	3280518	0	live	VF_A0559	VF_A0559, VFA0559	hypothetical protein			II	NC_006841.2	643535	643801	plus	0		
+312309	Vibrio fischeri ES114	3279898	0	live	VF_A0560	VF_A0560, VFA0560	two component sensor histidine kinase			II	NC_006841.2	643933	645378	plus	0		
+312309	Vibrio fischeri ES114	3280952	0	live	VF_A0561	VF_A0561, VFA0561	similar to BasR	similar to BasR|two component response regulator		II	NC_006841.2	645353	646009	plus	0		
+312309	Vibrio fischeri ES114	3280409	0	live	VF_A0562	VF_A0562, VFA0562	hypothetical protein			II	NC_006841.2	646014	646922	plus	0		
+312309	Vibrio fischeri ES114	3280095	0	live	VF_A0563	VF_A0563, VFA0563	hypothetical protein			II	NC_006841.2	646922	647083	plus	0		
+312309	Vibrio fischeri ES114	3280421	0	live	VF_A0564	VF_A0564, VFA0564	TraF protein			II	NC_006841.2	647250	648449	plus	0		
+312309	Vibrio fischeri ES114	3279896	0	live	VF_A0566	VF_A0566, VFA0566	hypothetical protein			II	NC_006841.2	649096	649320	minus	0		
+312309	Vibrio fischeri ES114	3280112	0	live	VF_A0569	VF_A0569, VFA0569	hypothetical protein			II	NC_006841.2	654794	655354	plus	0		
+312309	Vibrio fischeri ES114	3279855	0	live	VF_A0571	VF_A0571, VFA0571	DNA integration/recombination/invertion protein			II	NC_006841.2	656429	657343	minus	0		
+312309	Vibrio fischeri ES114	3280089	0	live	VF_A0572	VF_A0572, VFA0572	minor tail protein			II	NC_006841.2	657487	657837	plus	0		
+312309	Vibrio fischeri ES114	3280116	0	live	VF_A0574	VF_A0574, VFA0574	hypothetical protein			II	NC_006841.2	658717	658824	minus	0		
+312309	Vibrio fischeri ES114	3280404	0	live	VF_A0575	VF_A0575, VFA0575	hypothetical protein			II	NC_006841.2	659275	659382	minus	0		
+312309	Vibrio fischeri ES114	3280370	0	live	VF_A0583	VF_A0583, VFA0583	hypothetical protein			II	NC_006841.2	666784	667350	plus	0		
+312309	Vibrio fischeri ES114	3279919	0	live	VF_A0584	VF_A0584, VFA0584	hypothetical protein			II	NC_006841.2	667426	668004	minus	0		
+312309	Vibrio fischeri ES114	3280113	0	live	VF_A0587	VF_A0587, VFA0587	transcriptional activator HlyU			II	NC_006841.2	671420	671695	minus	0		
+312309	Vibrio fischeri ES114	3280127	0	live	VF_A0588	VF_A0588, VFA0588	OmpA family domain-containing protein			II	NC_006841.2	671775	672329	minus	0		
+312309	Vibrio fischeri ES114	3279859	0	live	VF_A0589	VF_A0589, VFA0589	hypothetical protein			II	NC_006841.2	672439	673563	minus	0		
+312309	Vibrio fischeri ES114	3280480	0	live	VF_A0590	VF_A0590, VFA0590	daunorubicin resistance transmembrane protein			II	NC_006841.2	673567	674691	minus	0		
+312309	Vibrio fischeri ES114	3279841	0	live	VF_A0591	VF_A0591, VFA0591	multidrug resistance protein A			II	NC_006841.2	674711	675694	minus	0		
+312309	Vibrio fischeri ES114	3280966	0	live	VF_A0592	VF_A0592, VFA0592	type I secretion outer membrane protein			II	NC_006841.2	675699	677057	minus	0		
+312309	Vibrio fischeri ES114	3279976	0	live	VF_A0594	VF_A0594, VFA0594	hypothetical protein			II	NC_006841.2	678072	678368	plus	0		
+312309	Vibrio fischeri ES114	3280159	0	live	VF_A0595	VF_A0595, VFA0595	cold shock protein			II	NC_006841.2	678438	678644	minus	0		
+312309	Vibrio fischeri ES114	3279873	0	live	VF_A0596	VF_A0596, VFA0596	hypothetical protein			II	NC_006841.2	678842	679456	plus	0		
+312309	Vibrio fischeri ES114	3280970	0	live	VF_A0597	VF_A0597, VFA0597	LysR family transcriptional regulator			II	NC_006841.2	679484	680419	plus	0		
+312309	Vibrio fischeri ES114	3280157	0	live	VF_A0598	VF_A0598, VFA0598	hypothetical protein			II	NC_006841.2	680421	681650	minus	0		
+312309	Vibrio fischeri ES114	3281013	0	live	VF_A0599	VF_A0599, VFA0599	hypothetical protein			II	NC_006841.2	681687	682349	plus	0		
+312309	Vibrio fischeri ES114	3280102	0	live	VF_A0600	VF_A0600, VFA0600	hypothetical protein			II	NC_006841.2	682386	682895	minus	0		
+312309	Vibrio fischeri ES114	3280901	0	live	VF_A0601	VF_A0601, VFA0601	nicotinic acid mononucleotide adenylyltransferase			II	NC_006841.2	682902	683414	minus	0		
+312309	Vibrio fischeri ES114	3280883	0	live	VF_A0605	VF_A0605, VFA0605	hypothetical protein			II	NC_006841.2	685485	685904	plus	0		
+312309	Vibrio fischeri ES114	3280551	0	live	VF_A0606	VF_A0606, VFA0606	hypothetical protein			II	NC_006841.2	686004	686312	plus	0		
+312309	Vibrio fischeri ES114	3280326	0	live	VF_A0607	VF_A0607, VFA0607	hypothetical protein			II	NC_006841.2	686377	686820	minus	0		
+312309	Vibrio fischeri ES114	3280188	0	live	VF_A0608	VF_A0608, VFA0608	two component response regulator			II	NC_006841.2	686820	687824	minus	0		
+312309	Vibrio fischeri ES114	3279989	0	live	VF_A0609	VF_A0609, VFA0609	hypothetical protein			II	NC_006841.2	687960	688325	minus	0		
+312309	Vibrio fischeri ES114	3280185	0	live	VF_A0610	VF_A0610, VFA0610	hypothetical protein			II	NC_006841.2	688651	689202	minus	0		
+312309	Vibrio fischeri ES114	3279842	0	live	VF_A0612	VF_A0612, VFA0612	9-hexadecenoic acid cis-trans isomerase			II	NC_006841.2	690868	693222	plus	0		
+312309	Vibrio fischeri ES114	3280263	0	live	VF_A0613	VF_A0613, VFA0613	hypothetical protein			II	NC_006841.2	693386	693916	plus	0		
+312309	Vibrio fischeri ES114	3280235	0	live	VF_A0614	VF_A0614, VFA0614	hypothetical protein			II	NC_006841.2	693922	694296	minus	0		
+312309	Vibrio fischeri ES114	3280187	0	live	VF_A0615	VF_A0615, VFA0615	hypothetical protein			II	NC_006841.2	694489	695892	minus	0		
+312309	Vibrio fischeri ES114	3280211	0	live	VF_A0616	VF_A0616, VFA0616	hypothetical protein			II	NC_006841.2	696071	696304	minus	0		
+312309	Vibrio fischeri ES114	3279846	0	live	VF_A0617	VF_A0617, VFA0617	hypothetical protein			II	NC_006841.2	696468	698114	plus	0		
+312309	Vibrio fischeri ES114	3280465	0	live	VF_A0618	VF_A0618, VFA0618	hypothetical protein			II	NC_006841.2	698416	699756	plus	0		
+312309	Vibrio fischeri ES114	3280612	0	live	VF_A0619	VF_A0619, VFA0619	hypothetical protein			II	NC_006841.2	700152	700400	minus	0		
+312309	Vibrio fischeri ES114	3280239	0	live	VF_A0620	VF_A0620, VFA0620	hypothetical protein			II	NC_006841.2	700605	700832	plus	0		
+312309	Vibrio fischeri ES114	3280911	0	live	VF_A0621	VF_A0621, VFA0621	hypothetical protein			II	NC_006841.2	700904	701434	minus	0		
+312309	Vibrio fischeri ES114	3280666	0	live	VF_A0622	VF_A0622, VFA0622	lipoprotein			II	NC_006841.2	701630	702205	minus	0		
+312309	Vibrio fischeri ES114	3280667	0	live	VF_A0623	VF_A0623, VFA0623	hypothetical protein			II	NC_006841.2	702519	702620	minus	0		
+312309	Vibrio fischeri ES114	3280278	0	live	VF_A0625	VF_A0625, VFA0625	hypothetical protein			II	NC_006841.2	704117	704566	minus	0		
+312309	Vibrio fischeri ES114	3280697	0	live	VF_A0626	VF_A0626, VFA0626	acetyltransferase			II	NC_006841.2	704628	705062	minus	0		
+312309	Vibrio fischeri ES114	3280710	0	live	VF_A0627	VF_A0627, VFA0627	hypothetical protein			II	NC_006841.2	705313	705861	minus	0		
+312309	Vibrio fischeri ES114	3280238	0	live	VF_A0628	VF_A0628, VFA0628	3-methyl-2-oxobutanoate hydroxymethyltransferase			II	NC_006841.2	706054	706920	plus	0		
+312309	Vibrio fischeri ES114	3280224	0	live	VF_A0629	VF_A0629, VFA0629	hypothetical protein			II	NC_006841.2	707406	707768	minus	0		
+312309	Vibrio fischeri ES114	3280299	0	live	VF_A0630	VF_A0630, VFA0630	hypothetical protein			II	NC_006841.2	708464	708961	minus	0		
+312309	Vibrio fischeri ES114	3280266	0	live	VF_A0631	VF_A0631, VFA0631	hypothetical protein			II	NC_006841.2	709110	710063	minus	0		
+312309	Vibrio fischeri ES114	3280265	0	live	VF_A0632	VF_A0632, VFA0632	hypothetical protein			II	NC_006841.2	710353	710931	minus	0		
+312309	Vibrio fischeri ES114	3280348	0	live	VF_A0633	VF_A0633, VFA0633	hypothetical protein			II	NC_006841.2	711245	711625	minus	0		
+312309	Vibrio fischeri ES114	3280695	0	live	VF_A0634	VF_A0634, VFA0634	hypothetical protein			II	NC_006841.2	711895	712119	minus	0		
+312309	Vibrio fischeri ES114	3280723	0	live	VF_A0635	VF_A0635, VFA0635	hypothetical protein			II	NC_006841.2	712222	712695	minus	0		
+312309	Vibrio fischeri ES114	3280709	0	live	VF_A0636	VF_A0636, VFA0636	hypothetical protein			II	NC_006841.2	712801	713085	minus	0		
+312309	Vibrio fischeri ES114	3280941	0	live	VF_A0637	VF_A0637, VFA0637	hypothetical protein			II	NC_006841.2	714441	714956	minus	0		
+312309	Vibrio fischeri ES114	3280719	0	live	VF_A0638	VF_A0638, VFA0638	hypothetical protein			II	NC_006841.2	715230	715859	minus	0		
+312309	Vibrio fischeri ES114	3280936	0	live	VF_A0639	VF_A0639, VFA0639	hypothetical protein			II	NC_006841.2	716019	716375	minus	0		
+312309	Vibrio fischeri ES114	3279954	0	live	VF_A0640	VF_A0640, VFA0640	glyoxylase			II	NC_006841.2	716541	716951	minus	0		
+312309	Vibrio fischeri ES114	3280793	0	live	VF_A0641	VF_A0641, VFA0641	hypothetical protein			II	NC_006841.2	717197	717505	minus	0		
+312309	Vibrio fischeri ES114	3280277	0	live	VF_A0642	VF_A0642, VFA0642	hypothetical protein			II	NC_006841.2	717783	718151	plus	0		
+312309	Vibrio fischeri ES114	3280732	0	live	VF_A0643	VF_A0643, VFA0643	phosphotransferase family protein			II	NC_006841.2	718320	719108	minus	0		
+312309	Vibrio fischeri ES114	3280205	0	live	VF_A0644	VF_A0644, VFA0644	hypothetical protein			II	NC_006841.2	719883	720251	plus	0		
+312309	Vibrio fischeri ES114	3279936	0	live	VF_A0645	VF_A0645, VFA0645	acetyltransferase			II	NC_006841.2	720374	720817	minus	0		
+312309	Vibrio fischeri ES114	3280508	0	live	VF_A0646	VF_A0646, VFA0646	hypothetical protein			II	NC_006841.2	720959	721417	minus	0		
+312309	Vibrio fischeri ES114	3279934	0	live	VF_A0647	VF_A0647, VFA0647	hypothetical protein			II	NC_006841.2	721572	722393	minus	0		
+312309	Vibrio fischeri ES114	3280736	0	live	VF_A0648	VF_A0648, VFA0648	hypothetical protein			II	NC_006841.2	722406	722771	minus	0		
+312309	Vibrio fischeri ES114	3280869	0	live	VF_A0649	VF_A0649, VFA0649	toxin of toxin-antitoxin (TA) stability system			II	NC_006841.2	722927	723241	minus	0		
+312309	Vibrio fischeri ES114	3280735	0	live	VF_A0650	VF_A0650, VFA0650	antitoxin of toxin-antitoxin (TA) stability system			II	NC_006841.2	723232	723486	minus	0		
+312309	Vibrio fischeri ES114	3280755	0	live	VF_A0651	VF_A0651, VFA0651	hypothetical protein			II	NC_006841.2	724331	725500	plus	0		
+312309	Vibrio fischeri ES114	3280733	0	live	VF_A0652	VF_A0652, VFA0652	hypothetical protein			II	NC_006841.2	725517	726542	plus	0		
+312309	Vibrio fischeri ES114	3280283	0	live	VF_A0653	VF_A0653, VFA0653	IAA acetyltransferase			II	NC_006841.2	726708	727160	minus	0		
+312309	Vibrio fischeri ES114	3280873	0	live	VF_A0654	VF_A0654, VFA0654	hypothetical protein			II	NC_006841.2	727310	727819	minus	0		
+312309	Vibrio fischeri ES114	3280759	0	live	VF_A0655	VF_A0655, VFA0655	hypothetical protein			II	NC_006841.2	727937	728824	minus	0		
+312309	Vibrio fischeri ES114	3280871	0	live	VF_A0656	VF_A0656, VFA0656	hypothetical protein			II	NC_006841.2	729551	730075	minus	0		
+312309	Vibrio fischeri ES114	3280780	0	live	VF_A0657	VF_A0657, VFA0657	hypothetical protein			II	NC_006841.2	730330	730632	plus	0		
+312309	Vibrio fischeri ES114	3280752	0	live	VF_A0658	VF_A0658, VFA0658	hypothetical protein			II	NC_006841.2	730824	731234	minus	0		
+312309	Vibrio fischeri ES114	3280763	0	live	VF_A0659	VF_A0659, VFA0659	hypothetical protein			II	NC_006841.2	732588	732890	plus	0		
+312309	Vibrio fischeri ES114	3280743	0	live	VF_A0660	VF_A0660, VFA0660	prolyl endopeptidase			II	NC_006841.2	733032	733430	minus	0		
+312309	Vibrio fischeri ES114	3280796	0	live	VF_A0661	VF_A0661, VFA0661	hypothetical protein			II	NC_006841.2	733701	734072	minus	0		
+312309	Vibrio fischeri ES114	3280775	0	live	VF_A0662	VF_A0662, VFA0662	acetyltransferase			II	NC_006841.2	734270	734695	minus	0		
+312309	Vibrio fischeri ES114	3280361	0	live	VF_A0663	VF_A0663, VFA0663	XerC/CodV family integrase/recombinase			II	NC_006841.2	735018	736001	plus	0		
+312309	Vibrio fischeri ES114	3280771	0	live	VF_A0664	VF_A0664, VFA0664	hypothetical protein			II	NC_006841.2	736008	736181	minus	0		
+312309	Vibrio fischeri ES114	3280773	0	live	VF_A0665	VF_A0665, VFA0665	cytoplasmic protein			II	NC_006841.2	736184	737008	minus	0		
+312309	Vibrio fischeri ES114	3280798	0	live	VF_A0667	VF_A0667, VFA0667	hypothetical protein			II	NC_006841.2	737601	738305	plus	0		
+312309	Vibrio fischeri ES114	3280767	0	live	VF_A0668	VF_A0668, VFA0668	hypothetical protein			II	NC_006841.2	738408	738608	minus	0		
+312309	Vibrio fischeri ES114	3280825	0	live	VF_A0669	VF_A0669, VFA0669	hypothetical protein			II	NC_006841.2	739193	739534	minus	0		
+312309	Vibrio fischeri ES114	3280819	0	live	VF_A0670	VF_A0670, VFA0670	hypothetical protein			II	NC_006841.2	739908	740099	minus	0		
+312309	Vibrio fischeri ES114	3280855	0	live	VF_A0671	VF_A0671, VFA0671	hypothetical protein			II	NC_006841.2	740479	740976	minus	0		
+312309	Vibrio fischeri ES114	3280820	0	live	VF_A0672	VF_A0672, VFA0672	outer membrane heme receptor			II	NC_006841.2	741538	743676	minus	0		
+312309	Vibrio fischeri ES114	3280331	0	live	VF_A0674	VF_A0674, VFA0674	hypothetical protein			II	NC_006841.2	744925	745473	minus	0		
+312309	Vibrio fischeri ES114	3280943	0	live	VF_A0675	VF_A0675, VFA0675	hypothetical protein			II	NC_006841.2	746042	746143	minus	0		
+312309	Vibrio fischeri ES114	3280133	0	live	VF_A0676	VF_A0676, VFA0676	hypothetical protein			II	NC_006841.2	746486	747136	plus	0		
+312309	Vibrio fischeri ES114	3280293	0	live	VF_A0677	VF_A0677, VFA0677	methyl-accepting chemotaxis protein			II	NC_006841.2	747434	749347	minus	0		
+312309	Vibrio fischeri ES114	3280119	0	live	VF_A0678	VF_A0678, VFA0678	MoxR protein			II	NC_006841.2	749540	750496	plus	0		
+312309	Vibrio fischeri ES114	3280854	0	live	VF_A0679	VF_A0679, VFA0679	cytoplasmic protein			II	NC_006841.2	750545	751504	plus	0		
+312309	Vibrio fischeri ES114	3280334	0	live	VF_A0680	VF_A0680, VFA0680	hypothetical protein			II	NC_006841.2	751504	752037	plus	0		
+312309	Vibrio fischeri ES114	3280837	0	live	VF_A0681	VF_A0681, VFA0681	hypothetical protein			II	NC_006841.2	752030	752995	plus	0		
+312309	Vibrio fischeri ES114	3280046	0	live	VF_A0682	VF_A0682, VFA0682	transporter			II	NC_006841.2	752988	754895	plus	0		
+312309	Vibrio fischeri ES114	3280857	0	live	VF_A0683	VF_A0683, VFA0683	hypothetical protein			II	NC_006841.2	754889	756562	plus	0		
+312309	Vibrio fischeri ES114	3280356	0	live	VF_A0684	VF_A0684, VFA0684	hypothetical protein			II	NC_006841.2	756610	756708	minus	0		
+312309	Vibrio fischeri ES114	3280353	0	live	VF_A0688	VF_A0688, VFA0688	hypothetical protein			II	NC_006841.2	761408	762190	minus	0		
+312309	Vibrio fischeri ES114	3280833	0	live	VF_A0689	VF_A0689, VFA0689	hypothetical protein			II	NC_006841.2	762407	763300	plus	0		
+312309	Vibrio fischeri ES114	3280947	0	live	VF_A0690	VF_A0690, VFA0690	hypothetical protein			II	NC_006841.2	763333	767424	plus	0		
+312309	Vibrio fischeri ES114	3280865	0	live	VF_A0692	VF_A0692, VFA0692	GGDEF domain-containing protein			II	NC_006841.2	768231	769550	minus	0		
+312309	Vibrio fischeri ES114	3280803	0	live	VF_A0693	VF_A0693, VFA0693	hypothetical protein			II	NC_006841.2	769866	770063	plus	0		
+312309	Vibrio fischeri ES114	3280799	0	live	VF_A0694	VF_A0694, VFA0694	hexapeptide repeat-containing transferase			II	NC_006841.2	770256	770966	plus	0		
+312309	Vibrio fischeri ES114	3280843	0	live	VF_A0696	VF_A0696, VFA0696	inosine-guanosine kinase			II	NC_006841.2	772546	773850	plus	0		
+312309	Vibrio fischeri ES114	3280856	0	live	VF_A0699	VF_A0699, VFA0699	nodulation protein N			II	NC_006841.2	775364	776047	minus	0		
+312309	Vibrio fischeri ES114	3280860	0	live	VF_A0701	VF_A0701, VFA0701	transcriptional regulator			II	NC_006841.2	777672	778328	minus	0		
+312309	Vibrio fischeri ES114	3280853	0	live	VF_A0704	VF_A0704, VFA0704	hypothetical protein			II	NC_006841.2	782181	782789	minus	0		
+312309	Vibrio fischeri ES114	3280794	0	live	VF_A0705	VF_A0705, VFA0705	hypothetical protein			II	NC_006841.2	782758	789201	minus	0		
+312309	Vibrio fischeri ES114	3280789	0	live	VF_A0706	VF_A0706, VFA0706	diguanylate phosphodiesterase			II	NC_006841.2	790265	792298	plus	0		
+312309	Vibrio fischeri ES114	3279913	0	live	VF_A0707	VF_A0707, VFA0707	drug/metabolite exporter family protein			II	NC_006841.2	792386	793258	minus	0		
+312309	Vibrio fischeri ES114	3280364	0	live	VF_A0709	VF_A0709, VFA0709	PTS system, mannose-specific IIAB component			II	NC_006841.2	794498	796399	plus	0		
+312309	Vibrio fischeri ES114	3279996	0	live	VF_A0711	VF_A0711, VFA0711	PTS system, IIA component			II	NC_006841.2	797847	798632	minus	0		
+312309	Vibrio fischeri ES114	3280298	0	live	VF_A0712	VF_A0712, VFA0712	hypothetical protein			II	NC_006841.2	798632	798931	minus	0		
+312309	Vibrio fischeri ES114	3280414	0	live	VF_A0714	VF_A0714, VFA0714	serine protease			II	NC_006841.2	801099	803417	minus	0		
+312309	Vibrio fischeri ES114	3280916	0	live	VF_A0715	VF_A0715, VFA0715	chitodextrinase precursor			II	NC_006841.2	804162	807479	plus	0		
+312309	Vibrio fischeri ES114	3281006	0	live	VF_A0716	VF_A0716, VFA0716	hypothetical protein			II	NC_006841.2	808046	808192	minus	0		
+312309	Vibrio fischeri ES114	3280908	0	live	VF_A0717	VF_A0717, VFA0717	lipoprotein			II	NC_006841.2	808534	809736	minus	0		
+312309	Vibrio fischeri ES114	3280975	0	live	VF_A0718	VF_A0718, VFA0718	hypothetical protein			II	NC_006841.2	809736	810962	minus	0		
+312309	Vibrio fischeri ES114	3281020	0	live	VF_A0719	VF_A0719, VFA0719	hypothetical protein			II	NC_006841.2	811053	815894	minus	0		
+312309	Vibrio fischeri ES114	3280977	0	live	VF_A0720	VF_A0720, VFA0720	lipoprotein			II	NC_006841.2	815894	816985	minus	0		
+312309	Vibrio fischeri ES114	3280596	0	live	VF_A0721	VF_A0721, VFA0721	hypothetical protein			II	NC_006841.2	816990	818684	minus	0		
+312309	Vibrio fischeri ES114	3280552	0	live	VF_A0722	VF_A0722, VFA0722	sodium/proton antiporter			II	NC_006841.2	818936	820477	minus	0		
+312309	Vibrio fischeri ES114	3280591	0	live	VF_A0723	VF_A0723, VFA0723	hypothetical protein			II	NC_006841.2	820810	821280	plus	0		
+312309	Vibrio fischeri ES114	3280585	0	live	VF_A0724	VF_A0724, VFA0724	LysR family transcriptional regulator			II	NC_006841.2	821281	822204	minus	0		
+312309	Vibrio fischeri ES114	3280588	0	live	VF_A0725	VF_A0725, VFA0725	choloylglycine hydrolase family protein			II	NC_006841.2	822303	823343	plus	0		
+312309	Vibrio fischeri ES114	3280584	0	live	VF_A0726	VF_A0726, VFA0726	NAD-dependent oxidoreductase			II	NC_006841.2	823420	824397	minus	0		
+312309	Vibrio fischeri ES114	3280389	0	live	VF_A0727	VF_A0727, VFA0727	cytoplasmic protein			II	NC_006841.2	824428	824775	minus	0		
+312309	Vibrio fischeri ES114	3279992	0	live	VF_A0728	VF_A0728, VFA0728	acetyltransferase			II	NC_006841.2	824852	825130	minus	0		
+312309	Vibrio fischeri ES114	3280200	0	live	VF_A0729	VF_A0729, VFA0729	major facilitator transporter			II	NC_006841.2	825171	826349	minus	0		
+312309	Vibrio fischeri ES114	3279937	0	live	VF_A0732	VF_A0732, VFA0732	transcriptional regulator			II	NC_006841.2	829167	829970	minus	0		
+312309	Vibrio fischeri ES114	3280079	0	live	VF_A0733	VF_A0733, VFA0733	two component sensor histidine kinase			II	NC_006841.2	829967	831019	minus	0		
+312309	Vibrio fischeri ES114	3279909	0	live	VF_A0734	VF_A0734, VFA0734	hypothetical protein			II	NC_006841.2	831096	832274	minus	0		
+312309	Vibrio fischeri ES114	3280083	0	live	VF_A0735	VF_A0735, VFA0735	hypothetical protein			II	NC_006841.2	832277	833074	minus	0		
+312309	Vibrio fischeri ES114	3280610	0	live	VF_A0736	VF_A0736, VFA0736	ABC transporter permease protein			II	NC_006841.2	833067	834335	minus	0		
+312309	Vibrio fischeri ES114	3280435	0	live	VF_A0737	VF_A0737, VFA0737	ABC transporter ATP-binding protein			II	NC_006841.2	834323	835006	minus	0		
+312309	Vibrio fischeri ES114	3280221	0	live	VF_A0738	VF_A0738, VFA0738	hypothetical protein			II	NC_006841.2	835016	835657	minus	0		
+312309	Vibrio fischeri ES114	3280557	0	live	VF_A0741	VF_A0741, VFA0741	hypothetical protein			II	NC_006841.2	836867	837871	minus	0		
+312309	Vibrio fischeri ES114	3280528	0	live	VF_A0742	VF_A0742, VFA0742	hypothetical protein			II	NC_006841.2	837994	839019	minus	0		
+312309	Vibrio fischeri ES114	3280386	0	live	VF_A0743	VF_A0743, VFA0743	multidrug resistance protein A			II	NC_006841.2	839032	840099	minus	0		
+312309	Vibrio fischeri ES114	3280450	0	live	VF_A0744	VF_A0744, VFA0744	LysR family transcriptional regulator			II	NC_006841.2	840214	841101	plus	0		
+312309	Vibrio fischeri ES114	3280057	0	live	VF_A0749	VF_A0749, VFA0749	hypothetical protein			II	NC_006841.2	846605	846814	minus	0		
+312309	Vibrio fischeri ES114	3280962	0	live	VF_A0754	VF_A0754, VFA0754	peptide-methionine (S)-S-oxide reductase			II	NC_006841.2	851633	853486	plus	0		
+312309	Vibrio fischeri ES114	3280022	0	live	VF_A0755	VF_A0755, VFA0755	hypothetical protein			II	NC_006841.2	853512	853649	minus	0		
+312309	Vibrio fischeri ES114	3280214	0	live	VF_A0756	VF_A0756, VFA0756	lipoprotein			II	NC_006841.2	853842	854789	plus	0		
+312309	Vibrio fischeri ES114	3280393	0	live	VF_A0757	VF_A0757, VFA0757	hypothetical protein			II	NC_006841.2	854860	855378	minus	0		
+312309	Vibrio fischeri ES114	3280219	0	live	VF_A0758	VF_A0758, VFA0758	hypothetical protein			II	NC_006841.2	855378	855881	minus	0		
+312309	Vibrio fischeri ES114	3280562	0	live	VF_A0759	VF_A0759, VFA0759	hypothetical protein			II	NC_006841.2	855829	856398	minus	0		
+312309	Vibrio fischeri ES114	3280866	0	live	VF_A0761	VF_A0761, VFA0761	plasmid partition ParA protein			II	NC_006841.2	857749	858501	minus	0		
+312309	Vibrio fischeri ES114	3280430	0	live	VF_A0762	VF_A0762, VFA0762	dehydrogenase			II	NC_006841.2	858498	859796	minus	0		
+312309	Vibrio fischeri ES114	3280436	0	live	VF_A0763	VF_A0763, VFA0763	short chain dehydrogenase			II	NC_006841.2	859754	860494	minus	0		
+312309	Vibrio fischeri ES114	3280433	0	live	VF_A0764	VF_A0764, VFA0764	transcriptional regulator			II	NC_006841.2	860491	860958	minus	0		
+312309	Vibrio fischeri ES114	3280406	0	live	VF_A0767	VF_A0767, VFA0767	cytochrome c-554(548)			II	NC_006841.2	862543	862869	plus	0		
+312309	Vibrio fischeri ES114	3280136	0	live	VF_A0768	VF_A0768, VFA0768	cysteine desulfhydrase			II	NC_006841.2	862836	864068	minus	0		
+312309	Vibrio fischeri ES114	3280467	0	live	VF_A0769	VF_A0769, VFA0769	agglutination protein			II	NC_006841.2	864052	864708	minus	0		
+312309	Vibrio fischeri ES114	3280509	0	live	VF_A0770	VF_A0770, VFA0770	bicyclomycin resistance protein			II	NC_006841.2	864938	866140	minus	0		
+312309	Vibrio fischeri ES114	3279973	0	live	VF_A0771	VF_A0771, VFA0771	LysR family transcriptional regulator			II	NC_006841.2	866219	867091	plus	0		
+312309	Vibrio fischeri ES114	3280516	0	live	VF_A0772	VF_A0772, VFA0772	homogentisate export protein			II	NC_006841.2	867186	867806	plus	0		
+312309	Vibrio fischeri ES114	3279972	0	live	VF_A0773	VF_A0773, VFA0773	hypothetical protein			II	NC_006841.2	867839	868030	minus	0		
+312309	Vibrio fischeri ES114	3280471	0	live	VF_A0775	VF_A0775, VFA0775	short chain dehydrogenase			II	NC_006841.2	868966	870138	minus	0		
+312309	Vibrio fischeri ES114	3280594	0	live	VF_A0776	VF_A0776, VFA0776	TonB protein			II	NC_006841.2	870135	870755	minus	0		
+312309	Vibrio fischeri ES114	3280457	0	live	VF_A0777	VF_A0777, VFA0777	TonB system transport protein ExbD2			II	NC_006841.2	870755	871159	minus	0		
+312309	Vibrio fischeri ES114	3280477	0	live	VF_A0778	VF_A0778, VFA0778	TolQ protein			II	NC_006841.2	871156	871689	minus	0		
+312309	Vibrio fischeri ES114	3280566	0	live	VF_A0779	VF_A0779, VFA0779	TolQ protein			II	NC_006841.2	871689	873041	minus	0		
+312309	Vibrio fischeri ES114	3280486	0	live	VF_A0780	VF_A0780, VFA0780	hypothetical protein			II	NC_006841.2	873043	873804	minus	0		
+312309	Vibrio fischeri ES114	3280587	0	live	VF_A0781	VF_A0781, VFA0781	iron-hydroxamate transporter permease subunit			II	NC_006841.2	873877	875892	minus	0		
+312309	Vibrio fischeri ES114	3280448	0	live	VF_A0782	VF_A0782, VFA0782	ferrichrome-binding protein			II	NC_006841.2	875895	876839	minus	0		
+312309	Vibrio fischeri ES114	3280110	0	live	VF_A0783	VF_A0783, VFA0783	ferrichrome ABC transporter ATP-binding protein			II	NC_006841.2	876833	877600	minus	0		
+312309	Vibrio fischeri ES114	3280051	0	live	VF_A0785	VF_A0785, VFA0785	AraC family transcriptional regulator			II	NC_006841.2	880057	880956	minus	0		
+312309	Vibrio fischeri ES114	3280740	0	live	VF_A0786	VF_A0786, VFA0786	PTS system, glucose-specific II BC component			II	NC_006841.2	881096	882706	minus	0		
+312309	Vibrio fischeri ES114	3280571	0	live	VF_A0788	VF_A0788, VFA0788	hypothetical protein			II	NC_006841.2	884720	885124	minus	0		
+312309	Vibrio fischeri ES114	3280473	0	live	VF_A0789	VF_A0789, VFA0789	lactoylglutathione lyase			II	NC_006841.2	885354	885839	minus	0		
+312309	Vibrio fischeri ES114	3280576	0	live	VF_A0790	VF_A0790, VFA0790	chloramphenicol acetyltransferase			II	NC_006841.2	886006	886662	minus	0		
+312309	Vibrio fischeri ES114	3280248	0	live	VF_A0791	VF_A0791, VFA0791	LysR family transcriptional regulator			II	NC_006841.2	886752	887660	plus	0		
+312309	Vibrio fischeri ES114	3280583	0	live	VF_A0792	VF_A0792, VFA0792	proline iminopeptidase			II	NC_006841.2	887939	888784	minus	0		
+312309	Vibrio fischeri ES114	3280496	0	live	VF_A0793	VF_A0793, VFA0793	LysR family transcriptional regulator			II	NC_006841.2	888886	889788	plus	0		
+312309	Vibrio fischeri ES114	3280511	0	live	VF_A0795	VF_A0795, VFA0795	two component response regulator			II	NC_006841.2	891440	892435	plus	0		
+312309	Vibrio fischeri ES114	3280605	0	live	VF_A0804	VF_A0804, VFA0804	permease			II	NC_006841.2	903838	904500	minus	0		
+312309	Vibrio fischeri ES114	3280636	0	live	VF_A0807	VF_A0807, VFA0807	hypothetical protein			II	NC_006841.2	907592	908245	plus	0		
+312309	Vibrio fischeri ES114	3280570	0	live	VF_A0812	VF_A0812, VFA0812	hypothetical protein			II	NC_006841.2	918423	919349	plus	0		
+312309	Vibrio fischeri ES114	3280491	0	live	VF_A0814	VF_A0814, VFA0814	hypothetical protein			II	NC_006841.2	920457	920642	minus	0		
+312309	Vibrio fischeri ES114	3280544	0	live	VF_A0816	VF_A0816, VFA0816	hypothetical protein			II	NC_006841.2	921314	921820	plus	0		
+312309	Vibrio fischeri ES114	3280190	0	live	VF_A0817	VF_A0817, VFA0817	Sco1-related protein			II	NC_006841.2	921817	922377	plus	0		
+312309	Vibrio fischeri ES114	3280150	0	live	VF_A0818	VF_A0818, VFA0818	hypothetical protein			II	NC_006841.2	922358	922849	plus	0		
+312309	Vibrio fischeri ES114	3280195	0	live	VF_A0819	VF_A0819, VFA0819	drug/metabolite exporter family protein			II	NC_006841.2	923014	923847	plus	0		
+312309	Vibrio fischeri ES114	3280597	0	live	VF_A0821	VF_A0821, VFA0821	glutathione S-transferase			II	NC_006841.2	924577	925287	minus	0		
+312309	Vibrio fischeri ES114	3280408	0	live	VF_A0822	VF_A0822, VFA0822	hypothetical protein			II	NC_006841.2	925424	925681	minus	0		
+312309	Vibrio fischeri ES114	3280549	0	live	VF_A0823	VF_A0823, VFA0823	vulnibactin utilization protein ViuB			II	NC_006841.2	925784	926578	minus	0		
+312309	Vibrio fischeri ES114	3280581	0	live	VF_A0825	VF_A0825, VFA0825	ferric anguibactin transport system permease protein FatC			II	NC_006841.2	927360	928310	minus	0		
+312309	Vibrio fischeri ES114	3279845	0	live	VF_A0828	VF_A0828, VFA0828	glutaredoxin 2			II	NC_006841.2	930886	931248	minus	0		
+312309	Vibrio fischeri ES114	3280638	0	live	VF_A0830	VF_A0830, VFA0830	delta-1-pyrroline-5-carboxylate dehydrogenase			II	NC_006841.2	933040	933747	minus	0		
+312309	Vibrio fischeri ES114	3280682	0	live	VF_A0833	VF_A0833, VFA0833	AraC family transcriptional regulator			II	NC_006841.2	937098	937880	minus	0		
+312309	Vibrio fischeri ES114	3280637	0	live	VF_A0834	VF_A0834, VFA0834	NirV precursor			II	NC_006841.2	938314	940188	plus	0		
+312309	Vibrio fischeri ES114	3280233	0	live	VF_A0837	VF_A0837, VFA0837	ATPase involved in pili biogenesis			II	NC_006841.2	942485	945538	minus	0		
+312309	Vibrio fischeri ES114	3280154	0	live	VF_A0838	VF_A0838, VFA0838	hypothetical protein			II	NC_006841.2	945861	946766	plus	0		
+312309	Vibrio fischeri ES114	3280558	0	live	VF_A0841	VF_A0841, VFA0841	3-hydroxy-3-methylglutaryl-CoA reductase			II	NC_006841.2	949957	951216	plus	0		
+312309	Vibrio fischeri ES114	3280701	0	live	VF_A0843	VF_A0843, VFA0843	hypothetical protein			II	NC_006841.2	951912	952031	minus	0		
+312309	Vibrio fischeri ES114	3280635	0	live	VF_A0844	VF_A0844, VFA0844	outer membrane protein P1 precursor			II	NC_006841.2	952063	953214	plus	0		
+312309	Vibrio fischeri ES114	3280658	0	live	VF_A0845	VF_A0845, VFA0845	hypothetical protein			II	NC_006841.2	953272	954078	minus	0		
+312309	Vibrio fischeri ES114	3280622	0	live	VF_A0846	VF_A0846, VFA0846	hypothetical protein			II	NC_006841.2	954299	955489	plus	0		
+312309	Vibrio fischeri ES114	3280613	0	live	VF_A0848	VF_A0848, VFA0848	hypothetical protein			II	NC_006841.2	957269	958456	plus	0		
+312309	Vibrio fischeri ES114	3280640	0	live	VF_A0850	VF_A0850, VFA0850	chloramphenicol-sensitive protein RarD			II	NC_006841.2	959580	960431	plus	0		
+312309	Vibrio fischeri ES114	3280918	0	live	VF_A0851	VF_A0851, VFA0851	transcriptional regulatory protein			II	NC_006841.2	960418	961287	minus	0		
+312309	Vibrio fischeri ES114	3280686	0	live	VF_A0853	VF_A0853, VFA0853	zinc-carboxypeptidase precursor			II	NC_006841.2	962591	963715	plus	0		
+312309	Vibrio fischeri ES114	3280234	0	live	VF_A0854	VF_A0854, VFA0854	hypothetical protein			II	NC_006841.2	964137	964781	minus	0		
+312309	Vibrio fischeri ES114	3280624	0	live	VF_A0856	VF_A0856, VFA0855, VFA0856	hypothetical protein			II	NC_006841.2	964868	965251	minus	0		
+312309	Vibrio fischeri ES114	3280653	0	live	VF_A0857	VF_A0857, VFA0857	transcriptional repressor SmtB			II	NC_006841.2	965433	965774	plus	0		
+312309	Vibrio fischeri ES114	3280651	0	live	VF_A0858	VF_A0858, VFA0858	arsenical-resistance protein ACR3			II	NC_006841.2	965865	966917	plus	0		
+312309	Vibrio fischeri ES114	3280919	0	live	VF_A0859	VF_A0859, VFA0859	methyl-accepting chemotaxis protein			II	NC_006841.2	966976	968850	minus	0		
+312309	Vibrio fischeri ES114	3280917	0	live	VF_A0860	VF_A0860, VFA0860	hypothetical protein			II	NC_006841.2	969354	969836	plus	0		
+312309	Vibrio fischeri ES114	3280643	0	live	VF_A0861	VF_A0861, VFA0861	hypothetical protein			II	NC_006841.2	969839	970297	plus	0		
+312309	Vibrio fischeri ES114	3280663	0	live	VF_A0865	VF_A0865, VFA0865	methyl-accepting chemotaxis protein			II	NC_006841.2	976378	978273	minus	0		
+312309	Vibrio fischeri ES114	3280913	0	live	VF_A0871	VF_A0871, VFA0871	hypothetical protein			II	NC_006841.2	983258	983737	minus	0		
+312309	Vibrio fischeri ES114	3280960	0	live	VF_A0876	VF_A0876, VFA0876	hypothetical protein			II	NC_006841.2	987944	988717	plus	0		
+312309	Vibrio fischeri ES114	3280660	0	live	VF_A0877	VF_A0877, VFA0877	chromosome partitioning protein ParA			II	NC_006841.2	988822	989463	minus	0		
+312309	Vibrio fischeri ES114	3280691	0	live	VF_A0878	VF_A0878, VFA0878	hypothetical protein			II	NC_006841.2	989657	990007	plus	0		
+312309	Vibrio fischeri ES114	3280650	0	live	VF_A0879	VF_A0879, VFA0879	diguanylate phosphodiesterase			II	NC_006841.2	990562	991449	minus	0		
+312309	Vibrio fischeri ES114	3280631	0	live	VF_A0880	VF_A0880, VFA0880	AraC family transcriptional regulator			II	NC_006841.2	991828	992679	plus	0		
+312309	Vibrio fischeri ES114	3280374	0	live	VF_A0881	VF_A0881, VFA0881	cellulose synthase operon C protein			II	NC_006841.2	992699	996433	minus	0		
+312309	Vibrio fischeri ES114	3280899	0	live	VF_A0885	VF_A0885, VFA0885	hypothetical protein			II	NC_006841.2	1002517	1003287	minus	0		
+312309	Vibrio fischeri ES114	3280725	0	live	VF_A0888	VF_A0888, VFA0888	hypothetical protein			II	NC_006841.2	1007406	1007702	minus	0		
+312309	Vibrio fischeri ES114	3280657	0	live	VF_A0890	VF_A0890, VFA0890	thioredoxin peroxidase			II	NC_006841.2	1008436	1009047	plus	0		
+312309	Vibrio fischeri ES114	3280681	0	live	VF_A0891	VF_A0891, VFA0891	methyl-accepting chemotaxis protein			II	NC_006841.2	1009204	1010412	minus	0		
+312309	Vibrio fischeri ES114	3280244	0	live	VF_A0893	VF_A0893, VFA0893	AraC family transcriptional regulator			II	NC_006841.2	1012020	1013030	plus	0		
+312309	Vibrio fischeri ES114	3280373	0	live	VF_A0894	VF_A0894, VFA0894	surface protein			II	NC_006841.2	1013132	1014928	plus	0		
+312309	Vibrio fischeri ES114	3280376	0	live	VF_A0895	VF_A0895, VFA0895	hypothetical protein			II	NC_006841.2	1015125	1015487	plus	0		
+312309	Vibrio fischeri ES114	3280284	0	live	VF_A0896	VF_A0896, VFA0896	multidrug resistance protein A			II	NC_006841.2	1015480	1016703	plus	0		
+312309	Vibrio fischeri ES114	3280713	0	live	VF_A0897	VF_A0897, VFA0897	LysR family transcriptional regulator			II	NC_006841.2	1016754	1017617	minus	0		
+312309	Vibrio fischeri ES114	3280706	0	live	VF_A0898	VF_A0898, VFA0898	lipoprotein			II	NC_006841.2	1017802	1018563	plus	0		
+312309	Vibrio fischeri ES114	3280806	0	live	VF_A0899	VF_A0899, VFA0899	arylsulfatase			II	NC_006841.2	1018614	1020134	plus	0		
+312309	Vibrio fischeri ES114	3280716	0	live	VF_A0901	VF_A0901, VFA0901	MoxR protein			II	NC_006841.2	1021525	1022508	plus	0		
+312309	Vibrio fischeri ES114	3280673	0	live	VF_A0902	VF_A0902, VFA0902	MoxR protein			II	NC_006841.2	1022516	1023478	plus	0		
+312309	Vibrio fischeri ES114	3280254	0	live	VF_A0903	VF_A0903, VFA0903	hypothetical protein			II	NC_006841.2	1023481	1024011	plus	0		
+312309	Vibrio fischeri ES114	3280665	0	live	VF_A0904	VF_A0904, VFA0904	transporter			II	NC_006841.2	1025049	1026824	plus	0		
+312309	Vibrio fischeri ES114	3280718	0	live	VF_A0905	VF_A0905, VFA0905	hypothetical protein			II	NC_006841.2	1026824	1028065	plus	0		
+312309	Vibrio fischeri ES114	3280677	0	live	VF_A0906	VF_A0906, VFA0906	acriflavin resistance periplasmic protein			II	NC_006841.2	1028288	1029442	plus	0		
+312309	Vibrio fischeri ES114	3280270	0	live	VF_A0907	VF_A0907, VFA0907	acriflavin resistance plasma membrane protein			II	NC_006841.2	1029464	1032577	plus	0		
+312309	Vibrio fischeri ES114	3280760	0	live	VF_A0908	VF_A0908, VFA0908	lipoprotein			II	NC_006841.2	1032676	1033431	plus	0		
+312309	Vibrio fischeri ES114	3280910	0	live	VF_A0909	VF_A0909, VFA0909	hypothetical protein			II	NC_006841.2	1033488	1034285	minus	0		
+312309	Vibrio fischeri ES114	3280264	0	live	VF_A0910	VF_A0910, VFA0910	hypothetical protein			II	NC_006841.2	1034434	1034991	minus	0		
+312309	Vibrio fischeri ES114	3280729	0	live	VF_A0911	VF_A0911, VFA0911	LysR family transcriptional regulator			II	NC_006841.2	1035102	1036010	plus	0		
+312309	Vibrio fischeri ES114	3280747	0	live	VF_A0912	VF_A0912, VFA0912	ABC transporter ATP-binding protein			II	NC_006841.2	1036450	1037229	plus	0		
+312309	Vibrio fischeri ES114	3280271	0	live	VF_A0913	VF_A0913, VFA0913	hypothetical protein			II	NC_006841.2	1037229	1038101	plus	0		
+312309	Vibrio fischeri ES114	3280324	0	live	VF_A0915	VF_A0915, VFA0915	acetyltransferase			II	NC_006841.2	1039639	1040190	minus	0		
+312309	Vibrio fischeri ES114	3280690	0	live	VF_A0917	VF_A0917, VFA0917	deoxycytidylate deaminase			II	NC_006841.2	1041873	1042316	plus	0		
+312309	Vibrio fischeri ES114	3280722	0	live	VF_A0926	VF_A0926, VFA0926	hypothetical protein			II	NC_006841.2	1050365	1051165	minus	0		
+312309	Vibrio fischeri ES114	3280756	0	live	VF_A0927	VF_A0927, VFA0927	hypothetical protein			II	NC_006841.2	1051347	1051541	minus	0		
+312309	Vibrio fischeri ES114	3280621	0	live	VF_A0930	VF_A0930, VFA0930	carboxypeptidase G2 precursor			II	NC_006841.2	1053062	1054186	plus	0		
+312309	Vibrio fischeri ES114	3280230	0	live	VF_A0931	VF_A0931, VFA0931	transcriptional regulatory protein, AraC-like protein			II	NC_006841.2	1054291	1055076	minus	0		
+312309	Vibrio fischeri ES114	3280384	0	live	VF_A0933	VF_A0933, VFA0933	hypothetical protein			II	NC_006841.2	1055758	1056213	minus	0		
+312309	Vibrio fischeri ES114	3280750	0	live	VF_A0935	VF_A0935, VFA0935	LysR family transcriptional regulator			II	NC_006841.2	1056835	1057716	plus	0		
+312309	Vibrio fischeri ES114	3280731	0	live	VF_A0936	VF_A0936, VFA0936	lipase/acylhydrolase family protein			II	NC_006841.2	1057732	1058562	plus	0		
+312309	Vibrio fischeri ES114	3280285	0	live	VF_A0937	VF_A0937, VFA0937	phosphoglycolate phosphatase			II	NC_006841.2	1058618	1059271	minus	0		
+312309	Vibrio fischeri ES114	3280529	0	live	VF_A0938	VF_A0938, VFA0938	threonine efflux protein			II	NC_006841.2	1059425	1060039	minus	0		
+312309	Vibrio fischeri ES114	3280592	0	live	VF_A0939	VF_A0939, VFA0939	hypothetical protein			II	NC_006841.2	1060117	1060641	plus	0		
+312309	Vibrio fischeri ES114	3280788	0	live	VF_A0944	VF_A0944, VFA0944	hypothetical protein			II	NC_006841.2	1064787	1064927	minus	0		
+312309	Vibrio fischeri ES114	3280879	0	live	VF_A0945	VF_A0945, VFA0945	lipoprotein			II	NC_006841.2	1065909	1066535	minus	0		
+312309	Vibrio fischeri ES114	3280297	0	live	VF_A0946	VF_A0946, VFA0946	hypothetical protein			II	NC_006841.2	1066541	1066984	minus	0		
+312309	Vibrio fischeri ES114	3280891	0	live	VF_A0947	VF_A0947, VFA0947	hypothetical protein			II	NC_006841.2	1067221	1067469	minus	0		
+312309	Vibrio fischeri ES114	3280905	0	live	VF_A0948	VF_A0948, VFA0948	hypothetical protein			II	NC_006841.2	1067512	1067856	minus	0		
+312309	Vibrio fischeri ES114	3280437	0	live	VF_A0949	VF_A0949, VFA0949	lipoprotein			II	NC_006841.2	1067862	1068479	minus	0		
+312309	Vibrio fischeri ES114	3280258	0	live	VF_A0950	VF_A0950, VFA0950	hypothetical protein			II	NC_006841.2	1068476	1069750	minus	0		
+312309	Vibrio fischeri ES114	3280371	0	live	VF_A0951	VF_A0951, VFA0951	hypothetical protein			II	NC_006841.2	1069931	1070278	minus	0		
+312309	Vibrio fischeri ES114	3280372	0	live	VF_A0952	VF_A0952, VFA0952	hypothetical protein			II	NC_006841.2	1070275	1071075	minus	0		
+312309	Vibrio fischeri ES114	3280629	0	live	VF_A0953	VF_A0953, VFA0953	VgrG protein			II	NC_006841.2	1071080	1073116	minus	0		
+312309	Vibrio fischeri ES114	3280646	0	live	VF_A0954	VF_A0954, VFA0954	hemolysin co-regulated protein			II	NC_006841.2	1073259	1073777	minus	0		
+312309	Vibrio fischeri ES114	3280616	0	live	VF_A0955	VF_A0955, VFA0955	SAM-dependent methyltransferase			II	NC_006841.2	1074016	1074666	minus	0		
+312309	Vibrio fischeri ES114	3280286	0	live	VF_A0963	VF_A0963, VFA0963	LysR family transcriptional regulator			II	NC_006841.2	1084109	1085041	minus	0		
+312309	Vibrio fischeri ES114	3280932	0	live	VF_A0964	VF_A0964, VFA0964	hypothetical protein			II	NC_006841.2	1085339	1085908	plus	0		
+312309	Vibrio fischeri ES114	3280950	0	live	VF_A0966	VF_A0966, VFA0966	L-serine ammonia-lyase			II	NC_006841.2	1086873	1088243	plus	0		
+312309	Vibrio fischeri ES114	3280741	0	live	VF_A0967	VF_A0967, VFA0967	nucleoside permease NupC			II	NC_006841.2	1088475	1089695	plus	0		
+312309	Vibrio fischeri ES114	3280814	0	live	VF_A0970	VF_A0970, VFA0970	hypothetical protein			II	NC_006841.2	1091979	1092617	plus	0		
+312309	Vibrio fischeri ES114	3280340	0	live	VF_A0973	VF_A0973, VFA0973	ABC transporter, periplasmic component			II	NC_006841.2	1094446	1095363	minus	0		
+312309	Vibrio fischeri ES114	3280328	0	live	VF_A0974	VF_A0974, VFA0974	hypothetical protein			II	NC_006841.2	1095484	1095612	plus	0		
+312309	Vibrio fischeri ES114	3280818	0	live	VF_A0975	VF_A0975, VFA0975	adenosyltransferase			II	NC_006841.2	1095602	1096138	plus	0		
+312309	Vibrio fischeri ES114	3280810	0	live	VF_A0976	VF_A0976, VFA0976	GGDEF domain-containing protein			II	NC_006841.2	1096372	1097964	plus	0		
+312309	Vibrio fischeri ES114	3280751	0	live	VF_A0978	VF_A0978, VFA0978	LysR family transcriptional regulator			II	NC_006841.2	1099285	1100154	plus	0		
+312309	Vibrio fischeri ES114	3280279	0	live	VF_A0979	VF_A0979, VFA0979	hypothetical protein			II	NC_006841.2	1100366	1100977	plus	0		
+312309	Vibrio fischeri ES114	3280830	0	live	VF_A0980	VF_A0980, VFA0980	hypothetical protein			II	NC_006841.2	1101283	1101666	plus	0		
+312309	Vibrio fischeri ES114	3280842	0	live	VF_A0981	VF_A0981, VFA0981	hypothetical protein			II	NC_006841.2	1101705	1101977	minus	0		
+312309	Vibrio fischeri ES114	3280831	0	live	VF_A0982	VF_A0982, VFA0982	hypothetical protein			II	NC_006841.2	1101998	1102849	minus	0		
+312309	Vibrio fischeri ES114	3280700	0	live	VF_A0983	VF_A0983, VFA0983	hypothetical protein			II	NC_006841.2	1102865	1103413	minus	0		
+312309	Vibrio fischeri ES114	3280275	0	live	VF_A0985	VF_A0985, VFA0985	lipoprotein			II	NC_006841.2	1104944	1106161	plus	0		
+312309	Vibrio fischeri ES114	3280849	0	live	VF_A0986	VF_A0986, VFA0986	4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme			II	NC_006841.2	1106235	1106816	minus	0		
+312309	Vibrio fischeri ES114	3280876	0	live	VF_A0987	VF_A0987, VFA0987	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase			II	NC_006841.2	1106806	1107456	minus	0		
+312309	Vibrio fischeri ES114	3280689	0	live	VF_A0990	VF_A0990, VFA0990	trimethylamine-N-oxide reductase			II	NC_006841.2	1109616	1112264	minus	0		
+312309	Vibrio fischeri ES114	3280925	0	live	VF_A0991	VF_A0991, VFA0991	hypothetical protein			II	NC_006841.2	1112476	1113993	minus	0		
+312309	Vibrio fischeri ES114	3280940	0	live	VF_A0993	VF_A0993, VFA0993	arylsulfatase			II	NC_006841.2	1115718	1116950	minus	0		
+312309	Vibrio fischeri ES114	3280720	0	live	VF_A0994	VF_A0994, VFA0994	hyaluronate lyase precursor			II	NC_006841.2	1117171	1119579	plus	0		
+312309	Vibrio fischeri ES114	3280890	0	live	VF_A0995	VF_A0995, VFA0995	high-affinity iron permease			II	NC_006841.2	1119734	1120564	plus	0		
+312309	Vibrio fischeri ES114	3280889	0	live	VF_A0996	VF_A0996, VFA0996	hypothetical protein			II	NC_006841.2	1120650	1121699	minus	0		
+312309	Vibrio fischeri ES114	3280872	0	live	VF_A1000	VF_A1000, VFA1000	PTS system, N-acetylgalactosamine-specific IIA component			II	NC_006841.2	1124626	1125063	minus	0		
+312309	Vibrio fischeri ES114	3280680	0	live	VF_A1008	VF_A1008, VFA1008, VFA1009	hypothetical protein			II	NC_006841.2	1132693	1133421	plus	0		
+312309	Vibrio fischeri ES114	3280717	0	live	VF_A1010	VF_A1010, VFA1010	beta-hexosaminidase			II	NC_006841.2	1133541	1136201	minus	0		
+312309	Vibrio fischeri ES114	3280938	0	live	VF_A1013	VF_A1013, VFA1013	hypothetical protein			II	NC_006841.2	1138869	1139198	plus	0		
+312309	Vibrio fischeri ES114	3280360	0	live	VF_A1014	VF_A1014, VFA1014	diguanylate phosphodiesterase			II	NC_006841.2	1139269	1140849	minus	0		
+312309	Vibrio fischeri ES114	3280426	0	live	VF_A1016	VF_A1016, VFA1016	two component sensory histidine kinase			II	NC_006841.2	1142230	1144824	plus	0		
+312309	Vibrio fischeri ES114	3280442	0	live	VF_A1017	VF_A1017, VFA1017	two component response regulator			II	NC_006841.2	1144834	1146552	plus	0		
+312309	Vibrio fischeri ES114	3280946	0	live	VF_A1018	VF_A1018, VFA1018	lipoprotein			II	NC_006841.2	1146609	1147112	minus	0		
+312309	Vibrio fischeri ES114	3280951	0	live	VF_A1019	VF_A1019, VFA1019	cytoplasmic protein			II	NC_006841.2	1147075	1149189	minus	0		
+312309	Vibrio fischeri ES114	3280972	0	live	VF_A1038	VF_A1038, VFA1038	diguanylate phosphodiesterase			II	NC_006841.2	1172254	1174146	plus	0		
+312309	Vibrio fischeri ES114	3280973	0	live	VF_A1039	VF_A1039, VFA1039	hypothetical protein			II	NC_006841.2	1174219	1174782	plus	0		
+312309	Vibrio fischeri ES114	3280980	0	live	VF_A1040	VF_A1040, VFA1040	glutaredoxin			II	NC_006841.2	1174823	1175050	plus	0		
+312309	Vibrio fischeri ES114	3280994	0	live	VF_A1041	VF_A1041, VFA1041	protein YgiW precursor			II	NC_006841.2	1175153	1175524	minus	0		
+312309	Vibrio fischeri ES114	3280985	0	live	VF_A1045	VF_A1045, VFA1045	hypothetical protein			II	NC_006841.2	1179843	1180241	minus	0		
+312309	Vibrio fischeri ES114	3280997	0	live	VF_A1047	VF_A1047, VFA1047	magnesium transporter MgtE			II	NC_006841.2	1181533	1182696	plus	0		
+312309	Vibrio fischeri ES114	3280996	0	live	VF_A1048	VF_A1048, VFA1048	LysR family transcriptional regulator			II	NC_006841.2	1182759	1183688	minus	0		
+312309	Vibrio fischeri ES114	3280990	0	live	VF_A1050	VF_A1050, VFA1050	glycine betaine-binding protein			II	NC_006841.2	1184951	1185742	plus	0		
+312309	Vibrio fischeri ES114	3280989	0	live	VF_A1051	VF_A1051, VFA1051	universal stress protein			II	NC_006841.2	1185818	1186663	minus	0		
+312309	Vibrio fischeri ES114	3280998	0	live	VF_A1052	VF_A1052, VFA1052	sulfate transporter			II	NC_006841.2	1186674	1188161	minus	0		
+312309	Vibrio fischeri ES114	3280791	0	live	VF_A1053	VF_A1053, VFA1053	MerR family transcriptional regulator			II	NC_006841.2	1188622	1189143	plus	0		
+312309	Vibrio fischeri ES114	3280797	0	live	VF_A1055	VF_A1055, VFA1055	drug/metabolite exporter family protein			II	NC_006841.2	1189706	1190581	minus	0		
+312309	Vibrio fischeri ES114	3281000	0	live	VF_A1056	VF_A1056, VFA1056	lipoprotein			II	NC_006841.2	1190825	1191214	plus	0		
+312309	Vibrio fischeri ES114	3280999	0	live	VF_A1057	VF_A1057, VFA1057	phosphatase			II	NC_006841.2	1191299	1193161	minus	0		
+312309	Vibrio fischeri ES114	3280893	0	live	VF_A1059	VF_A1059, VFA1059	hypothetical protein			II	NC_006841.2	1193854	1195338	minus	0		
+312309	Vibrio fischeri ES114	3279897	0	live	VF_A1060	VF_A1060, VFA1060	hypothetical protein			II	NC_006841.2	1195357	1196661	minus	0		
+312309	Vibrio fischeri ES114	3280445	0	live	VF_A1061	VF_A1061, VFA1061	LysR family transcriptional regulator			II	NC_006841.2	1196803	1197717	plus	0		
+312309	Vibrio fischeri ES114	3280062	0	live	VF_A1062	VF_A1062, VFA1062	transporter			II	NC_006841.2	1197761	1199035	minus	0		
+312309	Vibrio fischeri ES114	3280367	0	live	VF_A1063	VF_A1063, VFA1063	MarR family transcriptional regulator			II	NC_006841.2	1199301	1199774	plus	0		
+312309	Vibrio fischeri ES114	3280979	0	live	VF_A1064	VF_A1064, VFA1064	transporter			II	NC_006841.2	1199875	1200885	plus	0		
+312309	Vibrio fischeri ES114	3279946	0	live	VF_A1065	VF_A1065, VFA1065	hypothetical protein			II	NC_006841.2	1201057	1202025	minus	0		
+312309	Vibrio fischeri ES114	3280840	0	live	VF_A1066	VF_A1066, VFA1066	LysR family transcriptional regulator			II	NC_006841.2	1202264	1203163	minus	0		
+312309	Vibrio fischeri ES114	3280922	0	live	VF_A1067	VF_A1067, VFA1067	hypothetical protein			II	NC_006841.2	1203292	1203966	plus	0		
+312309	Vibrio fischeri ES114	3280383	0	live	VF_A1069	VF_A1069, VFA1069	methyl-accepting chemotaxis protein			II	NC_006841.2	1205151	1206746	minus	0		
+312309	Vibrio fischeri ES114	3280792	0	live	VF_A1070	VF_A1070, VFA1070	hypothetical protein			II	NC_006841.2	1206786	1207028	minus	0		
+312309	Vibrio fischeri ES114	3279854	0	live	VF_A1071	VF_A1071, VFA1071	methyl-accepting chemotaxis protein, aerotaxis receptor			II	NC_006841.2	1207108	1208637	minus	0		
+312309	Vibrio fischeri ES114	3280595	0	live	VF_A1072	VF_A1072, VFA1072	methyl-accepting chemotaxis protein			II	NC_006841.2	1208933	1210507	plus	0		
+312309	Vibrio fischeri ES114	3280229	0	live	VF_A1073	VF_A1073, VFA1073	methyl-accepting chemotaxis protein			II	NC_006841.2	1210837	1212438	plus	0		
+312309	Vibrio fischeri ES114	3279852	0	live	VF_A1075	VF_A1075, VFA1075	heptosyltransferase			II	NC_006841.2	1213688	1214767	minus	0		
+312309	Vibrio fischeri ES114	3280401	0	live	VF_A1076	VF_A1076, VFA1076	diguanylate phosphodiesterase			II	NC_006841.2	1214785	1215498	minus	0		
+312309	Vibrio fischeri ES114	3279888	0	live	VF_A1077	VF_A1077, VFA1077	RIO1 protein			II	NC_006841.2	1216449	1217306	plus	0		
+312309	Vibrio fischeri ES114	3280108	0	live	VF_A1078	VF_A1078, VFA1078	acetyltransferase/hydrolase family protein			II	NC_006841.2	1217338	1217982	minus	0		
+312309	Vibrio fischeri ES114	3280137	0	live	VF_A1080	VF_A1080, VFA1080	hypothetical protein			II	NC_006841.2	1219279	1220166	minus	0		
+312309	Vibrio fischeri ES114	3280002	0	live	VF_A1081	VF_A1081, VFA1081	hypothetical protein			II	NC_006841.2	1220604	1221212	minus	0		
+312309	Vibrio fischeri ES114	3280526	0	live	VF_A1082	VF_A1082, VFA1082	AraC family transcriptional regulator			II	NC_006841.2	1221421	1222230	plus	0		
+312309	Vibrio fischeri ES114	3279978	0	live	VF_A1083	VF_A1083, VFA1083	hypothetical protein			II	NC_006841.2	1222827	1223417	plus	0		
+312309	Vibrio fischeri ES114	3280131	0	live	VF_A1084	VF_A1084, VFA1084	methyl-accepting chemotaxis protein			II	NC_006841.2	1223893	1225767	plus	0		
+312309	Vibrio fischeri ES114	3279847	0	live	VF_A1085	VF_A1085, VFA1085	hypothetical protein			II	NC_006841.2	1225797	1225967	minus	0		
+312309	Vibrio fischeri ES114	3280103	0	live	VF_A1086	VF_A1086, VFA1086	LysR family transcriptional regulator			II	NC_006841.2	1226101	1226991	plus	0		
+312309	Vibrio fischeri ES114	3280520	0	live	VF_A1087	VF_A1087, VFA1087	ABC transporter substrate-binding protein			II	NC_006841.2	1227451	1228503	plus	0		
+312309	Vibrio fischeri ES114	3279922	0	live	VF_A1088	VF_A1088, VFA1088	hypothetical protein			II	NC_006841.2	1228513	1229328	plus	0		
+312309	Vibrio fischeri ES114	3279903	0	live	VF_A1089	VF_A1089, VFA1089	ABC transporter permease protein			II	NC_006841.2	1229325	1230212	plus	0		
+312309	Vibrio fischeri ES114	3280077	0	live	VF_A1090	VF_A1090, VFA1090	ABC transporter permease protein			II	NC_006841.2	1230199	1230984	plus	0		
+312309	Vibrio fischeri ES114	3280563	0	live	VF_A1092	VF_A1092, VFA1092	hypothetical protein			II	NC_006841.2	1232006	1232671	plus	0		
+312309	Vibrio fischeri ES114	3280145	0	live	VF_A1093	VF_A1093, VFA1093	hypothetical protein			II	NC_006841.2	1232706	1232960	minus	0		
+312309	Vibrio fischeri ES114	3279885	0	live	VF_A1096	VF_A1096, VFA1096	hypothetical protein			II	NC_006841.2	1234669	1236789	minus	0		
+312309	Vibrio fischeri ES114	3280168	0	live	VF_A1097	VF_A1097, VFA1097	hypothetical protein			II	NC_006841.2	1236884	1238701	minus	0		
+312309	Vibrio fischeri ES114	3280120	0	live	VF_A1098	VF_A1098, VFA1098	hypothetical protein			II	NC_006841.2	1238792	1239994	minus	0		
+312309	Vibrio fischeri ES114	3279853	0	live	VF_A1099	VF_A1099, VFA1099	lipoprotein			II	NC_006841.2	1240134	1242011	minus	0		
+312309	Vibrio fischeri ES114	3280034	0	live	VF_A1101	VF_A1101, VFA1101	hypothetical protein			II	NC_006841.2	1243121	1243402	minus	0		
+312309	Vibrio fischeri ES114	3280048	0	live	VF_A1102	VF_A1102, VFA1102	phage integrase family site specific recombinase			II	NC_006841.2	1243849	1244652	minus	0		
+312309	Vibrio fischeri ES114	3280082	0	live	VF_A1103	VF_A1103, VFA1103	multidrug resistance protein A			II	NC_006841.2	1244918	1245928	plus	0		
+312309	Vibrio fischeri ES114	3280878	0	live	VF_A1104	VF_A1104, VFA1104	multidrug resistance protein B			II	NC_006841.2	1245925	1247394	plus	0		
+312309	Vibrio fischeri ES114	3279881	0	live	VF_A1106	VF_A1106, VFA1106	hypothetical protein			II	NC_006841.2	1248597	1248812	plus	0		
+312309	Vibrio fischeri ES114	3280427	0	live	VF_A1107	VF_A1107, VFA1107	mechanosensitive ion channel MscS			II	NC_006841.2	1248864	1250468	minus	0		
+312309	Vibrio fischeri ES114	3280096	0	live	VF_A1108	VF_A1108, VFA1108	hypothetical protein			II	NC_006841.2	1250705	1251226	minus	0		
+312309	Vibrio fischeri ES114	3279944	0	live	VF_A1109	VF_A1109, VFA1109	LysR family transcriptional regulator			II	NC_006841.2	1251403	1252305	plus	0		
+312309	Vibrio fischeri ES114	3280043	0	live	VF_A1110	VF_A1110, VFA1110	hypothetical protein			II	NC_006841.2	1251339	1251440	minus	0		
+312309	Vibrio fischeri ES114	3279879	0	live	VF_A1111	VF_A1111, VFA1111	hypothetical protein			II	NC_006841.2	1252312	1253151	minus	0		
+312309	Vibrio fischeri ES114	3280575	0	live	VF_A1112	VF_A1112, VFA1112	amino acid transporter LysE			II	NC_006841.2	1253243	1253830	minus	0		
+312309	Vibrio fischeri ES114	3280170	0	live	VF_A1113	VF_A1113, VFA1113	AsnC family transcriptional regulator			II	NC_006841.2	1253939	1254382	plus	0		
+312309	Vibrio fischeri ES114	3280210	0	live	VF_A1114	VF_A1114, VFA1114	cobalt-zinc-cadmium resistance protein CzcD			II	NC_006841.2	1254379	1255062	minus	0		
+312309	Vibrio fischeri ES114	3280100	0	live	VF_A1115	VF_A1115, VFA1115	LysR family transcriptional regulator			II	NC_006841.2	1255201	1256085	plus	0		
+312309	Vibrio fischeri ES114	3280192	0	live	VF_A1116	VF_A1116, VFA1116	homoserine/homoserine lactone efflux protein			II	NC_006841.2	1256168	1256809	plus	0		
+312309	Vibrio fischeri ES114	3280206	0	live	VF_A1117	VF_A1117, VFA1117	hypothetical protein			II	NC_006841.2	1256903	1257877	minus	0		
+312309	Vibrio fischeri ES114	3280226	0	live	VF_A1118	VF_A1118, VFA1118	hypothetical protein			II	NC_006841.2	1257892	1258584	minus	0		
+312309	Vibrio fischeri ES114	3280209	0	live	VF_A1119	VF_A1119, VFA1119	hypothetical protein			II	NC_006841.2	1258955	1259386	minus	0		
+312309	Vibrio fischeri ES114	3280216	0	live	VF_A1120	VF_A1120, VFA1120	hydrogenase cytochrome B-type subunit			II	NC_006841.2	1259521	1260159	plus	0		
+312309	Vibrio fischeri ES114	3280240	0	live	VF_A1121	VF_A1121, VFA1121	MarR family transcriptional regulator			II	NC_006841.2	1260165	1260590	plus	0		
+312309	Vibrio fischeri ES114	3280333	0	live	VF_A1125	VF_A1125, VFA1125	aspartate kinase			II	NC_006841.2	1263187	1264614	plus	0		
+312309	Vibrio fischeri ES114	3280698	0	live	VF_A1126	VF_A1126, VFA1126	AraC family transcriptional regulator			II	NC_006841.2	1265068	1265958	plus	0		
+312309	Vibrio fischeri ES114	3280339	0	live	VF_A1127	VF_A1127, VFA1127	hypothetical protein			II	NC_006841.2	1265997	1266260	plus	0		
+312309	Vibrio fischeri ES114	3280344	0	live	VF_A1128	VF_A1128, VFA1128	hypothetical protein			II	NC_006841.2	1266273	1266545	plus	0		
+312309	Vibrio fischeri ES114	3280382	0	live	VF_A1129	VF_A1129, VFA1129	hypothetical protein			II	NC_006841.2	1267088	1278502	minus	0		
+312309	Vibrio fischeri ES114	3280992	0	live	VF_A1130	VF_A1130, VFA1130	hypothetical protein			II	NC_006841.2	1278903	1279721	minus	0		
+312309	Vibrio fischeri ES114	3280593	0	live	VF_A1131	VF_A1131, VFA1131	hypothetical protein			II	NC_006841.2	1279749	1280489	minus	0		
+312309	Vibrio fischeri ES114	3280453	0	live	VF_A1132	VF_A1132, VFA1132	anaerobic glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	1280721	1280999	minus	0		
+312309	Vibrio fischeri ES114	3280392	0	live	VF_A1133	VF_A1133, VFA1133	anaerobic glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	1281031	1281339	minus	0		
+312309	Vibrio fischeri ES114	3280402	0	live	VF_A1134	VF_A1134, VFA1134	anaerobic glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	1281379	1281687	minus	0		
+312309	Vibrio fischeri ES114	3280191	0	live	VF_A1135	VF_A1135, VFA1135	anaerobic glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	1281726	1282004	minus	0		
+312309	Vibrio fischeri ES114	3280461	0	live	VF_A1136	VF_A1136, VFA1136	anaerobic glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	1282037	1282321	minus	0		
+312309	Vibrio fischeri ES114	3280455	0	live	VF_A1137	VF_A1137, VFA1137	anaerobic glycerol-3-phosphate dehydrogenase subunit C			II	NC_006841.2	1282357	1282635	minus	0		
+312309	Vibrio fischeri ES114	3280464	0	live	VF_A1138	VF_A1138, VFA1138	structural protein P5			II	NC_006841.2	1282721	1283296	minus	0		
+312309	Vibrio fischeri ES114	3280479	0	live	VF_A1139	VF_A1139, VFA1139	hypothetical protein			II	NC_006841.2	1283457	1284104	minus	0		
+312309	Vibrio fischeri ES114	3280474	0	live	VF_A1140	VF_A1140, VFA1140	hypothetical protein			II	NC_006841.2	1284336	1284614	plus	0		
+312309	Vibrio fischeri ES114	3280407	0	live	VF_A1141	VF_A1141, VFA1141	hypothetical protein			II	NC_006841.2	1284646	1284921	plus	0		
+312309	Vibrio fischeri ES114	3280385	0	live	VF_A1142	VF_A1142, VFA1142	LysR family transcriptional regulator			II	NC_006841.2	1285199	1286086	minus	0		
+312309	Vibrio fischeri ES114	3280991	0	live	VF_A1143	VF_A1143, VFA1143	hypothetical protein			II	NC_006841.2	1286223	1286693	plus	0		
+312309	Vibrio fischeri ES114	3280481	0	live	VF_A1144	VF_A1144, VFA1144	cytoplasmic protein			II	NC_006841.2	1286763	1287101	minus	0		
+312309	Vibrio fischeri ES114	3280512	0	live	VF_A1145	VF_A1145, VFA1145	hypothetical protein			II	NC_006841.2	1287309	1287788	minus	0		
+312309	Vibrio fischeri ES114	3280560	0	live	VF_A1156	VF_A1156, VFA1156, VFA1157	ATP-dependent DNA helicase RecQ			II	NC_006841.2	1297723	1299639	plus	0		
+312309	Vibrio fischeri ES114	3279962	0	live	VF_A1158	VF_A1158, VFA1158	cytoplasmic protein			II	NC_006841.2	1299749	1301389	plus	0		
+312309	Vibrio fischeri ES114	3280685	0	live	VF_A1163	VF_A1163, VFA1163	hypothetical protein			II	NC_006841.2	1316865	1318181	plus	0		
+312309	Vibrio fischeri ES114	3280748	0	live	VF_A1164	VF_A1164, VFA1164	porin			II	NC_006841.2	1318184	1318792	plus	0		
+312309	Vibrio fischeri ES114	3280362	0	live	VF_A1166	VF_A1166, VFA1166	GGDEF/EAL domain-containing protein			II	NC_006841.2	1320980	1322905	minus	0		
+312309	Vibrio fischeri ES114	3280897	0	live	VF_A1167	VF_A1167, VFA1167	hypothetical protein			II	NC_006841.2	1322912	1323577	minus	0		
+312309	Vibrio fischeri ES114	3280251	0	live	VF_A1170	VF_A1170, VFA1170	hypothetical protein			II	NC_006841.2	1327466	1328038	plus	0		
+312309	Vibrio fischeri ES114	3280894	0	live	VF_A1171	VF_A1171, VFA1171	ParB family protein			II	NC_006841.2	1328112	1329086	minus	0		
+312309	Vibrio fischeri ES114	3280874	0	live	VF_A1172	VF_A1172, VFA1172	ParA family protein			II	NC_006841.2	1329090	1330325	minus	0		
+312309	Vibrio fischeri ES114	6175921	0	live	VF_A1173	VF_A1173	hypothetical protein			II	NC_006841.2	22002	22154	minus	0		
+312309	Vibrio fischeri ES114	6175918	0	live	VF_A1174	VF_A1174	hypothetical protein			II	NC_006841.2	22298	22528	minus	0		
+312309	Vibrio fischeri ES114	6175897	0	live	VF_A1175	VF_A1175	hypothetical protein			II	NC_006841.2	22845	23030	plus	0		
+312309	Vibrio fischeri ES114	6175907	0	live	VF_A1176	VF_A1176	hypothetical protein			II	NC_006841.2	41984	42070	plus	0		
+312309	Vibrio fischeri ES114	6175908	0	live	VF_A1177	VF_A1177	hypothetical protein			II	NC_006841.2	128249	128371	plus	0		
+312309	Vibrio fischeri ES114	6175928	0	live	VF_A1178	VF_A1178	hypothetical protein			II	NC_006841.2	238234	238623	minus	0		
+312309	Vibrio fischeri ES114	6175902	0	live	VF_A1179	VF_A1179	hypothetical protein			II	NC_006841.2	243017	243451	plus	0		
+312309	Vibrio fischeri ES114	6175914	0	live	VF_A1180	VF_A1180	hypothetical protein			II	NC_006841.2	431076	431252	plus	0		
+312309	Vibrio fischeri ES114	6175927	0	live	VF_A1181	VF_A1181	hypothetical protein			II	NC_006841.2	482242	482394	minus	0		
+312309	Vibrio fischeri ES114	6175932	0	live	VF_A1185	VF_A1185	hypothetical protein			II	NC_006841.2	666012	666290	plus	0		
+312309	Vibrio fischeri ES114	6175933	0	live	VF_A1186	VF_A1186	hypothetical protein			II	NC_006841.2	666343	666492	minus	0		
+312309	Vibrio fischeri ES114	6175934	0	live	VF_A1187	VF_A1187	hypothetical protein			II	NC_006841.2	707120	707374	minus	0		
+312309	Vibrio fischeri ES114	6175898	0	live	VF_A1188	VF_A1188	hypothetical protein			II	NC_006841.2	794188	794340	minus	0		
+312309	Vibrio fischeri ES114	6175900	0	live	VF_A1190	VF_A1190	hypothetical protein			II	NC_006841.2	930385	930618	minus	0		
+312309	Vibrio fischeri ES114	6175911	0	live	VF_A1191	VF_A1191	hypothetical protein			II	NC_006841.2	1005327	1005530	plus	0		
+312309	Vibrio fischeri ES114	6175913	0	live	VF_A1192	VF_A1192	hypothetical protein			II	NC_006841.2	1024004	1025056	plus	0		
+312309	Vibrio fischeri ES114	6175915	0	live	VF_A1193	VF_A1193	hypothetical protein			II	NC_006841.2	1036014	1036274	minus	0		
+312309	Vibrio fischeri ES114	6175930	0	live	VF_A1195	VF_A1195	hypothetical protein			II	NC_006841.2	1227036	1227122	minus	0		
+312309	Vibrio fischeri ES114	6175912	0	live	VF_A1196	VF_A1196	hypothetical protein			II	NC_006841.2	1266631	1266828	plus	0		
+312309	Vibrio fischeri ES114	6175919	0	live	VF_AR0001	VF_AR0001, VFAR0001	16S ribosomal RNA			II	NC_006841.2	475304	476855	plus	0		
+312309	Vibrio fischeri ES114	6175924	0	live	VF_AR0002	VF_AR0002, VFAR0002	23S ribosomal RNA			II	NC_006841.2	477648	480538	plus	0		
+312309	Vibrio fischeri ES114	6175925	0	live	VF_AR0003	VF_AR0003, VFAR0003	5S ribosomal RNA			II	NC_006841.2	480667	480787	plus	0		
+312309	Vibrio fischeri ES114	6175905	0	live	VF_AT0001	VF_AT0001, VFAT0001	tRNA			II	NC_006841.2	307510	307586	minus	0		
+312309	Vibrio fischeri ES114	6175910	0	live	VF_AT0002	VF_AT0002, VFAT0002	tRNA			II	NC_006841.2	307626	307716	minus	0		
+312309	Vibrio fischeri ES114	6175917	0	live	VF_AT0003	VF_AT0003, VFAT0003	tRNA			II	NC_006841.2	466720	466794	plus	0		
+312309	Vibrio fischeri ES114	6175920	0	live	VF_AT0004	VF_AT0004, VFAT0004	tRNA			II	NC_006841.2	476943	477018	plus	0		
+312309	Vibrio fischeri ES114	6175922	0	live	VF_AT0005	VF_AT0005, VFAT0005	tRNA			II	NC_006841.2	477021	477096	plus	0		
+312309	Vibrio fischeri ES114	6175923	0	live	VF_AT0006	VF_AT0006, VFAT0006	tRNA			II	NC_006841.2	477158	477233	plus	0		
+312309	Vibrio fischeri ES114	6175926	0	live	VF_AT0007	VF_AT0007, VFAT0007	tRNA			II	NC_006841.2	480848	480924	plus	0		
+312309	Vibrio fischeri ES114	6175935	0	live	VF_AT0008	VF_AT0008, VFAT0008	tRNA			II	NC_006841.2	807715	807789	minus	0		
+312309	Vibrio fischeri ES114	6175901	0	live	VF_AT0009	VF_AT0009, VFAT0009	tRNA			II	NC_006841.2	1137327	1137402	minus	0		
+312309	Vibrio fischeri ES114	6175916	0	live	VF_AT0010	VF_AT0010, VFAT0010	tRNA			II	NC_006841.2	1137431	1137506	minus	0		
+312309	Vibrio fischeri ES114	6175899	0	live	VF_AT0011	VF_AT0011, VFAT0011	tRNA			II	NC_006841.2	1137554	1137644	minus	0		
+312309	Vibrio fischeri ES114	3280337	0	live	vmrA	VF_A0916, VFA0916	multidrug efflux pump VmrA			II	NC_006841.2	1040298	1041668	minus	0		
+312309	Vibrio fischeri ES114	3280600	0	live	yaeJ	VF_A1155, VFA1155	peptidyl-tRNA hydrolase domain protein			II	NC_006841.2	1297310	1297723	plus	0		
+312309	Vibrio fischeri ES114	3280964	0	live	yagK	VF_A0515, VFA0515	prophage protein			II	NC_006841.2	590932	591585	plus	0		
+312309	Vibrio fischeri ES114	3280929	0	live	yaiL	VF_A0295, VFA0295	nucleoprotein/polynucleotide-associated enzyme			II	NC_006841.2	326176	326694	minus	0		
+312309	Vibrio fischeri ES114	3280984	0	live	ybbA	VF_A1043, VFA1043	ABC transporter ATP-binding protein			II	NC_006841.2	1178333	1179010	minus	0		
+312309	Vibrio fischeri ES114	3280645	0	live	ybbM	VF_A0835, VFA0835	hypothetical protein			II	NC_006841.2	940344	941132	plus	0		
+312309	Vibrio fischeri ES114	3280982	0	live	ybbP	VF_A1042, VFA1042	hypothetical protein			II	NC_006841.2	1175872	1178331	minus	0		
+312309	Vibrio fischeri ES114	3280468	0	live	ybcF	VF_A1146, VFA1146	carbamate kinase			II	NC_006841.2	1288237	1289220	plus	0		
+312309	Vibrio fischeri ES114	3280909	0	live	ybdG	VF_A0372, VFA0372	mechanosensitive ion channel MscS			II	NC_006841.2	418805	420064	plus	0		
+312309	Vibrio fischeri ES114	3280259	0	live	ybgA	VF_A0752, VFA0752	hypothetical protein			II	NC_006841.2	849209	850153	plus	0		
+312309	Vibrio fischeri ES114	3280495	0	live	ybgH	VF_A0123, VFA0123	transporter			II	NC_006841.2	139144	140610	plus	0		
+312309	Vibrio fischeri ES114	3280050	0	live	ybhB	VF_A0932, VFA0932	kinase inhibitor			II	NC_006841.2	1055100	1055618	minus	0		
+312309	Vibrio fischeri ES114	3280500	0	live	ybhF	VF_A0111, VFA0111	ABC transporter ATP-binding protein			II	NC_006841.2	125775	126701	plus	0		
+312309	Vibrio fischeri ES114	3279843	0	live	ybhG	VF_A0110, VFA0110	membrane fusion protein (MFP) component of efflux pump, membrane anchor			II	NC_006841.2	124820	125770	plus	0		
+312309	Vibrio fischeri ES114	3280482	0	live	ybhS	VF_A0112, VFA0112	ABC transporter membrane protein			II	NC_006841.2	126698	127798	plus	0		
+312309	Vibrio fischeri ES114	3280484	0	live	ybiI	VF_A0740, VFA0740	hypothetical protein			II	NC_006841.2	836414	836683	minus	0		
+312309	Vibrio fischeri ES114	3280574	0	live	ybiN	VF_A1153, VFA1153	SAM-dependent methyltransferase			II	NC_006841.2	1295795	1296754	minus	0		
+312309	Vibrio fischeri ES114	3279985	0	live	ybiT	VF_A0787, VFA0787	ABC transporter ATP-binding protein			II	NC_006841.2	883000	884571	minus	0		
+312309	Vibrio fischeri ES114	3280443	0	live	ybiV	VF_A1147, VFA1147	hydrolase			II	NC_006841.2	1289296	1290093	minus	0		
+312309	Vibrio fischeri ES114	3280261	0	live	ybjD	VF_A0395, VFA0395	hypothetical protein			II	NC_006841.2	446935	448569	minus	0		
+312309	Vibrio fischeri ES114	3280815	0	live	ycaI	VF_A0423, VFA0423	recombination protein			II	NC_006841.2	483181	485484	plus	0		
+312309	Vibrio fischeri ES114	3280343	0	live	ycbC	VF_A0428, VFA0428	hypothetical protein			II	NC_006841.2	489252	490115	minus	0		
+312309	Vibrio fischeri ES114	3280419	0	live	ycbX	VF_A0264, VFA0264	2Fe-2S cluster-containing protein			II	NC_006841.2	295353	296564	minus	0		
+312309	Vibrio fischeri ES114	3280589	0	live	ycdX	VF_A0774, VFA0774	hydrolase			II	NC_006841.2	868162	868908	plus	0		
+312309	Vibrio fischeri ES114	3280699	0	live	ycdZ	VF_A1011, VFA1011	hypothetical protein			II	NC_006841.2	1136705	1137184	plus	0		
+312309	Vibrio fischeri ES114	3280039	0	live	yceH	VF_A0604, VFA0604	hypothetical protein			II	NC_006841.2	684680	685333	minus	0		
+312309	Vibrio fischeri ES114	3280522	0	live	yceM	VF_A0116, VFA0116	oxidoreductase			II	NC_006841.2	131303	132232	plus	0		
+312309	Vibrio fischeri ES114	3280069	0	live	yciH	VF_A0573, VFA0573	translation initiation factor Sui1			II	NC_006841.2	657877	658188	plus	0		
+312309	Vibrio fischeri ES114	3280118	0	live	ycjF	VF_A0315, VFA0315	hypothetical protein			II	NC_006841.2	348961	349986	plus	0		
+312309	Vibrio fischeri ES114	3280111	0	live	ycjX	VF_A0314, VFA0314	hypothetical protein			II	NC_006841.2	347567	348964	plus	0		
+312309	Vibrio fischeri ES114	3280144	0	live	ycjZ	VF_A1148, VFA1148	LysR family transcriptional regulator			II	NC_006841.2	1290190	1291152	minus	0		
+312309	Vibrio fischeri ES114	3280228	0	live	ydaM	VF_A0567, VFA0567	GGDEF domain-containing protein			II	NC_006841.2	649637	651601	plus	0		
+312309	Vibrio fischeri ES114	3280672	0	live	ydcR	VF_A0852, VFA0852	fused DNA-binding transcriptional regulator/ amino transferase			II	NC_006841.2	961400	962554	plus	0		
+312309	Vibrio fischeri ES114	3280931	0	live	ydeE	VF_A0206, VFA0206	transporter			II	NC_006841.2	227737	228987	plus	0		
+312309	Vibrio fischeri ES114	3280749	0	live	ydeH	VF_A1012, VFA1012	two component response regulator protein			II	NC_006841.2	1137803	1138702	minus	0		
+312309	Vibrio fischeri ES114	3280715	0	live	ydeN	VF_A0992, VFA0992	hypothetical protein			II	NC_006841.2	1114064	1115677	minus	0		
+312309	Vibrio fischeri ES114	3280779	0	live	ydfG	VF_A0052, VFA0052	L-allo-threonine dehydrogenase, NAD(P)-binding			II	NC_006841.2	56237	56956	minus	0		
+312309	Vibrio fischeri ES114	3280454	0	live	ydhB	VF_A1160, VFA1160	DNA-binding transcriptional regulator			II	NC_006841.2	1302791	1303699	plus	0		
+312309	Vibrio fischeri ES114	3280015	0	live	ydhC	VF_A1159, VFA1159	inner membrane transport protein YdhC			II	NC_006841.2	1301467	1302660	minus	0		
+312309	Vibrio fischeri ES114	3280696	0	live	ydhF	VF_A0411, VFA0411	oxidoreductase			II	NC_006841.2	464061	464975	plus	0		
+312309	Vibrio fischeri ES114	3280734	0	live	ydiI	VF_A0666, VFA0666	hypothetical protein			II	NC_006841.2	737031	737456	minus	0		
+312309	Vibrio fischeri ES114	3279932	0	live	ydiK	VF_A1079, VFA1079	hypothetical protein			II	NC_006841.2	1218104	1219192	minus	0		
+312309	Vibrio fischeri ES114	3279959	0	live	ydjX	VF_A0098, VFA0098	hypothetical protein			II	NC_006841.2	109929	110606	minus	0		
+312309	Vibrio fischeri ES114	3281004	0	live	yeaM	VF_A0255, VFA0255	DNA-binding transcriptional regulator			II	NC_006841.2	286358	287146	plus	0		
+312309	Vibrio fischeri ES114	3279889	0	live	yedI	VF_A0268, VFA0268	hypothetical protein			II	NC_006841.2	299582	300490	plus	0		
+312309	Vibrio fischeri ES114	3280416	0	live	yeeN	VF_A0150, VFA0150	hypothetical protein			II	NC_006841.2	165913	166635	plus	0		
+312309	Vibrio fischeri ES114	3280839	0	live	yeiH	VF_A0205, VFA0205	hypothetical protein			II	NC_006841.2	226529	227506	minus	0		
+312309	Vibrio fischeri ES114	3279945	0	live	yeiT	VF_A0100, VFA0100	oxidoreductase			II	NC_006841.2	111392	113188	minus	0		
+312309	Vibrio fischeri ES114	3280692	0	live	yfhD	VF_A0984, VFA0984	transglycosylase			II	NC_006841.2	1103475	1104932	plus	0		
+312309	Vibrio fischeri ES114	3279877	0	live	yfiQ	VF_A0568, VFA0568	fused acyl-CoA synthetase: NAD(P)-binding subunit/ATP-binding subunit			II	NC_006841.2	651891	654569	minus	0		
+312309	Vibrio fischeri ES114	3280396	0	live	ygbA	VF_A0934, VFA0934	hypothetical protein			II	NC_006841.2	1056449	1056838	plus	0		
+312309	Vibrio fischeri ES114	3279938	0	live	ygcF	VF_A0495, VFA0495	hypothetical protein			II	NC_006841.2	570044	570724	minus	0		
+312309	Vibrio fischeri ES114	3280661	0	live	ygeA	VF_A0624, VFA0624	racemase			II	NC_006841.2	703278	703982	minus	0		
+312309	Vibrio fischeri ES114	3279958	0	live	ygfQ	VF_A0093, VFA0093	transporter			II	NC_006841.2	104153	105523	plus	0		
+312309	Vibrio fischeri ES114	3280832	0	live	yggD	VF_A0063, VFA0063	DNA-binding transcriptional regulator			II	NC_006841.2	68908	69426	plus	0		
+312309	Vibrio fischeri ES114	3280848	0	live	yggP	VF_A0062, VFA0062	dehydrogenase			II	NC_006841.2	67578	68849	plus	0		
+312309	Vibrio fischeri ES114	3280630	0	live	yghU	VF_A0849, VFA0849	glutathione S-transferase YghU			II	NC_006841.2	958565	959425	minus	0		
+312309	Vibrio fischeri ES114	3280429	0	live	ygjH	VF_A0362, VFA0362	hypothetical protein			II	NC_006841.2	407971	408303	plus	0		
+312309	Vibrio fischeri ES114	3279975	0	live	ygjI	VF_A0345, VFA0345	transporter			II	NC_006841.2	383125	384555	minus	0		
+312309	Vibrio fischeri ES114	3280886	0	live	ygjJ	VF_A0339, VFA0339	hypothetical protein			II	NC_006841.2	375263	376258	minus	0		
+312309	Vibrio fischeri ES114	3280472	0	live	ygjP	VF_A0145, VFA0145	metal dependent hydrolase			II	NC_006841.2	163454	163945	plus	0		
+312309	Vibrio fischeri ES114	3279839	0	live	yhbQ	VF_A0603, VFA0603	endonuclease			II	NC_006841.2	684396	684680	minus	0		
+312309	Vibrio fischeri ES114	3280460	0	live	yhhY	VF_A0739, VFA0739	acetyltransferase			II	NC_006841.2	835843	836337	plus	0		
+312309	Vibrio fischeri ES114	3279926	0	live	yhjX	VF_A0611, VFA0611	transporter			II	NC_006841.2	689520	690758	plus	0		
+312309	Vibrio fischeri ES114	3280492	0	live	yiaD	VF_A0328, VFA0328	outer membrane lipoprotein			II	NC_006841.2	361620	362288	minus	0		
+312309	Vibrio fischeri ES114	3280862	0	live	yiaV	VF_A0379, VFA0379	membrane fusion protein (MFP) component of efflux pump, signal anchor			II	NC_006841.2	428255	429385	minus	0		
+312309	Vibrio fischeri ES114	3280273	0	live	yiaW	VF_A0380, VFA0380	hypothetical protein			II	NC_006841.2	429385	429765	minus	0		
+312309	Vibrio fischeri ES114	3279924	0	live	yibL	VF_A1154, VFA1154	hypothetical protein			II	NC_006841.2	1296867	1297223	minus	0		
+312309	Vibrio fischeri ES114	3280808	0	live	yidA	VF_A0956, VFA0956	hydrolase			II	NC_006841.2	1074755	1075576	plus	0		
+312309	Vibrio fischeri ES114	3280618	0	live	yidJ	VF_A1007, VFA1007	sulfatase/phosphatase			II	NC_006841.2	1131057	1132613	plus	0		
+312309	Vibrio fischeri ES114	3280449	0	live	yidK	VF_A0351, VFA0351	transporter			II	NC_006841.2	392512	394143	minus	0		
+312309	Vibrio fischeri ES114	3280081	0	live	yieM	VF_A0499, VFA0499	hypothetical protein			II	NC_006841.2	575155	576603	plus	0		
+312309	Vibrio fischeri ES114	3280790	0	live	yihN	VF_A0957, VFA0957	transporter			II	NC_006841.2	1075667	1076965	minus	0		
+312309	Vibrio fischeri ES114	3280056	0	live	yijO	VF_A0708, VFA0708	DNA-binding transcriptional regulator			II	NC_006841.2	793340	794197	minus	0		
+312309	Vibrio fischeri ES114	3280957	0	live	yjaB	VF_A1054, VFA1054	acetyltransferase			II	NC_006841.2	1189221	1189652	minus	0		
+312309	Vibrio fischeri ES114	3280093	0	live	yjcS	VF_A0035, VFA0035	alkyl sulfatase			II	NC_006841.2	36247	38268	plus	0		
+312309	Vibrio fischeri ES114	3280656	0	live	yjgK	VF_A0892, VFA0892	hypothetical protein			II	NC_006841.2	1011436	1011906	minus	0		
+312309	Vibrio fischeri ES114	3280620	0	live	yjiG	VF_A0929, VFA0929	hypothetical protein			II	NC_006841.2	1052585	1053052	plus	0		
+312309	Vibrio fischeri ES114	3280707	0	live	yjiH	VF_A0928, VFA0928	hypothetical protein			II	NC_006841.2	1051848	1052585	plus	0		
+312309	Vibrio fischeri ES114	3280418	0	live	yjjG	VF_A0293, VFA0293	nucleotidase			II	NC_006841.2	325234	325914	plus	0		
+312309	Vibrio fischeri ES114	3280349	0	live	yjjI	VF_A0961, VFA0961	hypothetical protein			II	NC_006841.2	1081519	1083045	plus	0		
+312309	Vibrio fischeri ES114	3280744	0	live	yjjW	VF_A0962, VFA0962	pyruvate formate lyase activating enzyme			II	NC_006841.2	1083054	1083965	plus	0		
+312309	Vibrio fischeri ES114	3280649	0	live	ynaI	VF_A0405, VFA0405	hypothetical protein			II	NC_006841.2	460264	461337	minus	0		
+312309	Vibrio fischeri ES114	3279865	0	live	ynfG	VF_A0081, VFA0081	oxidoreductase, Fe-S subunit			II	NC_006841.2	87272	87886	minus	0		
+312309	Vibrio fischeri ES114	3280737	0	live	ynfM	VF_A0977, VFA0977	transporter			II	NC_006841.2	1097990	1099198	minus	0		
+312309	Vibrio fischeri ES114	3280122	0	live	ynjB	VF_A0097, VFA0097	ABC transporter solute-binding protein			II	NC_006841.2	108543	109688	minus	0		
+312309	Vibrio fischeri ES114	3280040	0	live	ynjD	VF_A0095, VFA0095	ABC transporter ATP-binding protein			II	NC_006841.2	106203	106850	minus	0		
+312309	Vibrio fischeri ES114	3280035	0	live	ynjF	VF_A0094, VFA0094	phosphatidyl transferase, inner membrane protein			II	NC_006841.2	105602	106210	minus	0		
+312309	Vibrio fischeri ES114	3280746	0	live	yoaB	VF_A0002, VFA0002	hypothetical protein			II	NC_006841.2	3388	3735	plus	0		
+312309	Vibrio fischeri ES114	3280654	0	live	ypeB	VF_A0409, VFA0409	hypothetical protein			II	NC_006841.2	463190	463411	plus	0		
+312309	Vibrio fischeri ES114	3280896	0	live	ypfI	VF_A1169, VFA1169	hydrolase			II	NC_006841.2	1325198	1327327	minus	0		
+312309	Vibrio fischeri ES114	3280422	0	live	yqjA	VF_A0471, VFA0471	hypothetical protein			II	NC_006841.2	542082	542747	minus	0		
+312309	Vibrio fischeri ES114	3280121	0	live	yraR	VF_A0104, VFA0104	nucleoside-diphosphate-sugar epimerase			II	NC_006841.2	117031	117705	plus	0		
+312309	Vibrio fischeri ES114	3280813	0	live	ytfL	VF_A0914, VFA0914	hypothetical protein			II	NC_006841.2	1038152	1039396	minus	0		
+312309	Vibrio fischeri ES114	3280459	0	live	zot	VF_A0576, VFA0576	zona occludens toxin			II	NC_006841.2	659901	661085	minus	0		
+312309	Vibrio fischeri ES114	3280207	0	live	zwf	VF_A0468, VFA0468	glucose-6-phosphate 1-dehydrogenase			II	NC_006841.2	538302	539804	plus	0		
