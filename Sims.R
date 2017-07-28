@@ -3,7 +3,7 @@
 # Creating a simulated genome with insertions #
 # Simulated insertion locations from a runif  #
 # with the max and min as the beginning & end #
-# of the chromosome				    #
+# of the chromosome			      #
 ###############################################
 Simbin_counter<- function(data, binwidths, Length){
 	BinResults<-list() #Stores final results for all binwidths
@@ -24,13 +24,13 @@ return(BinResults)
 } #End of function
 
 #############################################################################################
-# Function that replicates the simulation a specified number of times 				  #
+# Function that replicates the simulation a specified number of times 			    #
 # element: comes from the bin_calculator function -- ONLY input the bin width you want!     #
-# elem_length: length of the chromosome/plasmid in bp 						  #
+# elem_length: length of the chromosome/plasmid in bp					    #
 # binwidth: the specified bin width; should be equal to the binwidth of the actual provided #
-# numreps: how many replicates										  #
-# numActual: number of insertions in the chromosome/plasmid						  #
-# plotTitle: name of the title when it's output as a png						  #
+# numreps: how many replicates								    #
+# numActual: number of insertions in the chromosome/plasmid				    #
+# plotTitle: name of the title when it's output as a png				    #
 #############################################################################################
 new_sim<-function(element, elem_length, binwidth, numreps=1000, NumActual, plotTitle, CSVname){
 	SignifBins<-NULL
